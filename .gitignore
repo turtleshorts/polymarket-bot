@@ -1,0 +1,19 @@
+# Secrets — never commit
+.env
+*.key
+*.pem
+
+# Python environment — too large, not needed
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# NOTE: logs/ is intentionally tracked so the remote monitoring agent can read it

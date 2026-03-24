@@ -1,0 +1,46 @@
+======================================================
+  PSYCO CAPITAL — DAILY BOT SUMMARY
+  Date: 2026-03-24  |  Generated: 21:06 CET
+======================================================
+
+BOT STATUS:
+  Stopped  (last exit code: 0)
+
+MARKETS SCANNED TODAY:
+  Cycles completed: 9
+  Total flagged for research: 78
+
+PAPER TRADES TODAY (mode=dry):
+  No paper trades placed today
+
+SIMULATED P&L (all-time, paper trades):
+  Settled: 0  (0W / 0L)  |  Open: 0
+  Total wagered:    $0.00
+  Net P&L:          $+0.00
+  Open exposure:    $0.00
+  No settled trades yet — bot is still in early scanning phase
+
+API COSTS:
+  Today:     $0.1170  (daily limit $50.00)
+  All-time:  $0.1170
+
+ERRORS TODAY:
+  2026-03-24 20:13:49,258 [ERROR] No model votes received
+  2026-03-24 20:16:29,182 [ERROR] Claude call failed: Expecting value: line 1 column 1 (char 0)
+  2026-03-24 20:16:29,182 [ERROR] No model votes received
+  2026-03-24 20:19:19,284 [ERROR] Cycle error: No module named 'scripts'
+  2026-03-24 20:24:19,370 [ERROR] Cycle error: No module named 'scripts'
+  2026-03-24 20:29:19,377 [ERROR] Cycle error: No module named 'scripts'
+  2026-03-24 20:34:19,516 [ERROR] Cycle error: No module named 'scripts'
+  2026-03-24 20:39:19,601 [ERROR] Cycle error: No module named 'scripts'
+  2026-03-24 20:44:19,694 [ERROR] Cycle error: No module named 'scripts'
+  2026-03-24 20:49:19,791 [ERROR] Cycle error: No module named 'scripts'
+
+LAST 5 LOG LINES:
+  2026-03-24 21:06:22,560 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+  2026-03-24 21:06:22,628 [INFO]   Researching: Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?...
+  2026-03-24 21:06:22,786 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+  2026-03-24 21:06:24,001 [INFO]   Researching: Will Luka Doncic win the 2025–2026 NBA MVP?...
+  2026-03-24 21:06:24,371 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+
+======================================================

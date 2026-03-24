@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Polymarket Trading Bot — macOS Launch Agent
+  Install to: ~/Library/LaunchAgents/com.psyco.polytrader.plist
+  
+  Commands:
+    Load (start on boot + now):  launchctl load ~/Library/LaunchAgents/com.psyco.polytrader.plist
+    Unload (stop + disable):     launchctl unload ~/Library/LaunchAgents/com.psyco.polytrader.plist
+    Check status:                launchctl list | grep polytrader
+    
+  IMPORTANT: Edit WorkingDirectory and ProgramArguments paths before loading.
+  Replace /Users/YOUR_USERNAME with your actual home directory.
+-->
+<plist version="1.0">
+<dict>
+  <!-- Unique identifier for this daemon -->
+  <key>Label</key>
+  <string>com.psyco.polytrader</string>
+
+  <!-- The command to run -->
+  <key>ProgramArguments</key>
+  <array>
+    <!-- Use your venv python — get path with: source venv/bin/activate && which python -->
+    <string>/Users/YOUR_USERNAME/polymarket-trader/venv/bin/python</string>
+    <string>scripts/run_bot.py</string>
+    <string>--mode</string>
+    <string>live</string>
+  </array>
+
+  <!-- Working directory (must contain config.json) -->
+  <key>WorkingDirectory</key>
+  <string>/Users/YOUR_USERNAME/polymarket-trader</string>
+
+  <!-- Keep alive — restart if it crashes -->
+  <key>KeepAlive</key>
+  <true/>
+
+  <!-- Start immediately when loaded -->
+  <key>RunAtLoad</key>
+  <true/>
+
+  <!-- Log stdout and stderr -->
+  <key>StandardOutPath</key>
+  <string>/Users/YOUR_USERNAME/polymarket-trader/logs/launchd.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/YOUR_USERNAME/polymarket-trader/logs/launchd-error.log</string>
+
+  <!-- Environment variables — secrets loaded from .env via python-dotenv -->
+  <!-- Do NOT put private keys here. Use .env file loaded in Python. -->
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    <key>HOME</key>
+    <string>/Users/YOUR_USERNAME</string>
+  </dict>
+
+  <!-- Throttle restart to avoid tight crash loops (30 second min) -->
+  <key>ThrottleInterval</key>
+  <integer>30</integer>
+
+  <!-- Prevent Mac sleep from killing the process -->
+  <key>ProcessType</key>
+  <string>Background</string>
+</dict>
+</plist>

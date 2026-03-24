@@ -1,0 +1,78 @@
+{
+  "_comment": "Polymarket + Kalshi Crypto Trading Bot — Psyco Capital",
+  "_warning": "Set initial_dry_run_hours to 48 minimum before going live. Never exceed max_bet_usd_hard_cap on a $500-2000 bankroll.",
+
+  "bot": {
+    "cycle_seconds": 1800,
+    "confidence_threshold": 0.60,
+    "min_edge": 0.04,
+    "initial_dry_run_hours": 0,
+    "consecutive_loss_pause_count": 3,
+    "loss_cooldown_seconds": 21600,
+    "kill_switch_file": "STOP"
+  },
+
+  "scanner": {
+    "min_liquidity_usd": 5000,
+    "min_volume_24h": 100,
+    "min_contracts": 50,
+    "max_spread_pct": 0.15,
+    "price_move_threshold": 0.05,
+    "volume_spike_multiplier": 2.0,
+    "max_days_to_resolution": 180,
+    "max_markets_per_cycle": 10,
+    "exchanges": ["polymarket"]
+  },
+
+  "research": {
+    "max_parallel": 5
+  },
+
+  "prediction": {
+    "models": {
+      "grok":    { "enabled": false, "weight": 0.30, "role": "primary_forecaster" },
+      "claude":  { "enabled": true,  "weight": 0.20, "role": "news_analyst" },
+      "gpt4o":   { "enabled": false, "weight": 0.20, "role": "bull_advocate" },
+      "gemini":  { "enabled": false, "weight": 0.15, "role": "bear_advocate" },
+      "deepseek":{ "enabled": false, "weight": 0.15, "role": "risk_manager" }
+    },
+    "_note": "Set enabled=true and add API keys in .env as you get access to each model"
+  },
+
+  "risk": {
+    "bankroll_usd": 1000,
+    "max_bet_fraction": 0.25,
+    "max_single_position_pct": 0.05,
+    "max_bet_usd_hard_cap": 50,
+    "min_bet_usd": 5,
+    "max_total_exposure_fraction": 0.15,
+    "max_concurrent_positions": 15,
+    "max_drawdown_pct": 0.08,
+    "daily_loss_limit_pct": 0.15,
+    "var_confidence": 0.95,
+    "var_daily_limit_pct": 0.05,
+    "max_daily_api_cost_usd": 50,
+    "slippage_abort_pct": 0.02
+  },
+
+  "performance": {
+    "target_win_rate": 0.60,
+    "target_sharpe": 2.0,
+    "target_profit_factor": 1.5,
+    "target_brier_score": 0.25
+  },
+
+  "wallet": {
+    "address": "SET_IN_ENV_FILE"
+  },
+
+  "apis": {
+    "cryptopanic_key": "SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC",
+    "anthropic_key": "SET_IN_ENV_FILE"
+  },
+
+  "notifications": {
+    "enabled": false,
+    "method": "log_only"
+  }
+}

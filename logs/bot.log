@@ -1,0 +1,939 @@
+2026-03-24 13:46:42,306 [WARNING] Initial dry-run lockout active. 23h remaining. Forcing dry mode.
+2026-03-24 13:46:42,307 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-24 13:46:42,307 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 144, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 71, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 13:46:42,307 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 13:51:42,311 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 144, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 71, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 13:51:42,313 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 13:56:42,313 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 144, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 71, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 13:56:42,315 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 14:11:44,005 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 144, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 71, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 14:11:44,007 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 14:46:50,935 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 144, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 71, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 14:46:50,938 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 15:21:58,151 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 144, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 71, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 15:21:58,153 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 15:42:54,702 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 144, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 71, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 15:42:54,704 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 15:47:28,612 [WARNING] Initial dry-run lockout active. 21h remaining. Forcing dry mode.
+2026-03-24 15:47:28,612 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-24 15:47:28,612 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 144, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 71, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 15:47:28,612 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 16:08:32,933 [WARNING] Initial dry-run lockout active. 21h remaining. Forcing dry mode.
+2026-03-24 16:08:32,934 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-24 16:08:33,888 [INFO] === Cycle start | mode=dry | 2026-03-24T15:08:33.888494 ===
+2026-03-24 16:08:33,888 [INFO] Agent 1: Scanning markets...
+2026-03-24 16:08:33,888 [INFO] Fetching Polymarket markets...
+2026-03-24 16:08:34,118 [INFO]   Fetched 300 total markets
+2026-03-24 16:08:34,121 [INFO]   300 crypto/finance markets found
+2026-03-24 16:08:34,122 [INFO]   Scanner flagged 0 markets for research
+2026-03-24 16:08:34,123 [INFO]   → 0 markets flagged
+2026-03-24 16:08:34,123 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-24 16:08:34,123 [INFO] --once flag set. Exiting after single cycle.
+2026-03-24 16:34:43,101 [WARNING] Initial dry-run lockout active. 21h remaining. Forcing dry mode.
+2026-03-24 16:34:43,102 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-24 16:34:43,102 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 144, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 71, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 16:34:43,102 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 16:50:39,138 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-24 16:50:39,415 [INFO] === Cycle start | mode=dry | 2026-03-24T15:50:39.415266 ===
+2026-03-24 16:50:39,415 [INFO] Agent 1: Scanning markets...
+2026-03-24 16:50:39,415 [INFO] Fetching Polymarket markets...
+2026-03-24 16:50:39,671 [INFO]   Fetched 300 total markets
+2026-03-24 16:50:39,673 [INFO]   300 crypto/finance markets found
+2026-03-24 16:50:39,673 [INFO]   Scanner flagged 0 markets for research
+2026-03-24 16:50:39,674 [INFO]   → 0 markets flagged
+2026-03-24 16:50:39,674 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-24 16:50:39,674 [INFO] --once flag set. Exiting after single cycle.
+2026-03-24 20:09:16,879 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-24 20:09:16,881 [ERROR] Cycle error: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 144, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 71, in run_cycle
+    from scripts.scanner import run_scanner
+  File "/Users/elysmith/polymarket-trader/scripts/scanner.py", line 10, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+2026-03-24 20:09:16,881 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 20:10:22,416 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-24 20:10:22,686 [INFO] === Cycle start | mode=dry | 2026-03-24T19:10:22.686329 ===
+2026-03-24 20:10:22,686 [INFO] Agent 1: Scanning markets...
+2026-03-24 20:10:22,686 [INFO] Fetching Polymarket markets...
+2026-03-24 20:10:22,886 [INFO]   Fetched 300 total markets
+2026-03-24 20:10:22,888 [INFO]   300 crypto/finance markets found
+2026-03-24 20:10:22,889 [INFO]   Scanner flagged 0 markets for research
+2026-03-24 20:10:22,889 [INFO]   → 0 markets flagged
+2026-03-24 20:10:22,889 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-24 20:10:22,889 [INFO] --once flag set. Exiting after single cycle.
+2026-03-24 20:12:20,378 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-24 20:12:20,607 [INFO] === Cycle start | mode=dry | 2026-03-24T19:12:20.607033 ===
+2026-03-24 20:12:20,607 [INFO] Agent 1: Scanning markets...
+2026-03-24 20:12:20,607 [INFO] Fetching Polymarket markets...
+2026-03-24 20:12:20,816 [INFO]   Fetched 300 total markets
+2026-03-24 20:12:20,819 [INFO]   300 crypto/finance markets found
+2026-03-24 20:12:20,819 [INFO]   Scanner flagged 0 markets for research
+2026-03-24 20:12:20,820 [INFO]   → 0 markets flagged
+2026-03-24 20:12:20,820 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-24 20:12:20,820 [INFO] --once flag set. Exiting after single cycle.
+2026-03-24 20:13:46,858 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-24 20:13:47,105 [INFO] === Cycle start | mode=dry | 2026-03-24T19:13:47.105058 ===
+2026-03-24 20:13:47,105 [INFO] Agent 1: Scanning markets...
+2026-03-24 20:13:47,105 [INFO] Fetching Polymarket markets...
+2026-03-24 20:13:47,275 [INFO]   Fetched 300 total markets
+2026-03-24 20:13:47,277 [INFO]   300 crypto/finance markets found
+2026-03-24 20:13:47,277 [INFO]   Scanner flagged 1 markets for research
+2026-03-24 20:13:47,278 [INFO]   → 1 markets flagged
+2026-03-24 20:13:47,278 [INFO] Agent 2: Running parallel research...
+2026-03-24 20:13:47,278 [INFO]   Researching: BitBoy convicted?...
+2026-03-24 20:13:47,496 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 20:13:49,258 [INFO]   → Research complete on 1 markets
+2026-03-24 20:13:49,258 [INFO] Agent 3: Calibrating probabilities...
+2026-03-24 20:13:49,258 [ERROR] No model votes received
+2026-03-24 20:13:49,258 [INFO]   [FAIL] BitBoy convicted? | edge=0.00% conf=0% models=0
+2026-03-24 20:13:49,258 [INFO]   → 0/1 markets passed confidence threshold
+2026-03-24 20:13:49,258 [INFO] No markets passed calibration. Done for this cycle.
+2026-03-24 20:13:49,258 [INFO] --once flag set. Exiting after single cycle.
+2026-03-24 20:16:23,483 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-24 20:16:23,729 [INFO] === Cycle start | mode=dry | 2026-03-24T19:16:23.729467 ===
+2026-03-24 20:16:23,729 [INFO] Agent 1: Scanning markets...
+2026-03-24 20:16:23,729 [INFO] Fetching Polymarket markets...
+2026-03-24 20:16:23,897 [INFO]   Fetched 300 total markets
+2026-03-24 20:16:23,899 [INFO]   300 crypto/finance markets found
+2026-03-24 20:16:23,899 [INFO]   Scanner flagged 1 markets for research
+2026-03-24 20:16:23,900 [INFO]   → 1 markets flagged
+2026-03-24 20:16:23,900 [INFO] Agent 2: Running parallel research...
+2026-03-24 20:16:23,900 [INFO]   Researching: BitBoy convicted?...
+2026-03-24 20:16:24,062 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 20:16:25,641 [INFO]   → Research complete on 1 markets
+2026-03-24 20:16:25,641 [INFO] Agent 3: Calibrating probabilities...
+2026-03-24 20:16:29,157 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 20:16:29,182 [ERROR] Claude call failed: Expecting value: line 1 column 1 (char 0)
+2026-03-24 20:16:29,182 [ERROR] No model votes received
+2026-03-24 20:16:29,182 [INFO]   [FAIL] BitBoy convicted? | edge=0.00% conf=0% models=0
+2026-03-24 20:16:29,182 [INFO]   → 0/1 markets passed confidence threshold
+2026-03-24 20:16:29,182 [INFO] No markets passed calibration. Done for this cycle.
+2026-03-24 20:16:29,182 [INFO] --once flag set. Exiting after single cycle.
+2026-03-24 20:17:18,867 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-24 20:17:19,033 [INFO] === Cycle start | mode=dry | 2026-03-24T19:17:19.033788 ===
+2026-03-24 20:17:19,034 [INFO] Agent 1: Scanning markets...
+2026-03-24 20:17:19,034 [INFO] Fetching Polymarket markets...
+2026-03-24 20:17:19,232 [INFO]   Fetched 300 total markets
+2026-03-24 20:17:19,234 [INFO]   300 crypto/finance markets found
+2026-03-24 20:17:19,235 [INFO]   Scanner flagged 1 markets for research
+2026-03-24 20:17:19,236 [INFO]   → 1 markets flagged
+2026-03-24 20:17:19,236 [INFO] Agent 2: Running parallel research...
+2026-03-24 20:17:19,236 [INFO]   Researching: BitBoy convicted?...
+2026-03-24 20:17:19,401 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 20:17:21,106 [INFO]   → Research complete on 1 markets
+2026-03-24 20:17:21,106 [INFO] Agent 3: Calibrating probabilities...
+2026-03-24 20:17:25,470 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 20:17:25,495 [INFO]   [FAIL] BitBoy convicted? | edge=-0.10% conf=35% models=1
+2026-03-24 20:17:25,495 [INFO]   → 0/1 markets passed confidence threshold
+2026-03-24 20:17:25,495 [INFO] No markets passed calibration. Done for this cycle.
+2026-03-24 20:17:25,495 [INFO] --once flag set. Exiting after single cycle.
+2026-03-24 20:19:19,284 [INFO] Polymarket Bot starting | mode=live | cycle=1800s
+2026-03-24 20:19:19,284 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 146, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 73, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 20:19:19,286 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 20:24:19,370 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 146, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 73, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 20:24:19,373 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 20:29:19,377 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 146, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 73, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 20:29:19,380 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 20:34:19,516 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 146, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 73, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 20:34:19,519 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 20:39:19,601 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 146, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 73, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 20:39:19,603 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 20:44:19,694 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 146, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 73, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 20:44:19,697 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 20:49:19,791 [ERROR] Cycle error: No module named 'scripts'
+Traceback (most recent call last):
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 146, in main
+    run_cycle(cfg, mode=args.mode)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/elysmith/polymarket-trader/scripts/run_bot.py", line 73, in run_cycle
+    from scripts.scanner import run_scanner
+ModuleNotFoundError: No module named 'scripts'
+2026-03-24 20:49:19,795 [INFO] Sleeping 5 minutes before retry...
+2026-03-24 21:01:25,204 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-24 21:01:26,219 [INFO] === Cycle start | mode=dry | 2026-03-24T20:01:26.218197 ===
+2026-03-24 21:01:26,219 [INFO] Agent 1: Scanning markets...
+2026-03-24 21:01:26,219 [INFO] Fetching Polymarket markets...
+2026-03-24 21:01:26,903 [INFO]   Fetched 300 total markets
+2026-03-24 21:01:26,907 [INFO]   300 crypto/finance markets found
+2026-03-24 21:01:26,908 [INFO]   Scanner flagged 38 markets for research
+2026-03-24 21:01:26,910 [INFO]   → 38 markets flagged
+2026-03-24 21:01:26,910 [INFO] Agent 2: Running parallel research...
+2026-03-24 21:01:26,911 [INFO]   Researching: BitBoy convicted?...
+2026-03-24 21:01:26,911 [INFO]   Researching: Russia-Ukraine Ceasefire before GTA VI?...
+2026-03-24 21:01:26,911 [INFO]   Researching: New Playboi Carti Album before GTA VI?...
+2026-03-24 21:01:26,911 [INFO]   Researching: New Rihanna Album before GTA VI?...
+2026-03-24 21:01:26,912 [INFO]   Researching: Will Jesus Christ return before GTA VI?...
+2026-03-24 21:01:27,107 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:27,135 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:27,158 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:27,161 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:27,929 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:28,779 [INFO]   Researching: Trump out as President before GTA VI?...
+2026-03-24 21:01:28,993 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:29,163 [INFO]   Researching: Will China invades Taiwan before GTA VI?...
+2026-03-24 21:01:29,372 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:29,542 [INFO]   Researching: Will bitcoin hit $1m before GTA VI?...
+2026-03-24 21:01:29,778 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:30,112 [INFO]   Researching: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?...
+2026-03-24 21:01:30,320 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:30,463 [INFO]   Researching: Will the Edmonton Oilers win the 2026 NHL Stanley Cup?...
+2026-03-24 21:01:30,609 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:32,384 [INFO]   Researching: Will the Dallas Stars win the 2026 NHL Stanley Cup?...
+2026-03-24 21:01:32,535 [INFO]   Researching: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?...
+2026-03-24 21:01:32,606 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:32,670 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:32,931 [INFO]   Researching: Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?...
+2026-03-24 21:01:33,078 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:33,243 [INFO]   Researching: Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?...
+2026-03-24 21:01:33,422 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:34,045 [INFO]   Researching: Will the Buffalo Sabres win the 2026 NHL Stanley Cup?...
+2026-03-24 21:01:34,263 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:35,133 [INFO]   Researching: Will the Oklahoma City Thunder win the 2026 NBA Finals?...
+2026-03-24 21:01:35,313 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:35,462 [INFO]   Researching: Will the Cleveland Cavaliers win the 2026 NBA Finals?...
+2026-03-24 21:01:35,633 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:36,083 [INFO]   Researching: Will the Boston Celtics win the 2026 NBA Finals?...
+2026-03-24 21:01:36,244 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:36,267 [INFO]   Researching: Will the Denver Nuggets win the 2026 NBA Finals?...
+2026-03-24 21:01:36,428 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:36,594 [INFO]   Researching: Will the San Antonio Spurs win the 2026 NBA Finals?...
+2026-03-24 21:01:36,752 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:37,559 [INFO]   Researching: Will Spain win the 2026 FIFA World Cup?...
+2026-03-24 21:01:37,707 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:37,848 [INFO]   Researching: Will England win the 2026 FIFA World Cup?...
+2026-03-24 21:01:37,988 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:38,519 [INFO]   Researching: Will France win the 2026 FIFA World Cup?...
+2026-03-24 21:01:38,552 [INFO]   Researching: Will Brazil win the 2026 FIFA World Cup?...
+2026-03-24 21:01:38,664 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:38,672 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:39,389 [INFO]   Researching: Will Argentina win the 2026 FIFA World Cup?...
+2026-03-24 21:01:39,534 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:40,002 [INFO]   Researching: Will Germany win the 2026 FIFA World Cup?...
+2026-03-24 21:01:40,145 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:40,671 [INFO]   Researching: Will Portugal win the 2026 FIFA World Cup?...
+2026-03-24 21:01:40,678 [INFO]   Researching: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year awa...
+2026-03-24 21:01:40,800 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:40,828 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:40,903 [INFO]   Researching: Will Ken Paxton win the 2026 Texas Republican Primary?...
+2026-03-24 21:01:41,091 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:41,214 [INFO]   Researching: Will John Cornyn win the 2026 Texas Republican Primary?...
+2026-03-24 21:01:41,262 [INFO]   Researching: SCOTUS accepts sports event contract case by July 31, 2026? ...
+2026-03-24 21:01:41,368 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:41,381 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:41,523 [INFO]   Researching: Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?...
+2026-03-24 21:01:41,579 [INFO]   Researching: Will Luka Doncic win the 2025–2026 NBA MVP?...
+2026-03-24 21:01:41,671 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:41,699 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:42,109 [INFO]   Researching: Will Victor Wembanyama win the 2025–2026 NBA MVP?...
+2026-03-24 21:01:42,123 [INFO]   Researching: Will the Cleveland Cavaliers win the NBA Eastern Conference ...
+2026-03-24 21:01:42,239 [INFO]   Researching: Will the New York Knicks win the NBA Eastern Conference Fina...
+2026-03-24 21:01:42,240 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:42,240 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:42,408 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:42,419 [INFO]   Researching: Will the Detroit Pistons win the NBA Eastern Conference Fina...
+2026-03-24 21:01:42,447 [INFO]   Researching: Will the Boston Celtics win the NBA Eastern Conference Final...
+2026-03-24 21:01:42,588 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:43,097 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:01:44,199 [INFO]   → Research complete on 38 markets
+2026-03-24 21:01:44,199 [INFO] Agent 3: Calibrating probabilities...
+2026-03-24 21:01:47,625 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:01:47,659 [INFO]   [FAIL] New Rihanna Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-24 21:01:51,063 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:01:51,066 [INFO]   [FAIL] Russia-Ukraine Ceasefire before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-24 21:01:55,880 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:01:55,882 [INFO]   [FAIL] BitBoy convicted? | edge=0.20% conf=35% models=1
+2026-03-24 21:02:01,345 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:02:01,358 [INFO]   [PASS] Will Jesus Christ return before GTA VI? | edge=47.00% conf=95% models=1
+2026-03-24 21:02:04,420 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:02:04,421 [INFO]   [FAIL] New Playboi Carti Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-24 21:02:07,861 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:02:07,864 [INFO]   [FAIL] Will China invades Taiwan before GTA VI? | edge=4.00% conf=35% models=1
+2026-03-24 21:02:11,540 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:02:11,549 [INFO]   [FAIL] Trump out as President before GTA VI? | edge=-1.00% conf=35% models=1
+2026-03-24 21:02:15,644 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:02:15,658 [INFO]   [FAIL] Will the Carolina Hurricanes win the 2026 NHL Stan | edge=0.00% conf=65% models=1
+2026-03-24 21:02:19,711 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:02:19,713 [INFO]   [FAIL] Will the Edmonton Oilers win the 2026 NHL Stanley  | edge=0.00% conf=65% models=1
+2026-03-24 21:02:24,467 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:02:24,480 [INFO]   [FAIL] Will bitcoin hit $1m before GTA VI? | edge=3.80% conf=35% models=1
+2026-03-24 21:02:29,680 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:02:29,684 [INFO]   [FAIL] Will the Dallas Stars win the 2026 NHL Stanley Cup | edge=-0.40% conf=65% models=1
+2026-03-24 21:02:35,400 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:02:35,402 [INFO]   [FAIL] Will the Colorado Avalanche win the 2026 NHL Stanl | edge=-0.30% conf=35% models=1
+2026-03-24 21:02:38,153 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:02:38,169 [INFO]   [FAIL] Will the Vegas Golden Knights win the 2026 NHL Sta | edge=0.00% conf=75% models=1
+2026-03-24 21:02:41,865 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:02:41,867 [INFO]   [FAIL] Will the Tampa Bay Lightning win the 2026 NHL Stan | edge=0.10% conf=35% models=1
+2026-03-24 21:02:46,905 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:02:46,917 [INFO]   [FAIL] Will the Buffalo Sabres win the 2026 NHL Stanley C | edge=-0.40% conf=75% models=1
+2026-03-24 21:02:49,859 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:02:49,878 [INFO]   [FAIL] Will the Oklahoma City Thunder win the 2026 NBA Fi | edge=0.00% conf=25% models=1
+2026-03-24 21:02:54,217 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:02:54,229 [INFO]   [FAIL] Will the Cleveland Cavaliers win the 2026 NBA Fina | edge=0.00% conf=70% models=1
+2026-03-24 21:02:58,158 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:02:58,170 [INFO]   [FAIL] Will the Denver Nuggets win the 2026 NBA Finals? | edge=0.00% conf=35% models=1
+2026-03-24 21:03:01,769 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:03:01,782 [INFO]   [FAIL] Will the Boston Celtics win the 2026 NBA Finals? | edge=0.20% conf=35% models=1
+2026-03-24 21:03:05,825 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:03:05,828 [INFO]   [FAIL] Will the San Antonio Spurs win the 2026 NBA Finals | edge=0.50% conf=85% models=1
+2026-03-24 21:03:10,778 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:03:10,789 [INFO]   [FAIL] Will Spain win the 2026 FIFA World Cup? | edge=-0.50% conf=65% models=1
+2026-03-24 21:03:14,703 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:03:14,718 [INFO]   [FAIL] Will England win the 2026 FIFA World Cup? | edge=0.00% conf=65% models=1
+2026-03-24 21:03:17,807 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:03:17,809 [INFO]   [FAIL] Will Brazil win the 2026 FIFA World Cup? | edge=-0.20% conf=75% models=1
+2026-03-24 21:03:21,344 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:03:21,359 [INFO]   [FAIL] Will France win the 2026 FIFA World Cup? | edge=-0.30% conf=65% models=1
+2026-03-24 21:03:25,524 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:03:25,526 [INFO]   [FAIL] Will Argentina win the 2026 FIFA World Cup? | edge=0.10% conf=75% models=1
+2026-03-24 21:03:29,779 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:03:29,781 [INFO]   [FAIL] Will Germany win the 2026 FIFA World Cup? | edge=0.30% conf=75% models=1
+2026-03-24 21:03:34,814 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:03:34,816 [INFO]   [FAIL] Will Cooper Flagg win the 2025–26 NBA Rookie of th | edge=0.00% conf=25% models=1
+2026-03-24 21:03:40,035 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:03:40,037 [INFO]   [FAIL] Will Portugal win the 2026 FIFA World Cup? | edge=-0.20% conf=82% models=1
+2026-03-24 21:03:44,019 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:03:44,020 [INFO]   [FAIL] Will John Cornyn win the 2026 Texas Republican Pri | edge=0.00% conf=25% models=1
+2026-03-24 21:03:48,533 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:03:48,535 [INFO]   [FAIL] SCOTUS accepts sports event contract case by July  | edge=0.00% conf=35% models=1
+2026-03-24 21:03:51,902 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:03:51,918 [INFO]   [FAIL] Will Ken Paxton win the 2026 Texas Republican Prim | edge=0.00% conf=25% models=1
+2026-03-24 21:03:55,813 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:03:55,816 [INFO]   [FAIL] Will Shai Gilgeous-Alexander win the 2025–2026 NBA | edge=0.00% conf=25% models=1
+2026-03-24 21:03:59,520 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:03:59,522 [INFO]   [FAIL] Will Luka Doncic win the 2025–2026 NBA MVP? | edge=0.30% conf=35% models=1
+2026-03-24 21:04:03,892 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:04:03,907 [INFO]   [FAIL] Will the Cleveland Cavaliers win the NBA Eastern C | edge=0.00% conf=35% models=1
+2026-03-24 21:04:07,192 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:04:07,194 [INFO]   [FAIL] Will Victor Wembanyama win the 2025–2026 NBA MVP? | edge=-0.30% conf=30% models=1
+2026-03-24 21:04:10,834 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:04:10,835 [INFO]   [FAIL] Will the New York Knicks win the NBA Eastern Confe | edge=0.00% conf=35% models=1
+2026-03-24 21:04:14,356 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:04:14,359 [INFO]   [PASS] Will the Detroit Pistons win the NBA Eastern Confe | edge=10.00% conf=92% models=1
+2026-03-24 21:04:18,329 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:04:18,332 [INFO]   [FAIL] Will the Boston Celtics win the NBA Eastern Confer | edge=-0.30% conf=25% models=1
+2026-03-24 21:04:18,332 [INFO]   → 2/38 markets passed confidence threshold
+2026-03-24 21:04:18,333 [INFO] Agent 4: Risk/sizing (0 currently open)...
+2026-03-24 21:04:18,632 [WARNING] Could not fetch live balance, using config value: 404 Client Error: Not Found for url: https://clob.polymarket.com/balance?wallet=0x2d6F988aa17A58F9aF439Ea60DdC72852E9639c0
+2026-03-24 21:04:18,634 [INFO]   BLOCKED: Bet $0.00 below minimum $5
+2026-03-24 21:04:18,837 [WARNING] Could not fetch live balance, using config value: 404 Client Error: Not Found for url: https://clob.polymarket.com/balance?wallet=0x2d6F988aa17A58F9aF439Ea60DdC72852E9639c0
+2026-03-24 21:04:18,840 [INFO]   BLOCKED: Bet $0.00 below minimum $5
+2026-03-24 21:04:18,841 [INFO] === Cycle complete ===
+
+2026-03-24 21:04:18,841 [INFO] Sleeping 1800s until next cycle...
+2026-03-24 21:06:12,466 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-24 21:06:13,337 [INFO] === Cycle start | mode=dry | 2026-03-24T20:06:13.336864 ===
+2026-03-24 21:06:13,338 [INFO] Agent 1: Scanning markets...
+2026-03-24 21:06:13,338 [INFO] Fetching Polymarket markets...
+2026-03-24 21:06:13,744 [INFO]   Fetched 300 total markets
+2026-03-24 21:06:13,747 [INFO]   300 crypto/finance markets found
+2026-03-24 21:06:13,748 [INFO]   Scanner flagged 37 markets for research
+2026-03-24 21:06:13,750 [INFO]   → 37 markets flagged
+2026-03-24 21:06:13,750 [INFO] Agent 2: Running parallel research...
+2026-03-24 21:06:13,751 [INFO]   Researching: BitBoy convicted?...
+2026-03-24 21:06:13,751 [INFO]   Researching: New Rihanna Album before GTA VI?...
+2026-03-24 21:06:13,751 [INFO]   Researching: New Playboi Carti Album before GTA VI?...
+2026-03-24 21:06:13,751 [INFO]   Researching: Russia-Ukraine Ceasefire before GTA VI?...
+2026-03-24 21:06:13,752 [INFO]   Researching: Will Jesus Christ return before GTA VI?...
+2026-03-24 21:06:13,970 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:13,980 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:14,043 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:14,513 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:15,016 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:15,272 [INFO]   Researching: Trump out as President before GTA VI?...
+2026-03-24 21:06:15,281 [INFO]   Researching: Will China invades Taiwan before GTA VI?...
+2026-03-24 21:06:15,302 [INFO]   Researching: Will bitcoin hit $1m before GTA VI?...
+2026-03-24 21:06:15,484 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:15,534 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:15,610 [INFO]   Researching: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?...
+2026-03-24 21:06:15,950 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:16,051 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:16,274 [INFO]   Researching: Will the Edmonton Oilers win the 2026 NHL Stanley Cup?...
+2026-03-24 21:06:16,685 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:16,851 [INFO]   Researching: Will the Dallas Stars win the 2026 NHL Stanley Cup?...
+2026-03-24 21:06:17,177 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:17,404 [INFO]   Researching: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?...
+2026-03-24 21:06:17,606 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:17,634 [INFO]   Researching: Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?...
+2026-03-24 21:06:17,839 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:17,845 [INFO]   Researching: Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?...
+2026-03-24 21:06:18,189 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:18,227 [INFO]   Researching: Will the Buffalo Sabres win the 2026 NHL Stanley Cup?...
+2026-03-24 21:06:18,406 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:18,639 [INFO]   Researching: Will the Oklahoma City Thunder win the 2026 NBA Finals?...
+2026-03-24 21:06:18,641 [INFO]   Researching: Will the Boston Celtics win the 2026 NBA Finals?...
+2026-03-24 21:06:18,813 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:18,864 [INFO]   Researching: Will the Denver Nuggets win the 2026 NBA Finals?...
+2026-03-24 21:06:19,440 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:19,466 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:19,563 [INFO]   Researching: Will the San Antonio Spurs win the 2026 NBA Finals?...
+2026-03-24 21:06:19,756 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:19,784 [INFO]   Researching: Will Spain win the 2026 FIFA World Cup?...
+2026-03-24 21:06:19,972 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:20,065 [INFO]   Researching: Will England win the 2026 FIFA World Cup?...
+2026-03-24 21:06:20,261 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:20,268 [INFO]   Researching: Will France win the 2026 FIFA World Cup?...
+2026-03-24 21:06:20,475 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:20,781 [INFO]   Researching: Will Brazil win the 2026 FIFA World Cup?...
+2026-03-24 21:06:20,783 [INFO]   Researching: Will Argentina win the 2026 FIFA World Cup?...
+2026-03-24 21:06:20,848 [INFO]   Researching: Will Germany win the 2026 FIFA World Cup?...
+2026-03-24 21:06:20,978 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:21,026 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:21,390 [INFO]   Researching: Will Portugal win the 2026 FIFA World Cup?...
+2026-03-24 21:06:21,467 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:21,564 [INFO]   Researching: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year awa...
+2026-03-24 21:06:21,579 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:21,729 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:21,906 [INFO]   Researching: Will Ken Paxton win the 2026 Texas Republican Primary?...
+2026-03-24 21:06:22,018 [INFO]   Researching: Will John Cornyn win the 2026 Texas Republican Primary?...
+2026-03-24 21:06:22,083 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:22,228 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:22,340 [INFO]   Researching: SCOTUS accepts sports event contract case by July 31, 2026? ...
+2026-03-24 21:06:22,560 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:22,628 [INFO]   Researching: Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?...
+2026-03-24 21:06:22,786 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:24,001 [INFO]   Researching: Will Luka Doncic win the 2025–2026 NBA MVP?...
+2026-03-24 21:06:24,371 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:38,404 [INFO]   Researching: Will Victor Wembanyama win the 2025–2026 NBA MVP?...
+2026-03-24 21:06:38,611 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:39,206 [INFO]   Researching: Will the Cleveland Cavaliers win the NBA Eastern Conference ...
+2026-03-24 21:06:39,366 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:40,153 [INFO]   Researching: Will the New York Knicks win the NBA Eastern Conference Fina...
+2026-03-24 21:06:40,313 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:40,322 [INFO]   Researching: Will the Detroit Pistons win the NBA Eastern Conference Fina...
+2026-03-24 21:06:40,488 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:41,268 [INFO]   Researching: Will the Boston Celtics win the NBA Eastern Conference Final...
+2026-03-24 21:06:41,439 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:06:58,885 [INFO]   → Research complete on 37 markets
+2026-03-24 21:06:58,885 [INFO] Agent 3: Calibrating probabilities...
+2026-03-24 21:07:01,791 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:07:01,829 [INFO]   [FAIL] BitBoy convicted? | edge=0.20% conf=35% models=1
+2026-03-24 21:07:05,453 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:07:05,455 [INFO]   [PASS] Will Jesus Christ return before GTA VI? | edge=46.00% conf=85% models=1
+2026-03-24 21:07:08,890 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:07:08,893 [INFO]   [FAIL] New Playboi Carti Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-24 21:07:13,023 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:07:13,025 [INFO]   [FAIL] New Rihanna Album before GTA VI? | edge=0.00% conf=35% models=1
+2026-03-24 21:07:17,542 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:07:17,558 [INFO]   [FAIL] Russia-Ukraine Ceasefire before GTA VI? | edge=0.00% conf=35% models=1
+2026-03-24 21:07:21,304 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:07:21,306 [INFO]   [FAIL] Will China invades Taiwan before GTA VI? | edge=4.00% conf=35% models=1
+2026-03-24 21:07:25,668 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:07:25,679 [INFO]   [FAIL] Trump out as President before GTA VI? | edge=-1.00% conf=35% models=1
+2026-03-24 21:07:29,618 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:07:29,620 [INFO]   [FAIL] Will the Carolina Hurricanes win the 2026 NHL Stan | edge=0.00% conf=75% models=1
+2026-03-24 21:07:33,885 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:07:33,897 [INFO]   [FAIL] Will the Edmonton Oilers win the 2026 NHL Stanley  | edge=0.00% conf=65% models=1
+2026-03-24 21:07:38,938 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:07:38,940 [INFO]   [FAIL] Will the Dallas Stars win the 2026 NHL Stanley Cup | edge=-0.40% conf=65% models=1
+2026-03-24 21:07:43,640 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:07:43,642 [INFO]   [FAIL] Will the Colorado Avalanche win the 2026 NHL Stanl | edge=-0.30% conf=35% models=1
+2026-03-24 21:07:48,209 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:07:48,220 [INFO]   [FAIL] Will bitcoin hit $1m before GTA VI? | edge=3.80% conf=35% models=1
+2026-03-24 21:07:51,935 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:07:51,937 [INFO]   [FAIL] Will the Vegas Golden Knights win the 2026 NHL Sta | edge=0.00% conf=75% models=1
+2026-03-24 21:07:55,375 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:07:55,388 [INFO]   [FAIL] Will the Tampa Bay Lightning win the 2026 NHL Stan | edge=0.20% conf=35% models=1
+2026-03-24 21:07:58,400 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:07:58,405 [INFO]   [FAIL] Will the Buffalo Sabres win the 2026 NHL Stanley C | edge=-0.40% conf=75% models=1
+2026-03-24 21:08:02,078 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:08:02,079 [INFO]   [FAIL] Will the Boston Celtics win the 2026 NBA Finals? | edge=0.50% conf=35% models=1
+2026-03-24 21:08:06,232 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:08:06,245 [INFO]   [FAIL] Will the Denver Nuggets win the 2026 NBA Finals? | edge=0.00% conf=65% models=1
+2026-03-24 21:08:10,807 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:08:10,809 [INFO]   [FAIL] Will the Oklahoma City Thunder win the 2026 NBA Fi | edge=0.00% conf=25% models=1
+2026-03-24 21:08:16,113 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:08:16,116 [INFO]   [FAIL] Will Spain win the 2026 FIFA World Cup? | edge=-0.50% conf=65% models=1
+2026-03-24 21:08:21,267 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:08:21,278 [INFO]   [FAIL] Will the San Antonio Spurs win the 2026 NBA Finals | edge=0.50% conf=75% models=1
+2026-03-24 21:08:25,371 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:08:25,387 [INFO]   [FAIL] Will England win the 2026 FIFA World Cup? | edge=-0.30% conf=65% models=1
+2026-03-24 21:08:29,720 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:08:29,722 [INFO]   [FAIL] Will France win the 2026 FIFA World Cup? | edge=0.50% conf=65% models=1
+2026-03-24 21:08:33,209 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:08:33,218 [INFO]   [FAIL] Will Brazil win the 2026 FIFA World Cup? | edge=-0.20% conf=75% models=1
+2026-03-24 21:08:37,521 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:08:37,539 [INFO]   [FAIL] Will Germany win the 2026 FIFA World Cup? | edge=0.10% conf=75% models=1
+2026-03-24 21:08:41,491 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:08:41,492 [INFO]   [FAIL] Will Argentina win the 2026 FIFA World Cup? | edge=0.10% conf=75% models=1
+2026-03-24 21:08:45,701 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:08:45,702 [INFO]   [FAIL] Will Cooper Flagg win the 2025–26 NBA Rookie of th | edge=0.00% conf=25% models=1
+2026-03-24 21:08:50,472 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:08:50,474 [INFO]   [FAIL] SCOTUS accepts sports event contract case by July  | edge=0.00% conf=35% models=1
+2026-03-24 21:08:55,011 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:08:55,012 [INFO]   [FAIL] Will Portugal win the 2026 FIFA World Cup? | edge=-0.20% conf=85% models=1
+2026-03-24 21:08:58,424 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:08:58,439 [INFO]   [FAIL] Will John Cornyn win the 2026 Texas Republican Pri | edge=0.00% conf=25% models=1
+2026-03-24 21:09:01,326 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:09:01,328 [INFO]   [FAIL] Will the Cleveland Cavaliers win the NBA Eastern C | edge=0.00% conf=35% models=1
+2026-03-24 21:09:05,071 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:09:05,088 [INFO]   [FAIL] Will Shai Gilgeous-Alexander win the 2025–2026 NBA | edge=0.00% conf=25% models=1
+2026-03-24 21:09:07,894 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:09:07,907 [INFO]   [FAIL] Will the New York Knicks win the NBA Eastern Confe | edge=0.00% conf=35% models=1
+2026-03-24 21:09:11,361 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:09:11,364 [INFO]   [PASS] Will the Detroit Pistons win the NBA Eastern Confe | edge=10.00% conf=85% models=1
+2026-03-24 21:09:16,327 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:09:16,329 [INFO]   [FAIL] Will Luka Doncic win the 2025–2026 NBA MVP? | edge=0.30% conf=30% models=1
+2026-03-24 21:09:20,315 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:09:20,317 [INFO]   [FAIL] Will Ken Paxton win the 2026 Texas Republican Prim | edge=0.00% conf=25% models=1
+2026-03-24 21:09:23,485 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:09:23,487 [INFO]   [FAIL] Will Victor Wembanyama win the 2025–2026 NBA MVP? | edge=-0.30% conf=30% models=1
+2026-03-24 21:09:27,871 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:09:27,888 [INFO]   [FAIL] Will the Boston Celtics win the NBA Eastern Confer | edge=-0.30% conf=25% models=1
+2026-03-24 21:09:27,888 [INFO]   → 2/37 markets passed confidence threshold
+2026-03-24 21:09:27,888 [INFO] Agent 4: Risk/sizing (0 currently open)...
+2026-03-24 21:09:28,075 [WARNING] Could not fetch live balance, using config value: 404 Client Error: Not Found for url: https://clob.polymarket.com/balance?wallet=0x2d6F988aa17A58F9aF439Ea60DdC72852E9639c0
+2026-03-24 21:09:28,078 [INFO]   BLOCKED: VaR $82.25 exceeds daily limit $50.00
+2026-03-24 21:09:28,306 [WARNING] Could not fetch live balance, using config value: 404 Client Error: Not Found for url: https://clob.polymarket.com/balance?wallet=0x2d6F988aa17A58F9aF439Ea60DdC72852E9639c0
+2026-03-24 21:09:28,308 [INFO]   BLOCKED: VaR $82.25 exceeds daily limit $50.00
+2026-03-24 21:09:28,309 [INFO] === Cycle complete ===
+
+2026-03-24 21:09:28,309 [INFO] Sleeping 1800s until next cycle...
+2026-03-24 21:12:47,071 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-24 21:12:47,918 [INFO] === Cycle start | mode=dry | 2026-03-24T20:12:47.917722 ===
+2026-03-24 21:12:47,918 [INFO] Agent 1: Scanning markets...
+2026-03-24 21:12:47,918 [INFO] Fetching Polymarket markets...
+2026-03-24 21:12:48,513 [INFO]   Fetched 300 total markets
+2026-03-24 21:12:48,516 [INFO]   300 crypto/finance markets found
+2026-03-24 21:12:48,518 [INFO]   Scanner flagged 38 markets for research
+2026-03-24 21:12:48,520 [INFO]   → 38 markets flagged
+2026-03-24 21:12:48,520 [INFO] Agent 2: Running parallel research...
+2026-03-24 21:12:48,521 [INFO]   Researching: BitBoy convicted?...
+2026-03-24 21:12:48,521 [INFO]   Researching: New Rihanna Album before GTA VI?...
+2026-03-24 21:12:48,521 [INFO]   Researching: Russia-Ukraine Ceasefire before GTA VI?...
+2026-03-24 21:12:48,522 [INFO]   Researching: New Playboi Carti Album before GTA VI?...
+2026-03-24 21:12:48,522 [INFO]   Researching: Will Jesus Christ return before GTA VI?...
+2026-03-24 21:12:48,728 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:12:48,737 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:12:48,738 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:12:48,749 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:12:49,251 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:12:49,956 [INFO]   Researching: Trump out as President before GTA VI?...
+2026-03-24 21:12:50,154 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:12:50,871 [INFO]   Researching: Will China invades Taiwan before GTA VI?...
+2026-03-24 21:12:51,064 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:12:53,753 [INFO]   Researching: Will bitcoin hit $1m before GTA VI?...
+2026-03-24 21:12:53,908 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:09,279 [INFO]   Researching: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?...
+2026-03-24 21:13:09,430 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:12,346 [INFO]   Researching: Will the Edmonton Oilers win the 2026 NHL Stanley Cup?...
+2026-03-24 21:13:12,695 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:13,716 [INFO]   Researching: Will the Dallas Stars win the 2026 NHL Stanley Cup?...
+2026-03-24 21:13:13,917 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:23,012 [INFO]   Researching: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?...
+2026-03-24 21:13:23,190 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:23,384 [INFO]   Researching: Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?...
+2026-03-24 21:13:23,576 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:23,834 [INFO]   Researching: Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?...
+2026-03-24 21:13:24,080 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:25,911 [INFO]   Researching: Will the Buffalo Sabres win the 2026 NHL Stanley Cup?...
+2026-03-24 21:13:26,060 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:26,535 [INFO]   Researching: Will the Oklahoma City Thunder win the 2026 NBA Finals?...
+2026-03-24 21:13:26,721 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:29,118 [INFO]   Researching: Will the Boston Celtics win the 2026 NBA Finals?...
+2026-03-24 21:13:29,304 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:30,768 [INFO]   Researching: Will the Denver Nuggets win the 2026 NBA Finals?...
+2026-03-24 21:13:30,974 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:43,064 [INFO]   Researching: Will the San Antonio Spurs win the 2026 NBA Finals?...
+2026-03-24 21:13:43,268 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:43,950 [INFO]   Researching: Will Spain win the 2026 FIFA World Cup?...
+2026-03-24 21:13:44,110 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:47,750 [INFO]   Researching: Will England win the 2026 FIFA World Cup?...
+2026-03-24 21:13:47,921 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:50,178 [INFO]   Researching: Will France win the 2026 FIFA World Cup?...
+2026-03-24 21:13:50,402 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:51,222 [INFO]   Researching: Will Brazil win the 2026 FIFA World Cup?...
+2026-03-24 21:13:51,616 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:52,699 [INFO]   Researching: Will Argentina win the 2026 FIFA World Cup?...
+2026-03-24 21:13:52,957 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:55,287 [INFO]   Researching: Will Germany win the 2026 FIFA World Cup?...
+2026-03-24 21:13:55,469 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:13:57,769 [INFO]   Researching: Will Portugal win the 2026 FIFA World Cup?...
+2026-03-24 21:13:57,993 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:14:01,702 [INFO]   Researching: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year awa...
+2026-03-24 21:14:01,886 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:14:04,222 [INFO]   Researching: Will Kon Knueppel win the 2025–26 NBA Rookie of the Year awa...
+2026-03-24 21:14:04,403 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:14:08,548 [INFO]   Researching: Will Ken Paxton win the 2026 Texas Republican Primary?...
+2026-03-24 21:14:08,724 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:14:10,143 [INFO]   Researching: Will John Cornyn win the 2026 Texas Republican Primary?...
+2026-03-24 21:14:10,314 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:14:11,045 [INFO]   Researching: SCOTUS accepts sports event contract case by July 31, 2026? ...
+2026-03-24 21:14:11,224 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:14:12,911 [INFO]   Researching: Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?...
+2026-03-24 21:14:13,064 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:14:16,307 [INFO]   Researching: Will Luka Doncic win the 2025–2026 NBA MVP?...
+2026-03-24 21:14:16,475 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:14:18,475 [INFO]   Researching: Will Victor Wembanyama win the 2025–2026 NBA MVP?...
+2026-03-24 21:14:18,635 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:14:29,516 [INFO]   Researching: Will the Cleveland Cavaliers win the NBA Eastern Conference ...
+2026-03-24 21:14:29,674 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:14:35,775 [INFO]   Researching: Will the New York Knicks win the NBA Eastern Conference Fina...
+2026-03-24 21:14:35,944 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:14:38,193 [INFO]   Researching: Will the Detroit Pistons win the NBA Eastern Conference Fina...
+2026-03-24 21:14:38,364 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:14:39,170 [INFO]   Researching: Will the Boston Celtics win the NBA Eastern Conference Final...
+2026-03-24 21:14:39,354 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:15:36,781 [INFO]   → Research complete on 38 markets
+2026-03-24 21:15:36,783 [INFO] Agent 3: Calibrating probabilities...
+2026-03-24 21:15:40,836 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:15:40,867 [INFO]   [FAIL] New Rihanna Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-24 21:15:43,873 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:15:43,885 [INFO]   [FAIL] BitBoy convicted? | edge=0.20% conf=35% models=1
+2026-03-24 21:15:48,331 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:15:48,353 [INFO]   [FAIL] Will China invades Taiwan before GTA VI? | edge=4.00% conf=35% models=1
+2026-03-24 21:15:52,017 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:15:52,019 [INFO]   [FAIL] Trump out as President before GTA VI? | edge=-1.00% conf=35% models=1
+2026-03-24 21:15:55,692 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:15:55,695 [INFO]   [FAIL] Will the Carolina Hurricanes win the 2026 NHL Stan | edge=0.00% conf=65% models=1
+2026-03-24 21:16:00,549 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:16:00,550 [INFO]   [FAIL] Will bitcoin hit $1m before GTA VI? | edge=3.80% conf=35% models=1
+2026-03-24 21:16:04,308 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:16:04,310 [INFO]   [FAIL] Russia-Ukraine Ceasefire before GTA VI? | edge=0.00% conf=15% models=1
+2026-03-24 21:16:09,308 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:16:09,310 [INFO]   [PASS] Will Jesus Christ return before GTA VI? | edge=47.00% conf=95% models=1
+2026-03-24 21:16:13,523 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:16:13,535 [INFO]   [FAIL] New Playboi Carti Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-24 21:16:16,548 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:16:16,555 [INFO]   [FAIL] Will the Colorado Avalanche win the 2026 NHL Stanl | edge=-0.30% conf=30% models=1
+2026-03-24 21:16:21,653 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:16:21,675 [INFO]   [FAIL] Will the Vegas Golden Knights win the 2026 NHL Sta | edge=0.00% conf=75% models=1
+2026-03-24 21:16:25,291 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:16:25,293 [INFO]   [FAIL] Will the Oklahoma City Thunder win the 2026 NBA Fi | edge=0.00% conf=25% models=1
+2026-03-24 21:16:29,043 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:16:29,055 [INFO]   [FAIL] Will the Edmonton Oilers win the 2026 NHL Stanley  | edge=0.00% conf=35% models=1
+2026-03-24 21:16:33,880 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:16:33,882 [INFO]   [FAIL] Will the Tampa Bay Lightning win the 2026 NHL Stan | edge=0.20% conf=35% models=1
+2026-03-24 21:16:37,770 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:16:37,772 [INFO]   [FAIL] Will the Buffalo Sabres win the 2026 NHL Stanley C | edge=-0.40% conf=75% models=1
+2026-03-24 21:16:41,207 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:16:41,225 [INFO]   [FAIL] Will the Boston Celtics win the 2026 NBA Finals? | edge=0.50% conf=35% models=1
+2026-03-24 21:16:45,509 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:16:45,511 [INFO]   [FAIL] Will the Dallas Stars win the 2026 NHL Stanley Cup | edge=-0.40% conf=65% models=1
+2026-03-24 21:16:49,446 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:16:49,448 [INFO]   [FAIL] Will the Denver Nuggets win the 2026 NBA Finals? | edge=0.00% conf=35% models=1
+2026-03-24 21:16:53,336 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:16:53,338 [INFO]   [FAIL] Will France win the 2026 FIFA World Cup? | edge=0.50% conf=65% models=1
+2026-03-24 21:16:58,764 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:16:58,766 [INFO]   [FAIL] Will Argentina win the 2026 FIFA World Cup? | edge=0.10% conf=65% models=1
+2026-03-24 21:17:03,883 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:03,885 [INFO]   [FAIL] Will Germany win the 2026 FIFA World Cup? | edge=0.10% conf=75% models=1
+2026-03-24 21:17:07,569 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:07,571 [INFO]   [FAIL] Will the San Antonio Spurs win the 2026 NBA Finals | edge=0.50% conf=75% models=1
+2026-03-24 21:17:10,848 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:10,850 [INFO]   [FAIL] Will Cooper Flagg win the 2025–26 NBA Rookie of th | edge=0.00% conf=25% models=1
+2026-03-24 21:17:14,125 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:14,126 [INFO]   [FAIL] Will England win the 2026 FIFA World Cup? | edge=-0.10% conf=75% models=1
+2026-03-24 21:17:17,626 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:17,628 [INFO]   [FAIL] Will Brazil win the 2026 FIFA World Cup? | edge=-0.30% conf=65% models=1
+2026-03-24 21:17:21,191 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:21,193 [INFO]   [FAIL] Will Ken Paxton win the 2026 Texas Republican Prim | edge=0.00% conf=25% models=1
+2026-03-24 21:17:24,894 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:24,915 [INFO]   [FAIL] Will John Cornyn win the 2026 Texas Republican Pri | edge=0.00% conf=25% models=1
+2026-03-24 21:17:29,278 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:29,280 [INFO]   [FAIL] Will Portugal win the 2026 FIFA World Cup? | edge=-0.20% conf=85% models=1
+2026-03-24 21:17:33,820 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:33,822 [INFO]   [FAIL] Will Spain win the 2026 FIFA World Cup? | edge=-0.50% conf=35% models=1
+2026-03-24 21:17:36,932 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:36,945 [INFO]   [FAIL] SCOTUS accepts sports event contract case by July  | edge=0.00% conf=35% models=1
+2026-03-24 21:17:40,952 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:40,954 [INFO]   [FAIL] Will Victor Wembanyama win the 2025–2026 NBA MVP? | edge=-0.30% conf=35% models=1
+2026-03-24 21:17:44,944 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:44,955 [INFO]   [FAIL] Will Kon Knueppel win the 2025–26 NBA Rookie of th | edge=0.20% conf=15% models=1
+2026-03-24 21:17:48,224 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:48,226 [INFO]   [PASS] Will the Detroit Pistons win the NBA Eastern Confe | edge=11.00% conf=95% models=1
+2026-03-24 21:17:51,610 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:51,626 [INFO]   [FAIL] Will the Boston Celtics win the NBA Eastern Confer | edge=-0.30% conf=15% models=1
+2026-03-24 21:17:54,577 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:54,579 [INFO]   [FAIL] Will Shai Gilgeous-Alexander win the 2025–2026 NBA | edge=0.00% conf=25% models=1
+2026-03-24 21:17:58,879 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:17:58,881 [INFO]   [FAIL] Will Luka Doncic win the 2025–2026 NBA MVP? | edge=0.30% conf=65% models=1
+2026-03-24 21:18:02,764 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:18:02,766 [INFO]   [FAIL] Will the New York Knicks win the NBA Eastern Confe | edge=0.00% conf=35% models=1
+2026-03-24 21:18:06,552 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:18:06,555 [INFO]   [FAIL] Will the Cleveland Cavaliers win the NBA Eastern C | edge=0.00% conf=35% models=1
+2026-03-24 21:18:06,555 [INFO]   → 2/38 markets passed confidence threshold
+2026-03-24 21:18:06,555 [INFO] Agent 4: Risk/sizing (0 currently open)...
+2026-03-24 21:18:06,731 [WARNING] Could not fetch live balance, using config value: 404 Client Error: Not Found for url: https://clob.polymarket.com/balance?wallet=0x2d6F988aa17A58F9aF439Ea60DdC72852E9639c0
+2026-03-24 21:18:06,733 [INFO]   BLOCKED: VaR $82.25 exceeds daily limit $50.00
+2026-03-24 21:18:06,923 [WARNING] Could not fetch live balance, using config value: 404 Client Error: Not Found for url: https://clob.polymarket.com/balance?wallet=0x2d6F988aa17A58F9aF439Ea60DdC72852E9639c0
+2026-03-24 21:18:06,926 [INFO]   BLOCKED: VaR $82.25 exceeds daily limit $50.00
+2026-03-24 21:18:06,926 [INFO] === Cycle complete ===
+
+2026-03-24 21:18:06,926 [INFO] Sleeping 1800s until next cycle...
+2026-03-24 21:48:07,013 [INFO] === Cycle start | mode=dry | 2026-03-24T20:48:07.013261 ===
+2026-03-24 21:48:07,016 [INFO] Agent 1: Scanning markets...
+2026-03-24 21:48:07,016 [INFO] Fetching Polymarket markets...
+2026-03-24 21:48:08,551 [INFO]   Fetched 300 total markets
+2026-03-24 21:48:08,558 [INFO]   300 crypto/finance markets found
+2026-03-24 21:48:08,560 [INFO]   Scanner flagged 37 markets for research
+2026-03-24 21:48:08,562 [INFO]   → 37 markets flagged
+2026-03-24 21:48:08,562 [INFO] Agent 2: Running parallel research...
+2026-03-24 21:48:08,563 [INFO]   Researching: BitBoy convicted?...
+2026-03-24 21:48:08,563 [INFO]   Researching: New Rihanna Album before GTA VI?...
+2026-03-24 21:48:08,563 [INFO]   Researching: Russia-Ukraine Ceasefire before GTA VI?...
+2026-03-24 21:48:08,564 [INFO]   Researching: New Playboi Carti Album before GTA VI?...
+2026-03-24 21:48:08,565 [INFO]   Researching: Will Jesus Christ return before GTA VI?...
+2026-03-24 21:48:09,116 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:09,619 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:10,087 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:10,088 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:10,190 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:10,625 [INFO]   Researching: Trump out as President before GTA VI?...
+2026-03-24 21:48:10,878 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:11,619 [INFO]   Researching: Will China invades Taiwan before GTA VI?...
+2026-03-24 21:48:11,812 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:12,026 [INFO]   Researching: Will bitcoin hit $1m before GTA VI?...
+2026-03-24 21:48:12,247 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:12,723 [INFO]   Researching: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?...
+2026-03-24 21:48:12,864 [INFO]   Researching: Will the Edmonton Oilers win the 2026 NHL Stanley Cup?...
+2026-03-24 21:48:12,931 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:13,031 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:13,814 [INFO]   Researching: Will the Dallas Stars win the 2026 NHL Stanley Cup?...
+2026-03-24 21:48:14,016 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:14,236 [INFO]   Researching: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?...
+2026-03-24 21:48:14,428 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:15,512 [INFO]   Researching: Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?...
+2026-03-24 21:48:15,721 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:16,123 [INFO]   Researching: Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?...
+2026-03-24 21:48:16,134 [INFO]   Researching: Will the Buffalo Sabres win the 2026 NHL Stanley Cup?...
+2026-03-24 21:48:16,442 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:16,632 [INFO]   Researching: Will the Oklahoma City Thunder win the 2026 NBA Finals?...
+2026-03-24 21:48:16,667 [INFO]   Researching: Will the Boston Celtics win the 2026 NBA Finals?...
+2026-03-24 21:48:16,829 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:16,871 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:16,994 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:18,868 [INFO]   Researching: Will the Denver Nuggets win the 2026 NBA Finals?...
+2026-03-24 21:48:19,412 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:19,705 [INFO]   Researching: Will the San Antonio Spurs win the 2026 NBA Finals?...
+2026-03-24 21:48:19,920 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:19,935 [INFO]   Researching: Will Spain win the 2026 FIFA World Cup?...
+2026-03-24 21:48:20,022 [INFO]   Researching: Will England win the 2026 FIFA World Cup?...
+2026-03-24 21:48:20,145 [INFO]   Researching: Will France win the 2026 FIFA World Cup?...
+2026-03-24 21:48:20,232 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:20,298 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:20,646 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:21,885 [INFO]   Researching: Will Brazil win the 2026 FIFA World Cup?...
+2026-03-24 21:48:22,108 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:22,530 [INFO]   Researching: Will Argentina win the 2026 FIFA World Cup?...
+2026-03-24 21:48:22,607 [INFO]   Researching: Will Germany win the 2026 FIFA World Cup?...
+2026-03-24 21:48:22,669 [INFO]   Researching: Will Portugal win the 2026 FIFA World Cup?...
+2026-03-24 21:48:22,680 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:22,739 [INFO]   Researching: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year awa...
+2026-03-24 21:48:22,802 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:22,837 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:22,915 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:24,116 [INFO]   Researching: Will Ken Paxton win the 2026 Texas Republican Primary?...
+2026-03-24 21:48:24,128 [INFO]   Researching: Will John Cornyn win the 2026 Texas Republican Primary?...
+2026-03-24 21:48:24,234 [INFO]   Researching: SCOTUS accepts sports event contract case by July 31, 2026? ...
+2026-03-24 21:48:24,280 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:24,296 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:24,344 [INFO]   Researching: Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?...
+2026-03-24 21:48:24,362 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:24,484 [INFO]   Researching: Will Luka Doncic win the 2025–2026 NBA MVP?...
+2026-03-24 21:48:24,518 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:24,642 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:25,088 [INFO]   Researching: Will Victor Wembanyama win the 2025–2026 NBA MVP?...
+2026-03-24 21:48:25,180 [INFO]   Researching: Will the Cleveland Cavaliers win the NBA Eastern Conference ...
+2026-03-24 21:48:25,268 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:25,278 [INFO]   Researching: Will the New York Knicks win the NBA Eastern Conference Fina...
+2026-03-24 21:48:25,354 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:25,385 [INFO]   Researching: Will the Detroit Pistons win the NBA Eastern Conference Fina...
+2026-03-24 21:48:25,446 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:25,484 [INFO]   Researching: Will the Boston Celtics win the NBA Eastern Conference Final...
+2026-03-24 21:48:25,595 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:25,687 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+2026-03-24 21:48:26,871 [INFO]   → Research complete on 37 markets
+2026-03-24 21:48:26,871 [INFO] Agent 3: Calibrating probabilities...
+2026-03-24 21:48:31,827 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:48:31,839 [INFO]   [FAIL] Russia-Ukraine Ceasefire before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-24 21:48:35,805 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:48:35,819 [INFO]   [FAIL] New Rihanna Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-24 21:48:39,763 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:48:39,764 [INFO]   [FAIL] BitBoy convicted? | edge=-0.30% conf=35% models=1
+2026-03-24 21:48:43,866 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:48:43,869 [INFO]   [FAIL] New Playboi Carti Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-24 21:48:48,321 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:48:48,332 [INFO]   [PASS] Will Jesus Christ return before GTA VI? | edge=47.00% conf=95% models=1
+2026-03-24 21:48:52,009 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:48:52,013 [INFO]   [FAIL] Trump out as President before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-24 21:48:56,156 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:48:56,159 [INFO]   [FAIL] Will China invades Taiwan before GTA VI? | edge=3.00% conf=35% models=1
+2026-03-24 21:49:00,866 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:49:00,868 [INFO]   [FAIL] Will the Edmonton Oilers win the 2026 NHL Stanley  | edge=0.00% conf=65% models=1
+2026-03-24 21:49:05,376 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:49:05,378 [INFO]   [FAIL] Will bitcoin hit $1m before GTA VI? | edge=3.80% conf=35% models=1
+2026-03-24 21:49:09,406 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:49:09,418 [INFO]   [FAIL] Will the Carolina Hurricanes win the 2026 NHL Stan | edge=0.00% conf=65% models=1
+2026-03-24 21:49:13,251 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:49:13,254 [INFO]   [FAIL] Will the Colorado Avalanche win the 2026 NHL Stanl | edge=-0.40% conf=35% models=1
+2026-03-24 21:49:18,570 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:49:18,573 [INFO]   [FAIL] Will the Dallas Stars win the 2026 NHL Stanley Cup | edge=0.40% conf=65% models=1
+2026-03-24 21:49:22,196 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:49:22,199 [INFO]   [FAIL] Will the Vegas Golden Knights win the 2026 NHL Sta | edge=0.00% conf=75% models=1
+2026-03-24 21:49:25,823 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:49:25,825 [INFO]   [FAIL] Will the Tampa Bay Lightning win the 2026 NHL Stan | edge=0.20% conf=35% models=1
+2026-03-24 21:49:29,995 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:49:29,999 [INFO]   [FAIL] Will the Boston Celtics win the 2026 NBA Finals? | edge=0.50% conf=35% models=1
+2026-03-24 21:49:34,080 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:49:34,083 [INFO]   [FAIL] Will the Buffalo Sabres win the 2026 NHL Stanley C | edge=0.30% conf=75% models=1
+2026-03-24 21:49:38,030 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:49:38,032 [INFO]   [FAIL] Will the Oklahoma City Thunder win the 2026 NBA Fi | edge=0.00% conf=25% models=1
+2026-03-24 21:49:41,561 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:49:41,564 [INFO]   [FAIL] Will the Denver Nuggets win the 2026 NBA Finals? | edge=0.00% conf=35% models=1
+2026-03-24 21:49:46,636 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:49:46,639 [INFO]   [FAIL] Will France win the 2026 FIFA World Cup? | edge=-0.30% conf=65% models=1
+2026-03-24 21:49:51,812 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:49:51,824 [INFO]   [FAIL] Will England win the 2026 FIFA World Cup? | edge=-0.20% conf=75% models=1
+2026-03-24 21:49:56,180 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:49:56,183 [INFO]   [FAIL] Will the San Antonio Spurs win the 2026 NBA Finals | edge=0.50% conf=75% models=1
+2026-03-24 21:50:00,599 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:50:00,602 [INFO]   [FAIL] Will Spain win the 2026 FIFA World Cup? | edge=0.30% conf=70% models=1
+2026-03-24 21:50:04,508 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:50:04,510 [INFO]   [FAIL] Will Brazil win the 2026 FIFA World Cup? | edge=-0.40% conf=65% models=1
+2026-03-24 21:50:08,098 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:50:08,101 [INFO]   [FAIL] Will Argentina win the 2026 FIFA World Cup? | edge=0.10% conf=75% models=1
+2026-03-24 21:50:13,394 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:50:13,397 [INFO]   [FAIL] Will Portugal win the 2026 FIFA World Cup? | edge=-0.30% conf=85% models=1
+2026-03-24 21:50:16,842 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:50:16,859 [INFO]   [FAIL] Will Germany win the 2026 FIFA World Cup? | edge=0.10% conf=70% models=1
+2026-03-24 21:50:20,534 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:50:20,537 [INFO]   [FAIL] Will Cooper Flagg win the 2025–26 NBA Rookie of th | edge=0.00% conf=25% models=1
+2026-03-24 21:50:24,323 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:50:24,326 [INFO]   [FAIL] Will John Cornyn win the 2026 Texas Republican Pri | edge=0.00% conf=25% models=1
+2026-03-24 21:50:27,444 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:50:27,473 [INFO]   [FAIL] SCOTUS accepts sports event contract case by July  | edge=0.00% conf=35% models=1
+2026-03-24 21:50:30,577 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:50:30,579 [INFO]   [FAIL] Will Ken Paxton win the 2026 Texas Republican Prim | edge=0.00% conf=25% models=1
+2026-03-24 21:50:34,354 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:50:34,356 [INFO]   [FAIL] Will Shai Gilgeous-Alexander win the 2025–2026 NBA | edge=0.00% conf=25% models=1
+2026-03-24 21:50:39,233 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:50:39,247 [INFO]   [FAIL] Will Luka Doncic win the 2025–2026 NBA MVP? | edge=-0.40% conf=35% models=1
+2026-03-24 21:50:42,653 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:50:42,656 [INFO]   [FAIL] Will the Cleveland Cavaliers win the NBA Eastern C | edge=0.00% conf=35% models=1
+2026-03-24 21:50:46,237 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:50:46,240 [INFO]   [FAIL] Will the New York Knicks win the NBA Eastern Confe | edge=0.00% conf=35% models=1
+2026-03-24 21:50:50,319 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:50:50,321 [INFO]   [PASS] Will the Detroit Pistons win the NBA Eastern Confe | edge=11.00% conf=95% models=1
+2026-03-24 21:50:54,679 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:50:54,688 [INFO]   [FAIL] Will Victor Wembanyama win the 2025–2026 NBA MVP? | edge=0.10% conf=35% models=1
+2026-03-24 21:51:02,183 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 21:51:02,192 [INFO]   [FAIL] Will the Boston Celtics win the NBA Eastern Confer | edge=-0.30% conf=25% models=1
+2026-03-24 21:51:02,192 [INFO]   → 2/37 markets passed confidence threshold
+2026-03-24 21:51:02,193 [INFO] Agent 4: Risk/sizing (0 currently open)...
+2026-03-24 21:51:02,605 [WARNING] Could not fetch live balance, using config value: 404 Client Error: Not Found for url: https://clob.polymarket.com/balance?wallet=0x2d6F988aa17A58F9aF439Ea60DdC72852E9639c0
+2026-03-24 21:51:02,609 [INFO]   BLOCKED: VaR $82.25 exceeds daily limit $50.00
+2026-03-24 21:51:02,924 [WARNING] Could not fetch live balance, using config value: 404 Client Error: Not Found for url: https://clob.polymarket.com/balance?wallet=0x2d6F988aa17A58F9aF439Ea60DdC72852E9639c0
+2026-03-24 21:51:02,926 [INFO]   BLOCKED: VaR $82.25 exceeds daily limit $50.00
+2026-03-24 21:51:02,927 [INFO] === Cycle complete ===
+
+2026-03-24 21:51:02,927 [INFO] Sleeping 1800s until next cycle...
