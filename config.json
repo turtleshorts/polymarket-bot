@@ -43,7 +43,7 @@
     "bankroll_usd": 1000,
     "max_bet_fraction": 0.25,
     "max_single_position_pct": 0.05,
-    "max_bet_usd_hard_cap": 50,
+    "max_bet_usd_hard_cap": 30,
     "min_bet_usd": 5,
     "max_total_exposure_fraction": 0.15,
     "max_concurrent_positions": 15,
