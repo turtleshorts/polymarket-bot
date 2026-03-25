@@ -1,46 +1,48 @@
 ======================================================
   PSYCO CAPITAL — DAILY BOT SUMMARY
-  Date: 2026-03-24  |  Generated: 21:06 CET
+  Date: 2026-03-25  |  Generated: 08:00 CET
 ======================================================
 
 BOT STATUS:
-  Stopped  (last exit code: 0)
+  Running  (PID 21273)
 
 MARKETS SCANNED TODAY:
-  Cycles completed: 9
-  Total flagged for research: 78
+  Cycles completed: 15
+  Total flagged for research: 321
 
 PAPER TRADES TODAY (mode=dry):
-  No paper trades placed today
+  Trades placed: 1
+    [NO] Will Kon Knueppel win the 2025–26 NBA Rookie of the Yea
+         $30.00 @ 40% | edge=45.10% conf=70%
 
 SIMULATED P&L (all-time, paper trades):
-  Settled: 0  (0W / 0L)  |  Open: 0
+  Settled: 0  (0W / 0L)  |  Open: 3
   Total wagered:    $0.00
   Net P&L:          $+0.00
-  Open exposure:    $0.00
+  Open exposure:    $90.00
   No settled trades yet — bot is still in early scanning phase
 
 API COSTS:
-  Today:     $0.1170  (daily limit $50.00)
-  All-time:  $0.1170
+  Today:     $0.7260  (daily limit $50.00)
+  All-time:  $1.7520
 
 ERRORS TODAY:
-  2026-03-24 20:13:49,258 [ERROR] No model votes received
-  2026-03-24 20:16:29,182 [ERROR] Claude call failed: Expecting value: line 1 column 1 (char 0)
-  2026-03-24 20:16:29,182 [ERROR] No model votes received
-  2026-03-24 20:19:19,284 [ERROR] Cycle error: No module named 'scripts'
-  2026-03-24 20:24:19,370 [ERROR] Cycle error: No module named 'scripts'
-  2026-03-24 20:29:19,377 [ERROR] Cycle error: No module named 'scripts'
-  2026-03-24 20:34:19,516 [ERROR] Cycle error: No module named 'scripts'
-  2026-03-24 20:39:19,601 [ERROR] Cycle error: No module named 'scripts'
-  2026-03-24 20:44:19,694 [ERROR] Cycle error: No module named 'scripts'
-  2026-03-24 20:49:19,791 [ERROR] Cycle error: No module named 'scripts'
+  2026-03-25 04:20:12,766 [ERROR] No model votes received
+  2026-03-25 04:20:14,581 [ERROR] Claude call failed: Connection error.
+  2026-03-25 04:20:14,582 [ERROR] No model votes received
+  2026-03-25 04:50:14,648 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+  2026-03-25 05:20:14,685 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+  2026-03-25 05:50:15,003 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+  2026-03-25 06:20:15,270 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+  2026-03-25 06:50:15,504 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+  2026-03-25 07:20:15,705 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+  2026-03-25 07:50:15,936 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
 
 LAST 5 LOG LINES:
-  2026-03-24 21:06:22,560 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
-  2026-03-24 21:06:22,628 [INFO]   Researching: Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?...
-  2026-03-24 21:06:22,786 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
-  2026-03-24 21:06:24,001 [INFO]   Researching: Will Luka Doncic win the 2025–2026 NBA MVP?...
-  2026-03-24 21:06:24,371 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?auth_token=SET_IN_ENV_FILE_OR_LEAVE_EMPTY_FOR_PUBLIC&filter=important&public=true
+  2026-03-25 07:50:15,936 [INFO]   0 crypto/finance markets found
+  2026-03-25 07:50:15,936 [INFO]   Scanner flagged 0 markets for research
+  2026-03-25 07:50:15,936 [INFO]   → 0 markets flagged
+  2026-03-25 07:50:15,936 [INFO] No markets flagged. Sleeping until next cycle.
+  2026-03-25 07:50:15,936 [INFO] Sleeping 1800s until next cycle...
 
 ======================================================
