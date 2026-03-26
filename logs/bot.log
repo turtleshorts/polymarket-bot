@@ -3266,3 +3266,1710 @@ ModuleNotFoundError: No module named 'scripts'
 2026-03-25 09:20:16,550 [INFO]   → 0 markets flagged
 2026-03-25 09:20:16,550 [INFO] No markets flagged. Sleeping until next cycle.
 2026-03-25 09:20:16,550 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 09:50:16,784 [INFO] === Cycle start | mode=dry | 2026-03-25T08:50:16.784135 ===
+2026-03-25 09:50:16,790 [INFO] Agent 1: Scanning markets...
+2026-03-25 09:50:16,790 [INFO] Fetching Polymarket markets...
+2026-03-25 09:50:16,800 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 09:50:16,800 [INFO]   Fetched 0 total markets
+2026-03-25 09:50:16,800 [INFO]   0 crypto/finance markets found
+2026-03-25 09:50:16,800 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 09:50:16,800 [INFO]   → 0 markets flagged
+2026-03-25 09:50:16,800 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 09:50:16,800 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 10:20:16,959 [INFO] === Cycle start | mode=dry | 2026-03-25T09:20:16.959017 ===
+2026-03-25 10:20:16,963 [INFO] Agent 1: Scanning markets...
+2026-03-25 10:20:16,963 [INFO] Fetching Polymarket markets...
+2026-03-25 10:20:16,972 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 10:20:16,972 [INFO]   Fetched 0 total markets
+2026-03-25 10:20:16,972 [INFO]   0 crypto/finance markets found
+2026-03-25 10:20:16,972 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 10:20:16,972 [INFO]   → 0 markets flagged
+2026-03-25 10:20:16,972 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 10:20:16,972 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 10:50:17,164 [INFO] === Cycle start | mode=dry | 2026-03-25T09:50:17.164086 ===
+2026-03-25 10:50:17,170 [INFO] Agent 1: Scanning markets...
+2026-03-25 10:50:17,171 [INFO] Fetching Polymarket markets...
+2026-03-25 10:50:17,183 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 10:50:17,184 [INFO]   Fetched 0 total markets
+2026-03-25 10:50:17,184 [INFO]   0 crypto/finance markets found
+2026-03-25 10:50:17,184 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 10:50:17,184 [INFO]   → 0 markets flagged
+2026-03-25 10:50:17,184 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 10:50:17,184 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 11:20:17,340 [INFO] === Cycle start | mode=dry | 2026-03-25T10:20:17.339857 ===
+2026-03-25 11:20:17,345 [INFO] Agent 1: Scanning markets...
+2026-03-25 11:20:17,346 [INFO] Fetching Polymarket markets...
+2026-03-25 11:20:17,357 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 11:20:17,357 [INFO]   Fetched 0 total markets
+2026-03-25 11:20:17,357 [INFO]   0 crypto/finance markets found
+2026-03-25 11:20:17,357 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 11:20:17,357 [INFO]   → 0 markets flagged
+2026-03-25 11:20:17,357 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 11:20:17,357 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 11:50:17,597 [INFO] === Cycle start | mode=dry | 2026-03-25T10:50:17.596940 ===
+2026-03-25 11:50:17,604 [INFO] Agent 1: Scanning markets...
+2026-03-25 11:50:17,604 [INFO] Fetching Polymarket markets...
+2026-03-25 11:50:17,614 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 11:50:17,615 [INFO]   Fetched 0 total markets
+2026-03-25 11:50:17,615 [INFO]   0 crypto/finance markets found
+2026-03-25 11:50:17,615 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 11:50:17,615 [INFO]   → 0 markets flagged
+2026-03-25 11:50:17,615 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 11:50:17,615 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 12:20:17,743 [INFO] === Cycle start | mode=dry | 2026-03-25T11:20:17.742616 ===
+2026-03-25 12:20:17,750 [INFO] Agent 1: Scanning markets...
+2026-03-25 12:20:17,750 [INFO] Fetching Polymarket markets...
+2026-03-25 12:20:17,760 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 12:20:17,760 [INFO]   Fetched 0 total markets
+2026-03-25 12:20:17,760 [INFO]   0 crypto/finance markets found
+2026-03-25 12:20:17,760 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 12:20:17,760 [INFO]   → 0 markets flagged
+2026-03-25 12:20:17,760 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 12:20:17,761 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 12:50:17,766 [INFO] === Cycle start | mode=dry | 2026-03-25T11:50:17.766008 ===
+2026-03-25 12:50:17,770 [INFO] Agent 1: Scanning markets...
+2026-03-25 12:50:17,771 [INFO] Fetching Polymarket markets...
+2026-03-25 12:50:17,780 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 12:50:17,780 [INFO]   Fetched 0 total markets
+2026-03-25 12:50:17,780 [INFO]   0 crypto/finance markets found
+2026-03-25 12:50:17,780 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 12:50:17,780 [INFO]   → 0 markets flagged
+2026-03-25 12:50:17,780 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 12:50:17,780 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 12:50:33,009 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-25 12:50:33,932 [INFO] === Cycle start | mode=dry | 2026-03-25T11:50:33.931837 ===
+2026-03-25 12:50:33,933 [INFO] Agent 1: Scanning markets...
+2026-03-25 12:50:33,933 [INFO] Fetching Polymarket markets...
+2026-03-25 12:50:34,126 [INFO]   Fetched 300 total markets
+2026-03-25 12:50:34,130 [INFO]   300 crypto/finance markets found
+2026-03-25 12:50:34,131 [INFO]   Scanner flagged 43 markets for research
+2026-03-25 12:50:34,133 [INFO]   → 43 markets flagged
+2026-03-25 12:50:34,133 [INFO] Agent 2: Running parallel research...
+2026-03-25 12:50:34,134 [INFO]   Researching: BitBoy convicted?...
+2026-03-25 12:50:34,134 [INFO]   Researching: Russia-Ukraine Ceasefire before GTA VI?...
+2026-03-25 12:50:34,135 [INFO]   Researching: New Playboi Carti Album before GTA VI?...
+2026-03-25 12:50:34,135 [INFO]   Researching: New Rihanna Album before GTA VI?...
+2026-03-25 12:50:34,136 [INFO]   Researching: Will Jesus Christ return before GTA VI?...
+2026-03-25 12:50:34,345 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:34,356 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:34,395 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:34,896 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:35,389 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:36,565 [INFO]   Researching: Trump out as President before GTA VI?...
+2026-03-25 12:50:36,733 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:36,928 [INFO]   Researching: Will China invades Taiwan before GTA VI?...
+2026-03-25 12:50:36,975 [INFO]   Researching: Will bitcoin hit $1m before GTA VI?...
+2026-03-25 12:50:37,171 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:37,205 [INFO]   Researching: Will Italy qualify for the 2026 FIFA World Cup?...
+2026-03-25 12:50:37,431 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:37,712 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:38,733 [INFO]   Researching: Will Sweden qualify for the 2026 FIFA World Cup?...
+2026-03-25 12:50:38,944 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:39,823 [INFO]   Researching: Will Poland qualify for the 2026 FIFA World Cup?...
+2026-03-25 12:50:39,828 [INFO]   Researching: Will Ukraine qualify for the 2026 FIFA World Cup?...
+2026-03-25 12:50:39,957 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:40,365 [INFO]   Researching: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?...
+2026-03-25 12:50:40,464 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:40,518 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:40,911 [INFO]   Researching: Will the Edmonton Oilers win the 2026 NHL Stanley Cup?...
+2026-03-25 12:50:41,046 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:41,608 [INFO]   Researching: Will the Dallas Stars win the 2026 NHL Stanley Cup?...
+2026-03-25 12:50:41,808 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:41,966 [INFO]   Researching: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?...
+2026-03-25 12:50:42,146 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:42,719 [INFO]   Researching: Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?...
+2026-03-25 12:50:42,936 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:43,437 [INFO]   Researching: Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?...
+2026-03-25 12:50:43,681 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:43,921 [INFO]   Researching: Will the Buffalo Sabres win the 2026 NHL Stanley Cup?...
+2026-03-25 12:50:44,113 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:44,692 [INFO]   Researching: Will the Oklahoma City Thunder win the 2026 NBA Finals?...
+2026-03-25 12:50:44,919 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:45,256 [INFO]   Researching: Will the Boston Celtics win the 2026 NBA Finals?...
+2026-03-25 12:50:45,414 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:45,755 [INFO]   Researching: Will the Denver Nuggets win the 2026 NBA Finals?...
+2026-03-25 12:50:45,909 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:46,915 [INFO]   Researching: Will the San Antonio Spurs win the 2026 NBA Finals?...
+2026-03-25 12:50:47,055 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:47,123 [INFO]   Researching: Will Spain win the 2026 FIFA World Cup?...
+2026-03-25 12:50:47,267 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:47,549 [INFO]   Researching: Will England win the 2026 FIFA World Cup?...
+2026-03-25 12:50:47,724 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:47,974 [INFO]   Researching: Will France win the 2026 FIFA World Cup?...
+2026-03-25 12:50:48,135 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:48,525 [INFO]   Researching: Will Brazil win the 2026 FIFA World Cup?...
+2026-03-25 12:50:48,680 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:49,284 [INFO]   Researching: Will Argentina win the 2026 FIFA World Cup?...
+2026-03-25 12:50:49,395 [INFO]   Researching: Will Germany win the 2026 FIFA World Cup?...
+2026-03-25 12:50:49,405 [INFO]   Researching: Will Portugal win the 2026 FIFA World Cup?...
+2026-03-25 12:50:49,428 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:49,499 [INFO]   Researching: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year awa...
+2026-03-25 12:50:49,537 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:49,557 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:49,644 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:49,783 [INFO]   Researching: Will Kon Knueppel win the 2025–26 NBA Rookie of the Year awa...
+2026-03-25 12:50:49,922 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:50,159 [INFO]   Researching: Will Ken Paxton win the 2026 Texas Republican Primary?...
+2026-03-25 12:50:50,341 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:50,347 [INFO]   Researching: Will John Cornyn win the 2026 Texas Republican Primary?...
+2026-03-25 12:50:50,408 [INFO]   Researching: SCOTUS accepts sports event contract case by July 31, 2026? ...
+2026-03-25 12:50:50,485 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:50,496 [INFO]   Researching: Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?...
+2026-03-25 12:50:50,514 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:50,655 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:50,713 [INFO]   Researching: Will Luka Doncic win the 2025–2026 NBA MVP?...
+2026-03-25 12:50:50,865 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:51,074 [INFO]   Researching: Will Victor Wembanyama win the 2025–2026 NBA MVP?...
+2026-03-25 12:50:51,225 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:51,235 [INFO]   Researching: Will the Cleveland Cavaliers win the NBA Eastern Conference ...
+2026-03-25 12:50:51,373 [INFO]   Researching: Will the New York Knicks win the NBA Eastern Conference Fina...
+2026-03-25 12:50:51,373 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:51,507 [INFO]   Researching: Will the Detroit Pistons win the NBA Eastern Conference Fina...
+2026-03-25 12:50:51,537 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:51,575 [INFO]   Researching: Will the Boston Celtics win the NBA Eastern Conference Final...
+2026-03-25 12:50:51,633 [WARNING] CryptoPanic fetch failed: 429 Client Error: Too Many Requests for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:51,730 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:50:52,087 [INFO]   Researching: Will the Oklahoma City Thunder win the NBA Western Conferenc...
+2026-03-25 12:50:52,254 [WARNING] CryptoPanic fetch failed: 404 Client Error: Not Found for url: https://cryptopanic.com/api/v1/posts/?public=true&filter=hot
+2026-03-25 12:51:09,040 [INFO]   → Research complete on 43 markets
+2026-03-25 12:51:09,040 [INFO] Agent 3: Calibrating probabilities...
+2026-03-25 12:51:14,508 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:51:14,583 [INFO]   [FAIL] New Rihanna Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-25 12:51:18,756 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:51:18,777 [INFO]   [FAIL] BitBoy convicted? | edge=-0.40% conf=35% models=1
+2026-03-25 12:51:22,932 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:51:22,934 [INFO]   [PASS] Will Jesus Christ return before GTA VI? | edge=48.00% conf=95% models=1
+2026-03-25 12:51:27,321 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:51:27,337 [INFO]   [FAIL] New Playboi Carti Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-25 12:51:31,129 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:51:31,131 [INFO]   [FAIL] Russia-Ukraine Ceasefire before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-25 12:51:34,721 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:51:34,738 [INFO]   [FAIL] Trump out as President before GTA VI? | edge=-1.00% conf=35% models=1
+2026-03-25 12:51:37,545 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:51:37,556 [INFO]   [FAIL] Will Italy qualify for the 2026 FIFA World Cup? | edge=0.00% conf=35% models=1
+2026-03-25 12:51:41,020 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:51:41,023 [INFO]   [FAIL] Will China invades Taiwan before GTA VI? | edge=3.00% conf=35% models=1
+2026-03-25 12:51:45,087 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:51:45,105 [INFO]   [FAIL] Will Sweden qualify for the 2026 FIFA World Cup? | edge=0.00% conf=25% models=1
+2026-03-25 12:51:49,307 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:51:49,315 [INFO]   [FAIL] Will bitcoin hit $1m before GTA VI? | edge=1.80% conf=35% models=1
+2026-03-25 12:51:53,963 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:51:53,985 [INFO]   [FAIL] Will Ukraine qualify for the 2026 FIFA World Cup? | edge=0.00% conf=35% models=1
+2026-03-25 12:51:59,802 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-25 12:52:00,546 [INFO] === Cycle start | mode=dry | 2026-03-25T11:52:00.545941 ===
+2026-03-25 12:52:00,547 [INFO] Agent 1: Scanning markets...
+2026-03-25 12:52:00,547 [INFO] Fetching Polymarket markets...
+2026-03-25 12:52:00,786 [INFO]   Fetched 300 total markets
+2026-03-25 12:52:00,790 [INFO]   300 crypto/finance markets found
+2026-03-25 12:52:00,791 [INFO]   Scanner flagged 43 markets for research
+2026-03-25 12:52:00,793 [INFO]   → 43 markets flagged
+2026-03-25 12:52:00,793 [INFO] Agent 2: Running parallel research...
+2026-03-25 12:52:00,793 [INFO]   Researching: BitBoy convicted?...
+2026-03-25 12:52:00,794 [INFO]   Researching: New Rihanna Album before GTA VI?...
+2026-03-25 12:52:00,795 [INFO]   Researching: New Playboi Carti Album before GTA VI?...
+2026-03-25 12:52:00,794 [INFO]   Researching: Russia-Ukraine Ceasefire before GTA VI?...
+2026-03-25 12:52:00,796 [INFO]   Researching: Will Jesus Christ return before GTA VI?...
+2026-03-25 12:52:02,616 [INFO]   Researching: Trump out as President before GTA VI?...
+2026-03-25 12:52:02,827 [INFO]   Researching: Will China invades Taiwan before GTA VI?...
+2026-03-25 12:52:03,092 [INFO]   Researching: Will bitcoin hit $1m before GTA VI?...
+2026-03-25 12:52:19,152 [INFO]   Researching: Will Italy qualify for the 2026 FIFA World Cup?...
+2026-03-25 12:52:20,222 [INFO]   Researching: Will Sweden qualify for the 2026 FIFA World Cup?...
+2026-03-25 12:52:34,864 [INFO]   Researching: Will Poland qualify for the 2026 FIFA World Cup?...
+2026-03-25 12:52:36,912 [INFO]   Researching: Will Ukraine qualify for the 2026 FIFA World Cup?...
+2026-03-25 12:52:37,231 [INFO]   Researching: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?...
+2026-03-25 12:52:37,296 [INFO]   Researching: Will the Edmonton Oilers win the 2026 NHL Stanley Cup?...
+2026-03-25 12:52:53,945 [INFO]   Researching: Will the Dallas Stars win the 2026 NHL Stanley Cup?...
+2026-03-25 12:52:54,423 [INFO]   Researching: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?...
+2026-03-25 12:52:54,746 [INFO]   Researching: Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?...
+2026-03-25 12:52:55,998 [INFO]   Researching: Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?...
+2026-03-25 12:52:57,319 [INFO]   Researching: Will the Buffalo Sabres win the 2026 NHL Stanley Cup?...
+2026-03-25 12:52:58,077 [INFO]   Researching: Will the Oklahoma City Thunder win the 2026 NBA Finals?...
+2026-03-25 12:53:08,783 [INFO]   Researching: Will the Boston Celtics win the 2026 NBA Finals?...
+2026-03-25 12:53:10,743 [INFO]   Researching: Will the Denver Nuggets win the 2026 NBA Finals?...
+2026-03-25 12:53:11,232 [INFO]   Researching: Will the San Antonio Spurs win the 2026 NBA Finals?...
+2026-03-25 12:53:15,055 [INFO]   Researching: Will Spain win the 2026 FIFA World Cup?...
+2026-03-25 12:53:26,257 [INFO]   Researching: Will England win the 2026 FIFA World Cup?...
+2026-03-25 12:53:28,178 [INFO]   Researching: Will France win the 2026 FIFA World Cup?...
+2026-03-25 12:53:31,968 [INFO]   Researching: Will Brazil win the 2026 FIFA World Cup?...
+2026-03-25 12:53:43,937 [INFO]   Researching: Will Argentina win the 2026 FIFA World Cup?...
+2026-03-25 12:53:44,878 [INFO]   Researching: Will Germany win the 2026 FIFA World Cup?...
+2026-03-25 12:53:45,042 [INFO]   Researching: Will Portugal win the 2026 FIFA World Cup?...
+2026-03-25 12:53:45,338 [INFO]   Researching: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year awa...
+2026-03-25 12:53:45,610 [INFO]   Researching: Will Kon Knueppel win the 2025–26 NBA Rookie of the Year awa...
+2026-03-25 12:53:46,004 [INFO]   Researching: Will Ken Paxton win the 2026 Texas Republican Primary?...
+2026-03-25 12:53:47,083 [INFO]   Researching: Will John Cornyn win the 2026 Texas Republican Primary?...
+2026-03-25 12:54:02,488 [INFO]   Researching: SCOTUS accepts sports event contract case by July 31, 2026? ...
+2026-03-25 12:54:03,023 [INFO]   Researching: Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?...
+2026-03-25 12:54:03,179 [INFO]   Researching: Will Luka Doncic win the 2025–2026 NBA MVP?...
+2026-03-25 12:54:03,415 [INFO]   Researching: Will Victor Wembanyama win the 2025–2026 NBA MVP?...
+2026-03-25 12:54:04,436 [INFO]   Researching: Will the Cleveland Cavaliers win the NBA Eastern Conference ...
+2026-03-25 12:54:04,683 [INFO]   Researching: Will the New York Knicks win the NBA Eastern Conference Fina...
+2026-03-25 12:54:04,749 [INFO]   Researching: Will the Detroit Pistons win the NBA Eastern Conference Fina...
+2026-03-25 12:54:05,404 [INFO]   Researching: Will the Boston Celtics win the NBA Eastern Conference Final...
+2026-03-25 12:54:05,434 [INFO]   Researching: Will the Oklahoma City Thunder win the NBA Western Conferenc...
+2026-03-25 12:54:36,903 [INFO]   → Research complete on 43 markets
+2026-03-25 12:54:36,904 [INFO] Agent 3: Calibrating probabilities...
+2026-03-25 12:54:40,336 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:54:40,419 [INFO]   [FAIL] BitBoy convicted? | edge=-0.40% conf=35% models=1
+2026-03-25 12:54:44,039 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:54:44,042 [INFO]   [PASS] Will Jesus Christ return before GTA VI? | edge=48.00% conf=95% models=1
+2026-03-25 12:54:48,845 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:54:48,862 [INFO]   [FAIL] Russia-Ukraine Ceasefire before GTA VI? | edge=-4.00% conf=35% models=1
+2026-03-25 12:54:51,978 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:54:51,980 [INFO]   [FAIL] New Playboi Carti Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-25 12:54:56,003 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:54:56,022 [INFO]   [FAIL] Will Italy qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 12:54:59,102 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:54:59,104 [INFO]   [FAIL] New Rihanna Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-25 12:55:03,086 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:55:03,090 [INFO]   [FAIL] Trump out as President before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-25 12:55:07,386 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:55:07,423 [INFO]   [FAIL] Will Sweden qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 12:55:11,627 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:55:11,629 [INFO]   [PASS] Will bitcoin hit $1m before GTA VI? | edge=5.80% conf=62% models=1
+2026-03-25 12:55:15,706 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:55:15,708 [INFO]   [FAIL] Will China invades Taiwan before GTA VI? | edge=0.00% conf=15% models=1
+2026-03-25 12:55:20,625 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:55:20,627 [INFO]   [FAIL] Will the Edmonton Oilers win the 2026 NHL Stanley  | edge=0.00% conf=95% models=1
+2026-03-25 12:55:24,736 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:55:24,752 [INFO]   [FAIL] Will the Carolina Hurricanes win the 2026 NHL Stan | edge=0.00% conf=95% models=1
+2026-03-25 12:55:28,587 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:55:28,590 [INFO]   [FAIL] Will the Vegas Golden Knights win the 2026 NHL Sta | edge=0.20% conf=92% models=1
+2026-03-25 12:55:32,895 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:55:32,897 [INFO]   [FAIL] Will the Tampa Bay Lightning win the 2026 NHL Stan | edge=-0.40% conf=20% models=1
+2026-03-25 12:55:39,408 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:55:39,436 [INFO]   [FAIL] Will the Buffalo Sabres win the 2026 NHL Stanley C | edge=-0.50% conf=85% models=1
+2026-03-25 12:55:43,176 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:55:43,193 [INFO]   [FAIL] Will Poland qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 12:55:46,677 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:55:46,691 [INFO]   [FAIL] Will Ukraine qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 12:55:52,040 [INFO] Polymarket Bot starting | mode=dry | cycle=1800s
+2026-03-25 12:55:52,956 [INFO] === Cycle start | mode=dry | 2026-03-25T11:55:52.956248 ===
+2026-03-25 12:55:52,957 [INFO] Agent 1: Scanning markets...
+2026-03-25 12:55:52,957 [INFO] Fetching Polymarket markets...
+2026-03-25 12:55:53,493 [INFO]   Fetched 300 total markets
+2026-03-25 12:55:53,497 [INFO]   300 crypto/finance markets found
+2026-03-25 12:55:53,499 [INFO]   Scanner flagged 43 markets for research
+2026-03-25 12:55:53,501 [INFO]   → 43 markets flagged
+2026-03-25 12:55:53,501 [INFO] Agent 2: Running parallel research...
+2026-03-25 12:55:53,502 [INFO]   Researching: BitBoy convicted?...
+2026-03-25 12:55:53,502 [INFO]   Researching: Russia-Ukraine Ceasefire before GTA VI?...
+2026-03-25 12:55:53,502 [INFO]   Researching: New Rihanna Album before GTA VI?...
+2026-03-25 12:55:53,504 [INFO]   Researching: Will Jesus Christ return before GTA VI?...
+2026-03-25 12:55:53,503 [INFO]   Researching: New Playboi Carti Album before GTA VI?...
+2026-03-25 12:55:55,172 [INFO]   Researching: Trump out as President before GTA VI?...
+2026-03-25 12:55:55,188 [INFO]   Researching: Will China invades Taiwan before GTA VI?...
+2026-03-25 12:55:55,275 [INFO]   Researching: Will bitcoin hit $1m before GTA VI?...
+2026-03-25 12:55:56,394 [INFO]   Researching: Will Italy qualify for the 2026 FIFA World Cup?...
+2026-03-25 12:56:12,064 [INFO]   Researching: Will Sweden qualify for the 2026 FIFA World Cup?...
+2026-03-25 12:56:12,566 [INFO]   Researching: Will Poland qualify for the 2026 FIFA World Cup?...
+2026-03-25 12:56:12,704 [INFO]   Researching: Will Ukraine qualify for the 2026 FIFA World Cup?...
+2026-03-25 12:56:13,980 [INFO]   Researching: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?...
+2026-03-25 12:56:27,601 [INFO]   Researching: Will the Edmonton Oilers win the 2026 NHL Stanley Cup?...
+2026-03-25 12:56:28,404 [INFO]   Researching: Will the Dallas Stars win the 2026 NHL Stanley Cup?...
+2026-03-25 12:56:29,217 [INFO]   Researching: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?...
+2026-03-25 12:56:29,255 [INFO]   Researching: Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?...
+2026-03-25 12:56:29,974 [INFO]   Researching: Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?...
+2026-03-25 12:56:30,751 [INFO]   Researching: Will the Buffalo Sabres win the 2026 NHL Stanley Cup?...
+2026-03-25 12:56:31,771 [INFO]   Researching: Will the Oklahoma City Thunder win the 2026 NBA Finals?...
+2026-03-25 12:56:32,866 [INFO]   Researching: Will the Boston Celtics win the 2026 NBA Finals?...
+2026-03-25 12:56:46,700 [INFO]   Researching: Will the Denver Nuggets win the 2026 NBA Finals?...
+2026-03-25 12:56:47,729 [INFO]   Researching: Will the San Antonio Spurs win the 2026 NBA Finals?...
+2026-03-25 12:56:48,202 [INFO]   Researching: Will Spain win the 2026 FIFA World Cup?...
+2026-03-25 12:56:49,389 [INFO]   Researching: Will England win the 2026 FIFA World Cup?...
+2026-03-25 12:57:02,243 [INFO]   Researching: Will France win the 2026 FIFA World Cup?...
+2026-03-25 12:57:03,206 [INFO]   Researching: Will Brazil win the 2026 FIFA World Cup?...
+2026-03-25 12:57:05,596 [INFO]   Researching: Will Argentina win the 2026 FIFA World Cup?...
+2026-03-25 12:57:06,414 [INFO]   Researching: Will Germany win the 2026 FIFA World Cup?...
+2026-03-25 12:57:06,631 [INFO]   Researching: Will Portugal win the 2026 FIFA World Cup?...
+2026-03-25 12:57:06,714 [INFO]   Researching: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year awa...
+2026-03-25 12:57:19,855 [INFO]   Researching: Will Kon Knueppel win the 2025–26 NBA Rookie of the Year awa...
+2026-03-25 12:57:20,366 [INFO]   Researching: Will Ken Paxton win the 2026 Texas Republican Primary?...
+2026-03-25 12:57:20,962 [INFO]   Researching: Will John Cornyn win the 2026 Texas Republican Primary?...
+2026-03-25 12:57:21,805 [INFO]   Researching: SCOTUS accepts sports event contract case by July 31, 2026? ...
+2026-03-25 12:57:22,321 [INFO]   Researching: Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?...
+2026-03-25 12:57:23,034 [INFO]   Researching: Will Luka Doncic win the 2025–2026 NBA MVP?...
+2026-03-25 12:57:23,917 [INFO]   Researching: Will Victor Wembanyama win the 2025–2026 NBA MVP?...
+2026-03-25 12:57:24,291 [INFO]   Researching: Will the Cleveland Cavaliers win the NBA Eastern Conference ...
+2026-03-25 12:57:24,293 [INFO]   Researching: Will the New York Knicks win the NBA Eastern Conference Fina...
+2026-03-25 12:57:25,615 [INFO]   Researching: Will the Detroit Pistons win the NBA Eastern Conference Fina...
+2026-03-25 12:57:39,329 [INFO]   Researching: Will the Boston Celtics win the NBA Eastern Conference Final...
+2026-03-25 12:57:41,275 [INFO]   Researching: Will the Oklahoma City Thunder win the NBA Western Conferenc...
+2026-03-25 12:58:30,058 [INFO]   → Research complete on 43 markets
+2026-03-25 12:58:30,059 [INFO] Agent 3: Calibrating probabilities...
+2026-03-25 12:58:33,738 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:58:33,777 [INFO]   [FAIL] BitBoy convicted? | edge=-0.40% conf=35% models=1
+2026-03-25 12:58:37,554 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:58:37,561 [INFO]   [FAIL] New Playboi Carti Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-25 12:58:41,977 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:58:41,979 [INFO]   [PASS] Will Jesus Christ return before GTA VI? | edge=48.00% conf=95% models=1
+2026-03-25 12:58:46,316 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:58:46,318 [INFO]   [PASS] Will bitcoin hit $1m before GTA VI? | edge=5.80% conf=62% models=1
+2026-03-25 12:58:49,794 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:58:49,808 [INFO]   [FAIL] Russia-Ukraine Ceasefire before GTA VI? | edge=-4.00% conf=35% models=1
+2026-03-25 12:58:54,919 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:58:54,921 [INFO]   [FAIL] Will China invades Taiwan before GTA VI? | edge=0.00% conf=15% models=1
+2026-03-25 12:58:58,148 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:58:58,169 [INFO]   [FAIL] Trump out as President before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-25 12:59:01,805 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:59:01,820 [INFO]   [FAIL] Will Italy qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 12:59:05,691 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:59:05,702 [INFO]   [FAIL] New Rihanna Album before GTA VI? | edge=0.00% conf=35% models=1
+2026-03-25 12:59:09,976 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:59:09,978 [INFO]   [FAIL] Will the Edmonton Oilers win the 2026 NHL Stanley  | edge=0.00% conf=95% models=1
+2026-03-25 12:59:15,512 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:59:15,529 [INFO]   [FAIL] Will the Dallas Stars win the 2026 NHL Stanley Cup | edge=-0.10% conf=95% models=1
+2026-03-25 12:59:19,809 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:59:19,811 [INFO]   [FAIL] Will Sweden qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 12:59:23,795 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:59:23,807 [INFO]   [FAIL] Will Ukraine qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 12:59:27,432 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:59:27,447 [INFO]   [FAIL] Will the Tampa Bay Lightning win the 2026 NHL Stan | edge=-0.40% conf=20% models=1
+2026-03-25 12:59:31,505 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:59:31,517 [INFO]   [FAIL] Will the Carolina Hurricanes win the 2026 NHL Stan | edge=0.00% conf=15% models=1
+2026-03-25 12:59:34,963 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:59:34,978 [INFO]   [FAIL] Will the Oklahoma City Thunder win the 2026 NBA Fi | edge=0.00% conf=15% models=1
+2026-03-25 12:59:38,988 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:59:39,008 [INFO]   [FAIL] Will the Colorado Avalanche win the 2026 NHL Stanl | edge=-0.30% conf=15% models=1
+2026-03-25 12:59:42,501 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:59:42,503 [INFO]   [FAIL] Will the Denver Nuggets win the 2026 NBA Finals? | edge=0.00% conf=95% models=1
+2026-03-25 12:59:46,341 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:59:46,351 [INFO]   [FAIL] Will the Buffalo Sabres win the 2026 NHL Stanley C | edge=-0.50% conf=85% models=1
+2026-03-25 12:59:50,549 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:59:50,584 [INFO]   [FAIL] Will Spain win the 2026 FIFA World Cup? | edge=0.30% conf=95% models=1
+2026-03-25 12:59:54,185 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:59:54,187 [INFO]   [FAIL] Will the Vegas Golden Knights win the 2026 NHL Sta | edge=0.20% conf=35% models=1
+2026-03-25 12:59:57,713 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:59:57,731 [INFO]   [FAIL] Will Poland qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 13:00:01,693 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:00:01,695 [INFO]   [FAIL] Will the San Antonio Spurs win the 2026 NBA Finals | edge=0.40% conf=85% models=1
+2026-03-25 13:00:06,790 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:00:06,793 [INFO]   [FAIL] Will Argentina win the 2026 FIFA World Cup? | edge=0.30% conf=95% models=1
+2026-03-25 13:00:12,015 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:00:12,017 [INFO]   [FAIL] Will the Boston Celtics win the 2026 NBA Finals? | edge=0.30% conf=15% models=1
+2026-03-25 13:00:16,743 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:00:16,745 [INFO]   [FAIL] Will England win the 2026 FIFA World Cup? | edge=-0.30% conf=95% models=1
+2026-03-25 13:00:20,552 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:00:20,555 [INFO]   [FAIL] Will France win the 2026 FIFA World Cup? | edge=-0.40% conf=95% models=1
+2026-03-25 13:00:24,662 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:00:24,677 [INFO]   [FAIL] Will Brazil win the 2026 FIFA World Cup? | edge=-0.30% conf=95% models=1
+2026-03-25 13:00:27,986 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:00:27,997 [INFO]   [FAIL] Will Kon Knueppel win the 2025–26 NBA Rookie of th | edge=0.10% conf=15% models=1
+2026-03-25 13:00:32,057 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:00:32,080 [INFO]   [FAIL] Will Ken Paxton win the 2026 Texas Republican Prim | edge=0.00% conf=15% models=1
+2026-03-25 13:00:36,015 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:00:36,032 [INFO]   [FAIL] Will John Cornyn win the 2026 Texas Republican Pri | edge=0.00% conf=15% models=1
+2026-03-25 13:00:39,468 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:00:39,470 [INFO]   [FAIL] SCOTUS accepts sports event contract case by July  | edge=0.00% conf=35% models=1
+2026-03-25 13:00:48,175 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:00:48,177 [INFO]   [FAIL] Will Germany win the 2026 FIFA World Cup? | edge=0.20% conf=85% models=1
+2026-03-25 13:00:51,751 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:00:51,767 [INFO]   [FAIL] Will Portugal win the 2026 FIFA World Cup? | edge=-0.20% conf=95% models=1
+2026-03-25 13:00:55,653 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:00:55,656 [INFO]   [FAIL] Will Luka Doncic win the 2025–2026 NBA MVP? | edge=0.10% conf=35% models=1
+2026-03-25 13:00:59,143 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:00:59,145 [INFO]   [FAIL] Will the Cleveland Cavaliers win the NBA Eastern C | edge=0.00% conf=15% models=1
+2026-03-25 13:01:03,433 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:01:03,439 [INFO]   [FAIL] Will Shai Gilgeous-Alexander win the 2025–2026 NBA | edge=0.00% conf=15% models=1
+2026-03-25 13:01:07,117 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:01:07,119 [INFO]   [FAIL] Will Cooper Flagg win the 2025–26 NBA Rookie of th | edge=0.00% conf=15% models=1
+2026-03-25 13:01:10,821 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:01:10,836 [INFO]   [FAIL] Will the New York Knicks win the NBA Eastern Confe | edge=0.00% conf=95% models=1
+2026-03-25 13:01:14,497 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:01:14,505 [INFO]   [FAIL] Will the Oklahoma City Thunder win the NBA Western | edge=0.00% conf=15% models=1
+2026-03-25 13:01:17,673 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:01:17,676 [INFO]   [FAIL] Will the Detroit Pistons win the NBA Eastern Confe | edge=0.00% conf=95% models=1
+2026-03-25 13:01:21,642 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:01:21,656 [INFO]   [FAIL] Will Victor Wembanyama win the 2025–2026 NBA MVP? | edge=0.30% conf=85% models=1
+2026-03-25 13:01:25,244 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:01:25,245 [INFO]   [FAIL] Will the Boston Celtics win the NBA Eastern Confer | edge=-0.20% conf=15% models=1
+2026-03-25 13:01:25,246 [INFO]   → 2/43 markets passed confidence threshold
+2026-03-25 13:01:25,246 [INFO] Agent 4: Risk/sizing (3 currently open)...
+2026-03-25 13:01:25,247 [INFO]   BLOCKED: Already have open position in market 540819
+2026-03-25 13:01:25,249 [INFO]   [DRY] TRADE: NO 'Will bitcoin hit $1m before GTA VI?' | $29.71 @ 51% | edge=5.80% conf=62% | POLYMARKET
+2026-03-25 13:01:25,249 [INFO]   Sizing: Bankroll $1000 | Price 51% | Win prob 57% (NO) | Net odds 0.95x | Full Kelly 11.9% → Quarter-Kelly 3.0% → Raw $29.71 → Capped $29.71 | EV $+3.37 | VaR(95%) $48.87
+2026-03-25 13:01:25,249 [INFO] === Cycle complete ===
+
+2026-03-25 13:01:25,250 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 13:31:25,365 [INFO] === Cycle start | mode=dry | 2026-03-25T12:31:25.365285 ===
+2026-03-25 13:31:25,371 [INFO] Agent 1: Scanning markets...
+2026-03-25 13:31:25,371 [INFO] Fetching Polymarket markets...
+2026-03-25 13:31:25,958 [INFO]   Fetched 300 total markets
+2026-03-25 13:31:25,963 [INFO]   300 crypto/finance markets found
+2026-03-25 13:31:25,966 [INFO]   Scanner flagged 42 markets for research
+2026-03-25 13:31:25,968 [INFO]   → 42 markets flagged
+2026-03-25 13:31:25,968 [INFO] Agent 2: Running parallel research...
+2026-03-25 13:31:25,969 [INFO]   Researching: BitBoy convicted?...
+2026-03-25 13:31:25,970 [INFO]   Researching: New Rihanna Album before GTA VI?...
+2026-03-25 13:31:25,970 [INFO]   Researching: New Playboi Carti Album before GTA VI?...
+2026-03-25 13:31:25,969 [INFO]   Researching: Russia-Ukraine Ceasefire before GTA VI?...
+2026-03-25 13:31:25,971 [INFO]   Researching: Will Jesus Christ return before GTA VI?...
+2026-03-25 13:31:28,657 [INFO]   Researching: Trump out as President before GTA VI?...
+2026-03-25 13:31:29,262 [INFO]   Researching: Will China invades Taiwan before GTA VI?...
+2026-03-25 13:31:29,492 [INFO]   Researching: Will bitcoin hit $1m before GTA VI?...
+2026-03-25 13:31:29,559 [INFO]   Researching: Will Italy qualify for the 2026 FIFA World Cup?...
+2026-03-25 13:31:30,113 [INFO]   Researching: Will Sweden qualify for the 2026 FIFA World Cup?...
+2026-03-25 13:31:32,050 [INFO]   Researching: Will Poland qualify for the 2026 FIFA World Cup?...
+2026-03-25 13:31:32,193 [INFO]   Researching: Will Ukraine qualify for the 2026 FIFA World Cup?...
+2026-03-25 13:31:32,456 [INFO]   Researching: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?...
+2026-03-25 13:31:32,959 [INFO]   Researching: Will the Edmonton Oilers win the 2026 NHL Stanley Cup?...
+2026-03-25 13:31:33,164 [INFO]   Researching: Will the Dallas Stars win the 2026 NHL Stanley Cup?...
+2026-03-25 13:31:34,736 [INFO]   Researching: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?...
+2026-03-25 13:31:35,530 [INFO]   Researching: Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?...
+2026-03-25 13:31:35,739 [INFO]   Researching: Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?...
+2026-03-25 13:31:35,826 [INFO]   Researching: Will the Buffalo Sabres win the 2026 NHL Stanley Cup?...
+2026-03-25 13:31:36,004 [INFO]   Researching: Will the Oklahoma City Thunder win the 2026 NBA Finals?...
+2026-03-25 13:31:38,008 [INFO]   Researching: Will the Boston Celtics win the 2026 NBA Finals?...
+2026-03-25 13:31:38,019 [INFO]   Researching: Will the Denver Nuggets win the 2026 NBA Finals?...
+2026-03-25 13:31:38,412 [INFO]   Researching: Will the San Antonio Spurs win the 2026 NBA Finals?...
+2026-03-25 13:31:38,892 [INFO]   Researching: Will Spain win the 2026 FIFA World Cup?...
+2026-03-25 13:31:38,988 [INFO]   Researching: Will England win the 2026 FIFA World Cup?...
+2026-03-25 13:31:40,450 [INFO]   Researching: Will France win the 2026 FIFA World Cup?...
+2026-03-25 13:31:40,538 [INFO]   Researching: Will Brazil win the 2026 FIFA World Cup?...
+2026-03-25 13:31:40,833 [INFO]   Researching: Will Argentina win the 2026 FIFA World Cup?...
+2026-03-25 13:31:41,115 [INFO]   Researching: Will Germany win the 2026 FIFA World Cup?...
+2026-03-25 13:31:41,122 [INFO]   Researching: Will Portugal win the 2026 FIFA World Cup?...
+2026-03-25 13:31:41,592 [INFO]   Researching: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year awa...
+2026-03-25 13:31:41,741 [INFO]   Researching: Will Ken Paxton win the 2026 Texas Republican Primary?...
+2026-03-25 13:31:41,918 [INFO]   Researching: Will John Cornyn win the 2026 Texas Republican Primary?...
+2026-03-25 13:31:41,955 [INFO]   Researching: SCOTUS accepts sports event contract case by July 31, 2026? ...
+2026-03-25 13:31:42,070 [INFO]   Researching: Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?...
+2026-03-25 13:31:42,609 [INFO]   Researching: Will Luka Doncic win the 2025–2026 NBA MVP?...
+2026-03-25 13:31:42,616 [INFO]   Researching: Will Victor Wembanyama win the 2025–2026 NBA MVP?...
+2026-03-25 13:31:42,824 [INFO]   Researching: Will the Cleveland Cavaliers win the NBA Eastern Conference ...
+2026-03-25 13:31:42,832 [INFO]   Researching: Will the New York Knicks win the NBA Eastern Conference Fina...
+2026-03-25 13:31:42,840 [INFO]   Researching: Will the Detroit Pistons win the NBA Eastern Conference Fina...
+2026-03-25 13:31:43,455 [INFO]   Researching: Will the Boston Celtics win the NBA Eastern Conference Final...
+2026-03-25 13:31:43,618 [INFO]   Researching: Will the Oklahoma City Thunder win the NBA Western Conferenc...
+2026-03-25 13:31:44,666 [INFO]   → Research complete on 42 markets
+2026-03-25 13:31:44,666 [INFO] Agent 3: Calibrating probabilities...
+2026-03-25 13:31:48,521 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:31:48,527 [INFO]   [FAIL] New Rihanna Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-25 13:31:52,116 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:31:52,129 [INFO]   [FAIL] New Playboi Carti Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-25 13:31:55,670 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:31:55,675 [INFO]   [FAIL] Russia-Ukraine Ceasefire before GTA VI? | edge=2.00% conf=35% models=1
+2026-03-25 13:31:59,236 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:31:59,238 [INFO]   [FAIL] BitBoy convicted? | edge=-0.20% conf=35% models=1
+2026-03-25 13:32:02,834 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:32:02,837 [INFO]   [PASS] Will Jesus Christ return before GTA VI? | edge=47.00% conf=95% models=1
+2026-03-25 13:32:06,483 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:32:06,510 [INFO]   [FAIL] Trump out as President before GTA VI? | edge=4.00% conf=35% models=1
+2026-03-25 13:32:10,457 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:32:10,462 [INFO]   [FAIL] Will China invades Taiwan before GTA VI? | edge=0.00% conf=15% models=1
+2026-03-25 13:32:14,820 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:32:14,840 [INFO]   [FAIL] Will Italy qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 13:32:18,603 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:32:18,605 [INFO]   [FAIL] Will Sweden qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 13:32:23,406 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:32:23,408 [INFO]   [PASS] Will bitcoin hit $1m before GTA VI? | edge=5.70% conf=62% models=1
+2026-03-25 13:32:27,263 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:32:27,265 [INFO]   [FAIL] Will Poland qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 13:32:31,566 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:32:31,571 [INFO]   [FAIL] Will Ukraine qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 13:32:35,685 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:32:35,688 [INFO]   [FAIL] Will the Carolina Hurricanes win the 2026 NHL Stan | edge=0.00% conf=85% models=1
+2026-03-25 13:32:39,576 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:32:39,580 [INFO]   [FAIL] Will the Edmonton Oilers win the 2026 NHL Stanley  | edge=0.00% conf=95% models=1
+2026-03-25 13:32:43,884 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:32:43,904 [INFO]   [FAIL] Will the Dallas Stars win the 2026 NHL Stanley Cup | edge=0.40% conf=65% models=1
+2026-03-25 13:32:47,681 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:32:47,684 [INFO]   [FAIL] Will the Colorado Avalanche win the 2026 NHL Stanl | edge=0.10% conf=15% models=1
+2026-03-25 13:32:51,661 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:32:51,675 [INFO]   [FAIL] Will the Vegas Golden Knights win the 2026 NHL Sta | edge=0.10% conf=30% models=1
+2026-03-25 13:32:55,621 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:32:55,636 [INFO]   [FAIL] Will the Tampa Bay Lightning win the 2026 NHL Stan | edge=-0.40% conf=25% models=1
+2026-03-25 13:33:00,159 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:00,161 [INFO]   [FAIL] Will the Buffalo Sabres win the 2026 NHL Stanley C | edge=0.40% conf=85% models=1
+2026-03-25 13:33:03,848 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:03,850 [INFO]   [FAIL] Will the Oklahoma City Thunder win the 2026 NBA Fi | edge=0.00% conf=15% models=1
+2026-03-25 13:33:08,453 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:08,457 [INFO]   [FAIL] Will the San Antonio Spurs win the 2026 NBA Finals | edge=0.30% conf=85% models=1
+2026-03-25 13:33:11,664 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:11,706 [INFO]   [FAIL] Will the Boston Celtics win the 2026 NBA Finals? | edge=0.30% conf=15% models=1
+2026-03-25 13:33:15,140 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:15,154 [INFO]   [FAIL] Will the Denver Nuggets win the 2026 NBA Finals? | edge=0.00% conf=85% models=1
+2026-03-25 13:33:18,802 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:18,805 [INFO]   [FAIL] Will England win the 2026 FIFA World Cup? | edge=-0.20% conf=95% models=1
+2026-03-25 13:33:23,374 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:23,393 [INFO]   [FAIL] Will Spain win the 2026 FIFA World Cup? | edge=0.40% conf=85% models=1
+2026-03-25 13:33:28,655 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:28,659 [INFO]   [FAIL] Will Argentina win the 2026 FIFA World Cup? | edge=0.20% conf=95% models=1
+2026-03-25 13:33:32,322 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:32,335 [INFO]   [FAIL] Will Brazil win the 2026 FIFA World Cup? | edge=-0.30% conf=95% models=1
+2026-03-25 13:33:35,998 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:36,000 [INFO]   [FAIL] Will France win the 2026 FIFA World Cup? | edge=-0.30% conf=95% models=1
+2026-03-25 13:33:39,786 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:39,803 [INFO]   [FAIL] Will Portugal win the 2026 FIFA World Cup? | edge=-0.10% conf=95% models=1
+2026-03-25 13:33:43,193 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:43,213 [INFO]   [FAIL] Will Germany win the 2026 FIFA World Cup? | edge=0.20% conf=95% models=1
+2026-03-25 13:33:46,965 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:46,968 [INFO]   [FAIL] Will Cooper Flagg win the 2025–26 NBA Rookie of th | edge=0.00% conf=15% models=1
+2026-03-25 13:33:50,442 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:50,444 [INFO]   [FAIL] Will Ken Paxton win the 2026 Texas Republican Prim | edge=0.00% conf=15% models=1
+2026-03-25 13:33:54,649 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:54,651 [INFO]   [FAIL] SCOTUS accepts sports event contract case by July  | edge=0.00% conf=35% models=1
+2026-03-25 13:33:57,759 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:33:57,778 [INFO]   [FAIL] Will John Cornyn win the 2026 Texas Republican Pri | edge=0.00% conf=15% models=1
+2026-03-25 13:34:00,657 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:34:00,659 [INFO]   [FAIL] Will Shai Gilgeous-Alexander win the 2025–2026 NBA | edge=0.00% conf=15% models=1
+2026-03-25 13:34:05,685 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:34:05,690 [INFO]   [FAIL] Will Victor Wembanyama win the 2025–2026 NBA MVP? | edge=0.40% conf=85% models=1
+2026-03-25 13:34:09,293 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:34:09,297 [INFO]   [FAIL] Will the Cleveland Cavaliers win the NBA Eastern C | edge=0.00% conf=15% models=1
+2026-03-25 13:34:13,175 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:34:13,177 [INFO]   [FAIL] Will the Detroit Pistons win the NBA Eastern Confe | edge=0.00% conf=95% models=1
+2026-03-25 13:34:17,588 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:34:17,604 [INFO]   [FAIL] Will the New York Knicks win the NBA Eastern Confe | edge=0.00% conf=85% models=1
+2026-03-25 13:34:21,137 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:34:21,139 [INFO]   [FAIL] Will Luka Doncic win the 2025–2026 NBA MVP? | edge=-0.10% conf=35% models=1
+2026-03-25 13:34:25,208 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:34:25,223 [INFO]   [FAIL] Will the Oklahoma City Thunder win the NBA Western | edge=0.00% conf=15% models=1
+2026-03-25 13:34:30,052 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 13:34:30,075 [INFO]   [FAIL] Will the Boston Celtics win the NBA Eastern Confer | edge=-0.20% conf=15% models=1
+2026-03-25 13:34:30,075 [INFO]   → 2/42 markets passed confidence threshold
+2026-03-25 13:34:30,075 [INFO] Agent 4: Risk/sizing (4 currently open)...
+2026-03-25 13:34:30,076 [INFO]   BLOCKED: Already have open position in market 540819
+2026-03-25 13:34:30,076 [INFO]   BLOCKED: Already have open position in market 540844
+2026-03-25 13:34:30,076 [INFO] === Cycle complete ===
+
+2026-03-25 13:34:30,077 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 14:04:30,309 [INFO] === Cycle start | mode=dry | 2026-03-25T13:04:30.308628 ===
+2026-03-25 14:04:30,314 [INFO] Agent 1: Scanning markets...
+2026-03-25 14:04:30,314 [INFO] Fetching Polymarket markets...
+2026-03-25 14:04:30,878 [INFO]   Fetched 300 total markets
+2026-03-25 14:04:30,881 [INFO]   300 crypto/finance markets found
+2026-03-25 14:04:30,883 [INFO]   Scanner flagged 43 markets for research
+2026-03-25 14:04:30,885 [INFO]   → 43 markets flagged
+2026-03-25 14:04:30,885 [INFO] Agent 2: Running parallel research...
+2026-03-25 14:04:30,886 [INFO]   Researching: BitBoy convicted?...
+2026-03-25 14:04:30,886 [INFO]   Researching: New Rihanna Album before GTA VI?...
+2026-03-25 14:04:30,886 [INFO]   Researching: Russia-Ukraine Ceasefire before GTA VI?...
+2026-03-25 14:04:30,887 [INFO]   Researching: Will Jesus Christ return before GTA VI?...
+2026-03-25 14:04:30,887 [INFO]   Researching: New Playboi Carti Album before GTA VI?...
+2026-03-25 14:04:33,296 [INFO]   Researching: Trump out as President before GTA VI?...
+2026-03-25 14:04:33,685 [INFO]   Researching: Will China invades Taiwan before GTA VI?...
+2026-03-25 14:04:34,095 [INFO]   Researching: Will bitcoin hit $1m before GTA VI?...
+2026-03-25 14:04:34,264 [INFO]   Researching: Will Italy qualify for the 2026 FIFA World Cup?...
+2026-03-25 14:04:34,885 [INFO]   Researching: Will Sweden qualify for the 2026 FIFA World Cup?...
+2026-03-25 14:04:35,567 [INFO]   Researching: Will Poland qualify for the 2026 FIFA World Cup?...
+2026-03-25 14:04:36,605 [INFO]   Researching: Will Ukraine qualify for the 2026 FIFA World Cup?...
+2026-03-25 14:04:37,359 [INFO]   Researching: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?...
+2026-03-25 14:04:37,793 [INFO]   Researching: Will the Edmonton Oilers win the 2026 NHL Stanley Cup?...
+2026-03-25 14:04:37,810 [INFO]   Researching: Will the Dallas Stars win the 2026 NHL Stanley Cup?...
+2026-03-25 14:04:38,024 [INFO]   Researching: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?...
+2026-03-25 14:04:39,283 [INFO]   Researching: Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?...
+2026-03-25 14:04:40,275 [INFO]   Researching: Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?...
+2026-03-25 14:04:40,556 [INFO]   Researching: Will the Buffalo Sabres win the 2026 NHL Stanley Cup?...
+2026-03-25 14:04:41,464 [INFO]   Researching: Will the Oklahoma City Thunder win the 2026 NBA Finals?...
+2026-03-25 14:04:41,501 [INFO]   Researching: Will the Cleveland Cavaliers win the 2026 NBA Finals?...
+2026-03-25 14:04:42,103 [INFO]   Researching: Will the Boston Celtics win the 2026 NBA Finals?...
+2026-03-25 14:04:43,264 [INFO]   Researching: Will the Denver Nuggets win the 2026 NBA Finals?...
+2026-03-25 14:04:43,838 [INFO]   Researching: Will the San Antonio Spurs win the 2026 NBA Finals?...
+2026-03-25 14:04:43,965 [INFO]   Researching: Will Spain win the 2026 FIFA World Cup?...
+2026-03-25 14:04:44,281 [INFO]   Researching: Will England win the 2026 FIFA World Cup?...
+2026-03-25 14:04:44,683 [INFO]   Researching: Will France win the 2026 FIFA World Cup?...
+2026-03-25 14:04:45,578 [INFO]   Researching: Will Brazil win the 2026 FIFA World Cup?...
+2026-03-25 14:04:45,620 [INFO]   Researching: Will Argentina win the 2026 FIFA World Cup?...
+2026-03-25 14:04:45,769 [INFO]   Researching: Will Germany win the 2026 FIFA World Cup?...
+2026-03-25 14:04:45,780 [INFO]   Researching: Will Portugal win the 2026 FIFA World Cup?...
+2026-03-25 14:04:46,031 [INFO]   Researching: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year awa...
+2026-03-25 14:04:46,448 [INFO]   Researching: Will Ken Paxton win the 2026 Texas Republican Primary?...
+2026-03-25 14:04:46,637 [INFO]   Researching: Will John Cornyn win the 2026 Texas Republican Primary?...
+2026-03-25 14:04:46,848 [INFO]   Researching: SCOTUS accepts sports event contract case by July 31, 2026? ...
+2026-03-25 14:04:46,999 [INFO]   Researching: Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?...
+2026-03-25 14:04:47,177 [INFO]   Researching: Will Luka Doncic win the 2025–2026 NBA MVP?...
+2026-03-25 14:04:47,425 [INFO]   Researching: Will Victor Wembanyama win the 2025–2026 NBA MVP?...
+2026-03-25 14:04:47,574 [INFO]   Researching: Will the Cleveland Cavaliers win the NBA Eastern Conference ...
+2026-03-25 14:04:47,606 [INFO]   Researching: Will the New York Knicks win the NBA Eastern Conference Fina...
+2026-03-25 14:04:47,765 [INFO]   Researching: Will the Detroit Pistons win the NBA Eastern Conference Fina...
+2026-03-25 14:04:47,983 [INFO]   Researching: Will the Boston Celtics win the NBA Eastern Conference Final...
+2026-03-25 14:04:48,229 [INFO]   Researching: Will the Oklahoma City Thunder win the NBA Western Conferenc...
+2026-03-25 14:04:49,236 [INFO]   → Research complete on 43 markets
+2026-03-25 14:04:49,237 [INFO] Agent 3: Calibrating probabilities...
+2026-03-25 14:04:52,189 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:04:52,194 [INFO]   [FAIL] New Rihanna Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-25 14:04:55,051 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:04:55,071 [INFO]   [FAIL] New Playboi Carti Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-25 14:04:59,150 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:04:59,152 [INFO]   [FAIL] Russia-Ukraine Ceasefire before GTA VI? | edge=2.00% conf=35% models=1
+2026-03-25 14:05:03,887 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:05:03,891 [INFO]   [PASS] Will Jesus Christ return before GTA VI? | edge=48.00% conf=95% models=1
+2026-03-25 14:05:08,083 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:05:08,085 [INFO]   [FAIL] BitBoy convicted? | edge=-0.30% conf=35% models=1
+2026-03-25 14:05:13,028 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:05:13,032 [INFO]   [FAIL] Trump out as President before GTA VI? | edge=4.00% conf=35% models=1
+2026-03-25 14:05:16,889 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:05:16,893 [INFO]   [FAIL] Will China invades Taiwan before GTA VI? | edge=0.00% conf=15% models=1
+2026-03-25 14:05:20,476 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:05:20,480 [INFO]   [FAIL] Will Sweden qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 14:05:25,695 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:05:25,697 [INFO]   [PASS] Will bitcoin hit $1m before GTA VI? | edge=4.70% conf=62% models=1
+2026-03-25 14:05:30,416 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:05:30,419 [INFO]   [FAIL] Will Italy qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 14:05:34,060 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:05:34,062 [INFO]   [FAIL] Will Poland qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 14:05:38,406 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:05:38,423 [INFO]   [FAIL] Will Ukraine qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 14:05:42,414 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:05:42,418 [INFO]   [FAIL] Will the Edmonton Oilers win the 2026 NHL Stanley  | edge=0.00% conf=45% models=1
+2026-03-25 14:05:46,362 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:05:46,384 [INFO]   [FAIL] Will the Carolina Hurricanes win the 2026 NHL Stan | edge=0.00% conf=85% models=1
+2026-03-25 14:05:49,869 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:05:49,874 [INFO]   [FAIL] Will the Dallas Stars win the 2026 NHL Stanley Cup | edge=0.20% conf=95% models=1
+2026-03-25 14:05:53,781 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:05:53,804 [INFO]   [FAIL] Will the Colorado Avalanche win the 2026 NHL Stanl | edge=-0.30% conf=15% models=1
+2026-03-25 14:05:57,856 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:05:57,861 [INFO]   [FAIL] Will the Vegas Golden Knights win the 2026 NHL Sta | edge=0.00% conf=95% models=1
+2026-03-25 14:06:01,646 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:01,648 [INFO]   [FAIL] Will the Tampa Bay Lightning win the 2026 NHL Stan | edge=0.50% conf=15% models=1
+2026-03-25 14:06:04,708 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:04,713 [INFO]   [FAIL] Will the Oklahoma City Thunder win the 2026 NBA Fi | edge=0.00% conf=15% models=1
+2026-03-25 14:06:08,693 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:08,695 [INFO]   [FAIL] Will the Buffalo Sabres win the 2026 NHL Stanley C | edge=0.40% conf=85% models=1
+2026-03-25 14:06:11,989 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:11,992 [INFO]   [FAIL] Will the Cleveland Cavaliers win the 2026 NBA Fina | edge=0.00% conf=92% models=1
+2026-03-25 14:06:15,585 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:15,593 [INFO]   [FAIL] Will the Boston Celtics win the 2026 NBA Finals? | edge=0.30% conf=15% models=1
+2026-03-25 14:06:20,507 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:20,510 [INFO]   [FAIL] Will the San Antonio Spurs win the 2026 NBA Finals | edge=0.30% conf=85% models=1
+2026-03-25 14:06:23,393 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:23,425 [INFO]   [FAIL] Will the Denver Nuggets win the 2026 NBA Finals? | edge=0.00% conf=35% models=1
+2026-03-25 14:06:27,408 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:27,410 [INFO]   [FAIL] Will Spain win the 2026 FIFA World Cup? | edge=0.40% conf=92% models=1
+2026-03-25 14:06:31,309 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:31,311 [INFO]   [FAIL] Will England win the 2026 FIFA World Cup? | edge=-0.10% conf=85% models=1
+2026-03-25 14:06:34,772 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:34,794 [INFO]   [FAIL] Will France win the 2026 FIFA World Cup? | edge=-0.30% conf=95% models=1
+2026-03-25 14:06:38,920 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:38,924 [INFO]   [FAIL] Will Argentina win the 2026 FIFA World Cup? | edge=0.30% conf=95% models=1
+2026-03-25 14:06:43,022 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:43,026 [INFO]   [FAIL] Will Portugal win the 2026 FIFA World Cup? | edge=-0.10% conf=95% models=1
+2026-03-25 14:06:46,246 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:46,262 [INFO]   [FAIL] Will Germany win the 2026 FIFA World Cup? | edge=0.20% conf=95% models=1
+2026-03-25 14:06:51,570 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:51,584 [INFO]   [FAIL] Will Cooper Flagg win the 2025–26 NBA Rookie of th | edge=0.00% conf=15% models=1
+2026-03-25 14:06:55,610 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:55,612 [INFO]   [FAIL] Will Ken Paxton win the 2026 Texas Republican Prim | edge=0.00% conf=15% models=1
+2026-03-25 14:06:59,088 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:06:59,090 [INFO]   [FAIL] Will Brazil win the 2026 FIFA World Cup? | edge=-0.30% conf=95% models=1
+2026-03-25 14:07:03,573 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:07:03,575 [INFO]   [FAIL] Will John Cornyn win the 2026 Texas Republican Pri | edge=0.00% conf=15% models=1
+2026-03-25 14:07:07,677 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:07:07,681 [INFO]   [FAIL] SCOTUS accepts sports event contract case by July  | edge=0.00% conf=35% models=1
+2026-03-25 14:07:11,846 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:07:11,851 [INFO]   [FAIL] Will Shai Gilgeous-Alexander win the 2025–2026 NBA | edge=0.00% conf=15% models=1
+2026-03-25 14:07:17,105 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:07:17,109 [INFO]   [FAIL] Will Luka Doncic win the 2025–2026 NBA MVP? | edge=-0.10% conf=85% models=1
+2026-03-25 14:07:21,205 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:07:21,213 [INFO]   [FAIL] Will Victor Wembanyama win the 2025–2026 NBA MVP? | edge=0.40% conf=65% models=1
+2026-03-25 14:07:24,865 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:07:24,881 [INFO]   [FAIL] Will the Cleveland Cavaliers win the NBA Eastern C | edge=0.00% conf=15% models=1
+2026-03-25 14:07:28,373 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:07:28,375 [INFO]   [FAIL] Will the New York Knicks win the NBA Eastern Confe | edge=0.00% conf=15% models=1
+2026-03-25 14:07:32,038 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:07:32,040 [INFO]   [FAIL] Will the Detroit Pistons win the NBA Eastern Confe | edge=0.00% conf=95% models=1
+2026-03-25 14:07:36,244 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:07:36,247 [INFO]   [FAIL] Will the Boston Celtics win the NBA Eastern Confer | edge=0.30% conf=15% models=1
+2026-03-25 14:07:39,314 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:07:39,329 [INFO]   [FAIL] Will the Oklahoma City Thunder win the NBA Western | edge=0.00% conf=15% models=1
+2026-03-25 14:07:39,329 [INFO]   → 2/43 markets passed confidence threshold
+2026-03-25 14:07:39,330 [INFO] Agent 4: Risk/sizing (4 currently open)...
+2026-03-25 14:07:39,331 [INFO]   BLOCKED: Already have open position in market 540819
+2026-03-25 14:07:39,332 [INFO]   BLOCKED: Already have open position in market 540844
+2026-03-25 14:07:39,332 [INFO] === Cycle complete ===
+
+2026-03-25 14:07:39,332 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 14:37:39,517 [INFO] === Cycle start | mode=dry | 2026-03-25T13:37:39.516838 ===
+2026-03-25 14:37:39,522 [INFO] Agent 1: Scanning markets...
+2026-03-25 14:37:39,522 [INFO] Fetching Polymarket markets...
+2026-03-25 14:37:40,024 [INFO]   Fetched 300 total markets
+2026-03-25 14:37:40,029 [INFO]   300 crypto/finance markets found
+2026-03-25 14:37:40,030 [INFO]   Scanner flagged 43 markets for research
+2026-03-25 14:37:40,032 [INFO]   → 43 markets flagged
+2026-03-25 14:37:40,032 [INFO] Agent 2: Running parallel research...
+2026-03-25 14:37:40,033 [INFO]   Researching: BitBoy convicted?...
+2026-03-25 14:37:40,033 [INFO]   Researching: Russia-Ukraine Ceasefire before GTA VI?...
+2026-03-25 14:37:40,034 [INFO]   Researching: New Playboi Carti Album before GTA VI?...
+2026-03-25 14:37:40,034 [INFO]   Researching: New Rihanna Album before GTA VI?...
+2026-03-25 14:37:40,035 [INFO]   Researching: Will Jesus Christ return before GTA VI?...
+2026-03-25 14:37:42,245 [INFO]   Researching: Trump out as President before GTA VI?...
+2026-03-25 14:37:43,357 [INFO]   Researching: Will China invades Taiwan before GTA VI?...
+2026-03-25 14:37:43,424 [INFO]   Researching: Will bitcoin hit $1m before GTA VI?...
+2026-03-25 14:37:43,478 [INFO]   Researching: Will Italy qualify for the 2026 FIFA World Cup?...
+2026-03-25 14:37:43,781 [INFO]   Researching: Will Sweden qualify for the 2026 FIFA World Cup?...
+2026-03-25 14:37:44,623 [INFO]   Researching: Will Poland qualify for the 2026 FIFA World Cup?...
+2026-03-25 14:37:45,813 [INFO]   Researching: Will Ukraine qualify for the 2026 FIFA World Cup?...
+2026-03-25 14:37:46,230 [INFO]   Researching: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?...
+2026-03-25 14:37:46,669 [INFO]   Researching: Will the Edmonton Oilers win the 2026 NHL Stanley Cup?...
+2026-03-25 14:37:46,879 [INFO]   Researching: Will the Dallas Stars win the 2026 NHL Stanley Cup?...
+2026-03-25 14:37:46,994 [INFO]   Researching: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?...
+2026-03-25 14:37:48,293 [INFO]   Researching: Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?...
+2026-03-25 14:37:48,922 [INFO]   Researching: Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?...
+2026-03-25 14:37:49,488 [INFO]   Researching: Will the Buffalo Sabres win the 2026 NHL Stanley Cup?...
+2026-03-25 14:37:50,019 [INFO]   Researching: Will the Oklahoma City Thunder win the 2026 NBA Finals?...
+2026-03-25 14:37:50,062 [INFO]   Researching: Will the Cleveland Cavaliers win the 2026 NBA Finals?...
+2026-03-25 14:37:50,987 [INFO]   Researching: Will the Boston Celtics win the 2026 NBA Finals?...
+2026-03-25 14:37:52,138 [INFO]   Researching: Will the Denver Nuggets win the 2026 NBA Finals?...
+2026-03-25 14:37:52,482 [INFO]   Researching: Will the San Antonio Spurs win the 2026 NBA Finals?...
+2026-03-25 14:37:52,605 [INFO]   Researching: Will Spain win the 2026 FIFA World Cup?...
+2026-03-25 14:37:52,734 [INFO]   Researching: Will England win the 2026 FIFA World Cup?...
+2026-03-25 14:37:53,517 [INFO]   Researching: Will France win the 2026 FIFA World Cup?...
+2026-03-25 14:37:54,197 [INFO]   Researching: Will Brazil win the 2026 FIFA World Cup?...
+2026-03-25 14:37:54,221 [INFO]   Researching: Will Argentina win the 2026 FIFA World Cup?...
+2026-03-25 14:37:54,438 [INFO]   Researching: Will Germany win the 2026 FIFA World Cup?...
+2026-03-25 14:37:54,510 [INFO]   Researching: Will Portugal win the 2026 FIFA World Cup?...
+2026-03-25 14:37:54,680 [INFO]   Researching: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year awa...
+2026-03-25 14:37:54,964 [INFO]   Researching: Will Ken Paxton win the 2026 Texas Republican Primary?...
+2026-03-25 14:37:54,978 [INFO]   Researching: Will John Cornyn win the 2026 Texas Republican Primary?...
+2026-03-25 14:37:55,231 [INFO]   Researching: SCOTUS accepts sports event contract case by July 31, 2026? ...
+2026-03-25 14:37:55,399 [INFO]   Researching: Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?...
+2026-03-25 14:37:55,496 [INFO]   Researching: Will Luka Doncic win the 2025–2026 NBA MVP?...
+2026-03-25 14:37:55,735 [INFO]   Researching: Will Victor Wembanyama win the 2025–2026 NBA MVP?...
+2026-03-25 14:37:55,742 [INFO]   Researching: Will the Cleveland Cavaliers win the NBA Eastern Conference ...
+2026-03-25 14:37:55,979 [INFO]   Researching: Will the New York Knicks win the NBA Eastern Conference Fina...
+2026-03-25 14:37:56,148 [INFO]   Researching: Will the Detroit Pistons win the NBA Eastern Conference Fina...
+2026-03-25 14:37:56,301 [INFO]   Researching: Will the Boston Celtics win the NBA Eastern Conference Final...
+2026-03-25 14:37:56,498 [INFO]   Researching: Will the Oklahoma City Thunder win the NBA Western Conferenc...
+2026-03-25 14:37:57,464 [INFO]   → Research complete on 43 markets
+2026-03-25 14:37:57,464 [INFO] Agent 3: Calibrating probabilities...
+2026-03-25 14:38:00,316 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:38:00,321 [INFO]   [FAIL] New Rihanna Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-25 14:38:04,626 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:38:04,643 [INFO]   [FAIL] Russia-Ukraine Ceasefire before GTA VI? | edge=-4.00% conf=35% models=1
+2026-03-25 14:38:09,907 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:38:09,913 [INFO]   [PASS] Will Jesus Christ return before GTA VI? | edge=48.00% conf=95% models=1
+2026-03-25 14:38:14,886 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:38:14,887 [INFO]   [FAIL] BitBoy convicted? | edge=-0.40% conf=35% models=1
+2026-03-25 14:38:20,369 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:38:20,372 [INFO]   [FAIL] New Playboi Carti Album before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-25 14:38:23,415 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:38:23,433 [INFO]   [FAIL] Trump out as President before GTA VI? | edge=0.00% conf=25% models=1
+2026-03-25 14:38:28,604 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:38:28,613 [INFO]   [FAIL] Will Italy qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 14:38:33,047 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:38:33,063 [INFO]   [FAIL] Will China invades Taiwan before GTA VI? | edge=0.00% conf=15% models=1
+2026-03-25 14:38:36,166 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:38:36,184 [INFO]   [FAIL] Will Sweden qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 14:38:39,529 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:38:39,532 [INFO]   [FAIL] Will Poland qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 14:38:43,726 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:38:43,743 [INFO]   [FAIL] Will bitcoin hit $1m before GTA VI? | edge=6.70% conf=58% models=1
+2026-03-25 14:38:47,405 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:38:47,407 [INFO]   [FAIL] Will Ukraine qualify for the 2026 FIFA World Cup? | edge=0.00% conf=15% models=1
+2026-03-25 14:38:51,369 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:38:51,383 [INFO]   [FAIL] Will the Carolina Hurricanes win the 2026 NHL Stan | edge=0.00% conf=85% models=1
+2026-03-25 14:38:56,203 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:38:56,205 [INFO]   [FAIL] Will the Edmonton Oilers win the 2026 NHL Stanley  | edge=0.00% conf=15% models=1
+2026-03-25 14:39:00,105 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:00,108 [INFO]   [FAIL] Will the Colorado Avalanche win the 2026 NHL Stanl | edge=0.10% conf=15% models=1
+2026-03-25 14:39:03,482 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:03,484 [INFO]   [FAIL] Will the Dallas Stars win the 2026 NHL Stanley Cup | edge=-0.30% conf=95% models=1
+2026-03-25 14:39:08,604 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:08,623 [INFO]   [FAIL] Will the Vegas Golden Knights win the 2026 NHL Sta | edge=0.00% conf=30% models=1
+2026-03-25 14:39:13,322 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:13,327 [INFO]   [FAIL] Will the Tampa Bay Lightning win the 2026 NHL Stan | edge=-0.20% conf=30% models=1
+2026-03-25 14:39:16,844 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:16,863 [INFO]   [FAIL] Will the Buffalo Sabres win the 2026 NHL Stanley C | edge=0.40% conf=85% models=1
+2026-03-25 14:39:20,275 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:20,277 [INFO]   [FAIL] Will the Cleveland Cavaliers win the 2026 NBA Fina | edge=0.00% conf=85% models=1
+2026-03-25 14:39:24,542 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:24,553 [INFO]   [FAIL] Will the Oklahoma City Thunder win the 2026 NBA Fi | edge=0.00% conf=15% models=1
+2026-03-25 14:39:27,515 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:27,522 [INFO]   [FAIL] Will the Boston Celtics win the 2026 NBA Finals? | edge=0.00% conf=95% models=1
+2026-03-25 14:39:31,027 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:31,029 [INFO]   [FAIL] Will England win the 2026 FIFA World Cup? | edge=-0.30% conf=95% models=1
+2026-03-25 14:39:34,830 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:34,832 [INFO]   [FAIL] Will the Denver Nuggets win the 2026 NBA Finals? | edge=0.00% conf=35% models=1
+2026-03-25 14:39:38,877 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:38,895 [INFO]   [FAIL] Will Spain win the 2026 FIFA World Cup? | edge=-0.50% conf=85% models=1
+2026-03-25 14:39:42,812 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:42,821 [INFO]   [FAIL] Will the San Antonio Spurs win the 2026 NBA Finals | edge=0.30% conf=85% models=1
+2026-03-25 14:39:47,019 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:47,038 [INFO]   [FAIL] Will France win the 2026 FIFA World Cup? | edge=-0.30% conf=95% models=1
+2026-03-25 14:39:50,379 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:50,381 [INFO]   [FAIL] Will Brazil win the 2026 FIFA World Cup? | edge=-0.20% conf=95% models=1
+2026-03-25 14:39:54,119 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:54,121 [INFO]   [FAIL] Will Argentina win the 2026 FIFA World Cup? | edge=0.10% conf=95% models=1
+2026-03-25 14:39:58,155 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:39:58,173 [INFO]   [FAIL] Will Germany win the 2026 FIFA World Cup? | edge=0.20% conf=95% models=1
+2026-03-25 14:40:02,155 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:40:02,158 [INFO]   [FAIL] Will Cooper Flagg win the 2025–26 NBA Rookie of th | edge=0.00% conf=15% models=1
+2026-03-25 14:40:05,845 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:40:05,848 [INFO]   [FAIL] Will Portugal win the 2026 FIFA World Cup? | edge=-0.20% conf=95% models=1
+2026-03-25 14:40:09,778 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:40:09,792 [INFO]   [FAIL] Will Ken Paxton win the 2026 Texas Republican Prim | edge=0.00% conf=15% models=1
+2026-03-25 14:40:13,371 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:40:13,384 [INFO]   [FAIL] Will John Cornyn win the 2026 Texas Republican Pri | edge=0.00% conf=15% models=1
+2026-03-25 14:40:17,218 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:40:17,221 [INFO]   [FAIL] SCOTUS accepts sports event contract case by July  | edge=0.00% conf=35% models=1
+2026-03-25 14:40:21,518 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:40:21,520 [INFO]   [FAIL] Will Shai Gilgeous-Alexander win the 2025–2026 NBA | edge=0.00% conf=15% models=1
+2026-03-25 14:40:25,440 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:40:25,457 [INFO]   [FAIL] Will Luka Doncic win the 2025–2026 NBA MVP? | edge=-0.10% conf=85% models=1
+2026-03-25 14:40:29,520 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:40:29,522 [INFO]   [FAIL] Will Victor Wembanyama win the 2025–2026 NBA MVP? | edge=-0.10% conf=85% models=1
+2026-03-25 14:40:33,252 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:40:33,262 [INFO]   [FAIL] Will the Cleveland Cavaliers win the NBA Eastern C | edge=0.00% conf=15% models=1
+2026-03-25 14:40:37,119 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:40:37,131 [INFO]   [FAIL] Will the New York Knicks win the NBA Eastern Confe | edge=0.00% conf=15% models=1
+2026-03-25 14:40:40,569 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:40:40,571 [INFO]   [FAIL] Will the Boston Celtics win the NBA Eastern Confer | edge=0.30% conf=15% models=1
+2026-03-25 14:40:44,554 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:40:44,556 [INFO]   [FAIL] Will the Detroit Pistons win the NBA Eastern Confe | edge=0.00% conf=95% models=1
+2026-03-25 14:40:48,393 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 14:40:48,412 [INFO]   [FAIL] Will the Oklahoma City Thunder win the NBA Western | edge=0.00% conf=15% models=1
+2026-03-25 14:40:48,412 [INFO]   → 1/43 markets passed confidence threshold
+2026-03-25 14:40:48,413 [INFO] Agent 4: Risk/sizing (4 currently open)...
+2026-03-25 14:40:48,413 [INFO]   BLOCKED: Already have open position in market 540819
+2026-03-25 14:40:48,414 [INFO] === Cycle complete ===
+
+2026-03-25 14:40:48,415 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 15:10:48,572 [INFO] === Cycle start | mode=dry | 2026-03-25T14:10:48.571829 ===
+2026-03-25 15:10:48,577 [INFO] Agent 1: Scanning markets...
+2026-03-25 15:10:48,577 [INFO] Fetching Polymarket markets...
+2026-03-25 15:10:49,078 [INFO]   Fetched 300 total markets
+2026-03-25 15:10:49,083 [INFO]   300 crypto/finance markets found
+2026-03-25 15:10:49,085 [INFO]   Scanner flagged 44 markets for research
+2026-03-25 15:10:49,087 [INFO]   → 44 markets flagged
+2026-03-25 15:10:49,087 [INFO] Agent 2: Running parallel research...
+2026-03-25 15:10:49,087 [INFO]   Researching: BitBoy convicted?...
+2026-03-25 15:10:49,088 [INFO]   Researching: New Rihanna Album before GTA VI?...
+2026-03-25 15:10:49,088 [INFO]   Researching: New Playboi Carti Album before GTA VI?...
+2026-03-25 15:10:49,089 [INFO]   Researching: Will Jesus Christ return before GTA VI?...
+2026-03-25 15:10:49,088 [INFO]   Researching: Russia-Ukraine Ceasefire before GTA VI?...
+2026-03-25 15:10:51,573 [INFO]   Researching: Trump out as President before GTA VI?...
+2026-03-25 15:10:52,213 [INFO]   Researching: Will China invades Taiwan before GTA VI?...
+2026-03-25 15:10:52,339 [INFO]   Researching: Will bitcoin hit $1m before GTA VI?...
+2026-03-25 15:10:52,641 [INFO]   Researching: Will Italy qualify for the 2026 FIFA World Cup?...
+2026-03-25 15:10:52,694 [INFO]   Researching: Will Sweden qualify for the 2026 FIFA World Cup?...
+2026-03-25 15:10:53,974 [INFO]   Researching: Will Poland qualify for the 2026 FIFA World Cup?...
+2026-03-25 15:10:54,945 [INFO]   Researching: Will Ukraine qualify for the 2026 FIFA World Cup?...
+2026-03-25 15:10:55,012 [INFO]   Researching: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?...
+2026-03-25 15:10:55,213 [INFO]   Researching: Will the Edmonton Oilers win the 2026 NHL Stanley Cup?...
+2026-03-25 15:10:55,827 [INFO]   Researching: Will the Dallas Stars win the 2026 NHL Stanley Cup?...
+2026-03-25 15:10:57,299 [INFO]   Researching: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?...
+2026-03-25 15:10:57,731 [INFO]   Researching: Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?...
+2026-03-25 15:10:57,760 [INFO]   Researching: Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?...
+2026-03-25 15:10:58,328 [INFO]   Researching: Will the Buffalo Sabres win the 2026 NHL Stanley Cup?...
+2026-03-25 15:10:58,690 [INFO]   Researching: Will the Oklahoma City Thunder win the 2026 NBA Finals?...
+2026-03-25 15:11:00,145 [INFO]   Researching: Will the Cleveland Cavaliers win the 2026 NBA Finals?...
+2026-03-25 15:11:00,215 [INFO]   Researching: Will the Boston Celtics win the 2026 NBA Finals?...
+2026-03-25 15:11:00,542 [INFO]   Researching: Will the Denver Nuggets win the 2026 NBA Finals?...
+2026-03-25 15:11:01,055 [INFO]   Researching: Will the San Antonio Spurs win the 2026 NBA Finals?...
+2026-03-25 15:11:01,127 [INFO]   Researching: Will Spain win the 2026 FIFA World Cup?...
+2026-03-25 15:11:02,657 [INFO]   Researching: Will England win the 2026 FIFA World Cup?...
+2026-03-25 15:11:02,754 [INFO]   Researching: Will France win the 2026 FIFA World Cup?...
+2026-03-25 15:11:03,125 [INFO]   Researching: Will Brazil win the 2026 FIFA World Cup?...
+2026-03-25 15:11:03,194 [INFO]   Researching: Will Argentina win the 2026 FIFA World Cup?...
+2026-03-25 15:11:03,234 [INFO]   Researching: Will Germany win the 2026 FIFA World Cup?...
+2026-03-25 15:11:03,883 [INFO]   Researching: Will Portugal win the 2026 FIFA World Cup?...
+2026-03-25 15:11:03,906 [INFO]   Researching: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year awa...
+2026-03-25 15:11:03,971 [INFO]   Researching: Will Kon Knueppel win the 2025–26 NBA Rookie of the Year awa...
+2026-03-25 15:11:04,004 [INFO]   Researching: Will Ken Paxton win the 2026 Texas Republican Primary?...
+2026-03-25 15:11:04,155 [INFO]   Researching: Will John Cornyn win the 2026 Texas Republican Primary?...
+2026-03-25 15:11:04,594 [INFO]   Researching: SCOTUS accepts sports event contract case by July 31, 2026? ...
+2026-03-25 15:11:04,724 [INFO]   Researching: Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?...
+2026-03-25 15:11:04,891 [INFO]   Researching: Will Luka Doncic win the 2025–2026 NBA MVP?...
+2026-03-25 15:11:04,931 [INFO]   Researching: Will Victor Wembanyama win the 2025–2026 NBA MVP?...
+2026-03-25 15:11:05,362 [INFO]   Researching: Will the Cleveland Cavaliers win the NBA Eastern Conference ...
+2026-03-25 15:11:05,486 [INFO]   Researching: Will the New York Knicks win the NBA Eastern Conference Fina...
+2026-03-25 15:11:05,596 [INFO]   Researching: Will the Detroit Pistons win the NBA Eastern Conference Fina...
+2026-03-25 15:11:05,734 [INFO]   Researching: Will the Boston Celtics win the NBA Eastern Conference Final...
+2026-03-25 15:11:05,889 [INFO]   Researching: Will the Oklahoma City Thunder win the NBA Western Conferenc...
+2026-03-25 15:11:06,621 [INFO]   → Research complete on 44 markets
+2026-03-25 15:11:06,622 [INFO] Agent 3: Calibrating probabilities...
+2026-03-25 15:11:06,922 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:06,935 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6W7GhT12ZJgKtt1V5'}
+2026-03-25 15:11:06,936 [ERROR] No model votes received
+2026-03-25 15:11:06,936 [INFO]   [FAIL] New Rihanna Album before GTA VI? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:07,137 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:07,155 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6XGEBTUr7WQdPRA4X'}
+2026-03-25 15:11:07,155 [ERROR] No model votes received
+2026-03-25 15:11:07,155 [INFO]   [FAIL] BitBoy convicted? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:07,359 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:07,365 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6YDXJmL9va5mJFaQr'}
+2026-03-25 15:11:07,365 [ERROR] No model votes received
+2026-03-25 15:11:07,365 [INFO]   [FAIL] Russia-Ukraine Ceasefire before GTA VI? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:07,566 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:07,587 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6Z5rv3h3avtZB9zb1'}
+2026-03-25 15:11:07,588 [ERROR] No model votes received
+2026-03-25 15:11:07,588 [INFO]   [FAIL] New Playboi Carti Album before GTA VI? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:07,787 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:07,795 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6a3AW6dFMUpNP5Vq9'}
+2026-03-25 15:11:07,795 [ERROR] No model votes received
+2026-03-25 15:11:07,795 [INFO]   [FAIL] Will Jesus Christ return before GTA VI? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:08,010 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:08,015 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6azD7YW38VUMT2pBj'}
+2026-03-25 15:11:08,015 [ERROR] No model votes received
+2026-03-25 15:11:08,015 [INFO]   [FAIL] Trump out as President before GTA VI? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:08,237 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:08,259 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6buH6Modiv1djEHUN'}
+2026-03-25 15:11:08,259 [ERROR] No model votes received
+2026-03-25 15:11:08,259 [INFO]   [FAIL] Will China invades Taiwan before GTA VI? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:08,476 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:08,495 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6cz2AvseHgfsas4HD'}
+2026-03-25 15:11:08,495 [ERROR] No model votes received
+2026-03-25 15:11:08,495 [INFO]   [FAIL] Will Sweden qualify for the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:08,690 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:08,708 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6dvKcpcP88Z8nVgSp'}
+2026-03-25 15:11:08,708 [ERROR] No model votes received
+2026-03-25 15:11:08,708 [INFO]   [FAIL] Will Italy qualify for the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:09,075 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:09,085 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6essfhCuT8J7Yokaq'}
+2026-03-25 15:11:09,085 [ERROR] No model votes received
+2026-03-25 15:11:09,085 [INFO]   [FAIL] Will bitcoin hit $1m before GTA VI? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:09,291 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:09,307 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6gU7iVo7Z1aJGtSPP'}
+2026-03-25 15:11:09,307 [ERROR] No model votes received
+2026-03-25 15:11:09,307 [INFO]   [FAIL] Will Poland qualify for the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:09,648 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:09,652 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6hVP6VmcZFzEwnKeA'}
+2026-03-25 15:11:09,652 [ERROR] No model votes received
+2026-03-25 15:11:09,653 [INFO]   [FAIL] Will the Edmonton Oilers win the 2026 NHL Stanley  | edge=0.00% conf=0% models=0
+2026-03-25 15:11:09,864 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:09,875 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6isyUDR6S5eSdnjBa'}
+2026-03-25 15:11:09,876 [ERROR] No model votes received
+2026-03-25 15:11:09,876 [INFO]   [FAIL] Will the Carolina Hurricanes win the 2026 NHL Stan | edge=0.00% conf=0% models=0
+2026-03-25 15:11:10,071 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:10,085 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6joncxZKieyhBXgJa'}
+2026-03-25 15:11:10,085 [ERROR] No model votes received
+2026-03-25 15:11:10,085 [INFO]   [FAIL] Will the Dallas Stars win the 2026 NHL Stanley Cup | edge=0.00% conf=0% models=0
+2026-03-25 15:11:10,283 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:10,285 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6kg8AJm7e4LhdSK5U'}
+2026-03-25 15:11:10,285 [ERROR] No model votes received
+2026-03-25 15:11:10,285 [INFO]   [FAIL] Will Ukraine qualify for the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:10,519 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:10,519 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6mbC2ut7n1v5Caxxe'}
+2026-03-25 15:11:10,520 [ERROR] No model votes received
+2026-03-25 15:11:10,520 [INFO]   [FAIL] Will the Colorado Avalanche win the 2026 NHL Stanl | edge=0.00% conf=0% models=0
+2026-03-25 15:11:10,726 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:10,747 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6nbiMXbECwv5ULVY1'}
+2026-03-25 15:11:10,747 [ERROR] No model votes received
+2026-03-25 15:11:10,748 [INFO]   [FAIL] Will the Vegas Golden Knights win the 2026 NHL Sta | edge=0.00% conf=0% models=0
+2026-03-25 15:11:11,302 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:11,315 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6ogwzC4rSM9ZL18BL'}
+2026-03-25 15:11:11,315 [ERROR] No model votes received
+2026-03-25 15:11:11,315 [INFO]   [FAIL] Will the Tampa Bay Lightning win the 2026 NHL Stan | edge=0.00% conf=0% models=0
+2026-03-25 15:11:11,611 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:11,627 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6rPutsn4e7eBWa4Nr'}
+2026-03-25 15:11:11,627 [ERROR] No model votes received
+2026-03-25 15:11:11,627 [INFO]   [FAIL] Will the Oklahoma City Thunder win the 2026 NBA Fi | edge=0.00% conf=0% models=0
+2026-03-25 15:11:11,832 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:11,845 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6sHVRSYRAkC6XQYJX'}
+2026-03-25 15:11:11,845 [ERROR] No model votes received
+2026-03-25 15:11:11,845 [INFO]   [FAIL] Will the Buffalo Sabres win the 2026 NHL Stanley C | edge=0.00% conf=0% models=0
+2026-03-25 15:11:12,052 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:12,066 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6tJ1q9arzMDYzyjPD'}
+2026-03-25 15:11:12,066 [ERROR] No model votes received
+2026-03-25 15:11:12,066 [INFO]   [FAIL] Will the Cleveland Cavaliers win the 2026 NBA Fina | edge=0.00% conf=0% models=0
+2026-03-25 15:11:12,263 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:12,275 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6uA6wyBKi5CXUWg7S'}
+2026-03-25 15:11:12,275 [ERROR] No model votes received
+2026-03-25 15:11:12,276 [INFO]   [FAIL] Will the Boston Celtics win the 2026 NBA Finals? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:12,515 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:12,516 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6v7uJKM1GqqahRk5p'}
+2026-03-25 15:11:12,516 [ERROR] No model votes received
+2026-03-25 15:11:12,516 [INFO]   [FAIL] Will Spain win the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:12,839 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:12,856 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6wC935NG2mS5xthWR'}
+2026-03-25 15:11:12,856 [ERROR] No model votes received
+2026-03-25 15:11:12,857 [INFO]   [FAIL] Will the Denver Nuggets win the 2026 NBA Finals? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:13,063 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:13,076 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6xdi9e3VdHPrNPf1b'}
+2026-03-25 15:11:13,076 [ERROR] No model votes received
+2026-03-25 15:11:13,076 [INFO]   [FAIL] Will the San Antonio Spurs win the 2026 NBA Finals | edge=0.00% conf=0% models=0
+2026-03-25 15:11:13,293 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:13,305 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6yXY1BVCP4fie811g'}
+2026-03-25 15:11:13,305 [ERROR] No model votes received
+2026-03-25 15:11:13,305 [INFO]   [FAIL] Will Brazil win the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:13,512 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:13,517 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw6zVpqyFVUGD731GQU'}
+2026-03-25 15:11:13,517 [ERROR] No model votes received
+2026-03-25 15:11:13,517 [INFO]   [FAIL] Will France win the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:13,739 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:13,756 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw71Vbrrsv1dXTksgdG'}
+2026-03-25 15:11:13,756 [ERROR] No model votes received
+2026-03-25 15:11:13,756 [INFO]   [FAIL] Will Germany win the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:13,959 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:13,975 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw72SewgfidyKnnMNvX'}
+2026-03-25 15:11:13,975 [ERROR] No model votes received
+2026-03-25 15:11:13,975 [INFO]   [FAIL] Will England win the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:14,302 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:14,315 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw73sUmQoQnk4LtdhYJ'}
+2026-03-25 15:11:14,315 [ERROR] No model votes received
+2026-03-25 15:11:14,315 [INFO]   [FAIL] Will Argentina win the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:14,565 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:14,566 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw74wyMuA5BFUfsvnbH'}
+2026-03-25 15:11:14,566 [ERROR] No model votes received
+2026-03-25 15:11:14,566 [INFO]   [FAIL] Will Portugal win the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:14,947 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:14,948 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw76Vjo8zzLURBCNFop'}
+2026-03-25 15:11:14,948 [ERROR] No model votes received
+2026-03-25 15:11:14,948 [INFO]   [FAIL] Will Kon Knueppel win the 2025–26 NBA Rookie of th | edge=0.00% conf=0% models=0
+2026-03-25 15:11:15,137 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:15,138 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw77V2EPB2hRqikDN1t'}
+2026-03-25 15:11:15,138 [ERROR] No model votes received
+2026-03-25 15:11:15,138 [INFO]   [FAIL] Will Cooper Flagg win the 2025–26 NBA Rookie of th | edge=0.00% conf=0% models=0
+2026-03-25 15:11:15,352 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:15,353 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw78Q5tD4XoXzoPnu9R'}
+2026-03-25 15:11:15,354 [ERROR] No model votes received
+2026-03-25 15:11:15,354 [INFO]   [FAIL] Will Ken Paxton win the 2026 Texas Republican Prim | edge=0.00% conf=0% models=0
+2026-03-25 15:11:15,553 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:15,565 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw79FgC5iofxHAMr1ZK'}
+2026-03-25 15:11:15,565 [ERROR] No model votes received
+2026-03-25 15:11:15,565 [INFO]   [FAIL] SCOTUS accepts sports event contract case by July  | edge=0.00% conf=0% models=0
+2026-03-25 15:11:15,763 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:15,774 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw7A82FcL78f2rtndMb'}
+2026-03-25 15:11:15,775 [ERROR] No model votes received
+2026-03-25 15:11:15,775 [INFO]   [FAIL] Will Shai Gilgeous-Alexander win the 2025–2026 NBA | edge=0.00% conf=0% models=0
+2026-03-25 15:11:15,975 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:15,985 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw7B45SwystgqdQEsab'}
+2026-03-25 15:11:15,985 [ERROR] No model votes received
+2026-03-25 15:11:15,985 [INFO]   [FAIL] Will John Cornyn win the 2026 Texas Republican Pri | edge=0.00% conf=0% models=0
+2026-03-25 15:11:16,210 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:16,224 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw7BxPz52RMheK5AYAg'}
+2026-03-25 15:11:16,225 [ERROR] No model votes received
+2026-03-25 15:11:16,225 [INFO]   [FAIL] Will Victor Wembanyama win the 2025–2026 NBA MVP? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:16,586 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:16,605 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw7DTwCqyeD1RccznnL'}
+2026-03-25 15:11:16,605 [ERROR] No model votes received
+2026-03-25 15:11:16,605 [INFO]   [FAIL] Will Luka Doncic win the 2025–2026 NBA MVP? | edge=0.00% conf=0% models=0
+2026-03-25 15:11:16,801 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:16,815 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw7EYvBQ1EmQXdPREH4'}
+2026-03-25 15:11:16,815 [ERROR] No model votes received
+2026-03-25 15:11:16,815 [INFO]   [FAIL] Will the Cleveland Cavaliers win the NBA Eastern C | edge=0.00% conf=0% models=0
+2026-03-25 15:11:17,012 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:17,025 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw7FVUiPtnDn2JgwPVc'}
+2026-03-25 15:11:17,025 [ERROR] No model votes received
+2026-03-25 15:11:17,025 [INFO]   [FAIL] Will the New York Knicks win the NBA Eastern Confe | edge=0.00% conf=0% models=0
+2026-03-25 15:11:17,230 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:17,245 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw7GM4uMj4cSnHiATbi'}
+2026-03-25 15:11:17,245 [ERROR] No model votes received
+2026-03-25 15:11:17,245 [INFO]   [FAIL] Will the Detroit Pistons win the NBA Eastern Confe | edge=0.00% conf=0% models=0
+2026-03-25 15:11:17,449 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:17,466 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw7HN65WyKjHStNqn68'}
+2026-03-25 15:11:17,466 [ERROR] No model votes received
+2026-03-25 15:11:17,466 [INFO]   [FAIL] Will the Boston Celtics win the NBA Eastern Confer | edge=0.00% conf=0% models=0
+2026-03-25 15:11:17,656 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-03-25 15:11:17,675 [ERROR] Claude call failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZPw7JFuqJs2omm2jAzsc'}
+2026-03-25 15:11:17,675 [ERROR] No model votes received
+2026-03-25 15:11:17,675 [INFO]   [FAIL] Will the Oklahoma City Thunder win the NBA Western | edge=0.00% conf=0% models=0
+2026-03-25 15:11:17,675 [INFO]   → 0/44 markets passed confidence threshold
+2026-03-25 15:11:17,675 [INFO] No markets passed calibration. Done for this cycle.
+2026-03-25 15:11:17,676 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 15:41:17,892 [INFO] === Cycle start | mode=dry | 2026-03-25T14:41:17.892176 ===
+2026-03-25 15:41:17,898 [INFO] Agent 1: Scanning markets...
+2026-03-25 15:41:17,898 [INFO] Fetching Polymarket markets...
+2026-03-25 15:41:18,337 [INFO]   Fetched 300 total markets
+2026-03-25 15:41:18,340 [INFO]   300 crypto/finance markets found
+2026-03-25 15:41:18,341 [INFO]   Scanner flagged 42 markets for research
+2026-03-25 15:41:18,343 [INFO]   → 42 markets flagged
+2026-03-25 15:41:18,343 [INFO] Agent 2: Running parallel research...
+2026-03-25 15:41:18,344 [INFO]   Researching: BitBoy convicted?...
+2026-03-25 15:41:18,344 [INFO]   Researching: New Rihanna Album before GTA VI?...
+2026-03-25 15:41:18,344 [INFO]   Researching: Russia-Ukraine Ceasefire before GTA VI?...
+2026-03-25 15:41:18,345 [INFO]   Researching: New Playboi Carti Album before GTA VI?...
+2026-03-25 15:41:18,346 [INFO]   Researching: Will Jesus Christ return before GTA VI?...
+2026-03-25 15:41:18,892 [INFO]   Researching: Trump out as President before GTA VI?...
+2026-03-25 15:41:18,903 [INFO]   Researching: Will China invades Taiwan before GTA VI?...
+2026-03-25 15:41:18,907 [INFO]   Researching: Will bitcoin hit $1m before GTA VI?...
+2026-03-25 15:41:18,911 [INFO]   Researching: Will Italy qualify for the 2026 FIFA World Cup?...
+2026-03-25 15:41:18,917 [INFO]   Researching: Will Sweden qualify for the 2026 FIFA World Cup?...
+2026-03-25 15:41:18,920 [INFO]   Researching: Will Poland qualify for the 2026 FIFA World Cup?...
+2026-03-25 15:41:18,925 [INFO]   Researching: Will Ukraine qualify for the 2026 FIFA World Cup?...
+2026-03-25 15:41:18,927 [INFO]   Researching: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?...
+2026-03-25 15:41:18,934 [INFO]   Researching: Will the Edmonton Oilers win the 2026 NHL Stanley Cup?...
+2026-03-25 15:41:18,937 [INFO]   Researching: Will the Dallas Stars win the 2026 NHL Stanley Cup?...
+2026-03-25 15:41:18,942 [INFO]   Researching: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?...
+2026-03-25 15:41:18,945 [INFO]   Researching: Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?...
+2026-03-25 15:41:18,950 [INFO]   Researching: Will the Buffalo Sabres win the 2026 NHL Stanley Cup?...
+2026-03-25 15:41:18,952 [INFO]   Researching: Will the Oklahoma City Thunder win the 2026 NBA Finals?...
+2026-03-25 15:41:18,960 [INFO]   Researching: Will the Cleveland Cavaliers win the 2026 NBA Finals?...
+2026-03-25 15:41:18,963 [INFO]   Researching: Will the Boston Celtics win the 2026 NBA Finals?...
+2026-03-25 15:41:18,968 [INFO]   Researching: Will the Denver Nuggets win the 2026 NBA Finals?...
+2026-03-25 15:41:18,969 [INFO]   Researching: Will the San Antonio Spurs win the 2026 NBA Finals?...
+2026-03-25 15:41:18,975 [INFO]   Researching: Will Spain win the 2026 FIFA World Cup?...
+2026-03-25 15:41:18,977 [INFO]   Researching: Will England win the 2026 FIFA World Cup?...
+2026-03-25 15:41:18,984 [INFO]   Researching: Will France win the 2026 FIFA World Cup?...
+2026-03-25 15:41:18,986 [INFO]   Researching: Will Brazil win the 2026 FIFA World Cup?...
+2026-03-25 15:41:18,992 [INFO]   Researching: Will Argentina win the 2026 FIFA World Cup?...
+2026-03-25 15:41:18,994 [INFO]   Researching: Will Germany win the 2026 FIFA World Cup?...
+2026-03-25 15:41:19,000 [INFO]   Researching: Will Portugal win the 2026 FIFA World Cup?...
+2026-03-25 15:41:19,003 [INFO]   Researching: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year awa...
+2026-03-25 15:41:19,011 [INFO]   Researching: Will Ken Paxton win the 2026 Texas Republican Primary?...
+2026-03-25 15:41:19,012 [INFO]   Researching: Will John Cornyn win the 2026 Texas Republican Primary?...
+2026-03-25 15:41:19,019 [INFO]   Researching: SCOTUS accepts sports event contract case by July 31, 2026? ...
+2026-03-25 15:41:19,021 [INFO]   Researching: Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?...
+2026-03-25 15:41:19,026 [INFO]   Researching: Will Luka Doncic win the 2025–2026 NBA MVP?...
+2026-03-25 15:41:19,029 [INFO]   Researching: Will Victor Wembanyama win the 2025–2026 NBA MVP?...
+2026-03-25 15:41:19,036 [INFO]   Researching: Will the Cleveland Cavaliers win the NBA Eastern Conference ...
+2026-03-25 15:41:19,038 [INFO]   Researching: Will the New York Knicks win the NBA Eastern Conference Fina...
+2026-03-25 15:41:19,044 [INFO]   Researching: Will the Detroit Pistons win the NBA Eastern Conference Fina...
+2026-03-25 15:41:19,046 [INFO]   Researching: Will the Boston Celtics win the NBA Eastern Conference Final...
+2026-03-25 15:41:19,050 [INFO]   Researching: Will the Oklahoma City Thunder win the NBA Western Conferenc...
+2026-03-25 15:41:55,903 [INFO]   → Research complete on 42 markets
+2026-03-25 15:41:55,904 [INFO] Agent 3: Calibrating probabilities...
+2026-03-25 15:41:55,918 [INFO] Retrying request to /v1/messages in 0.480120 seconds
+2026-03-25 15:41:56,492 [INFO] Retrying request to /v1/messages in 0.777293 seconds
+2026-03-25 15:41:57,461 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:41:57,461 [ERROR] No model votes received
+2026-03-25 15:41:57,461 [INFO]   [FAIL] Will Jesus Christ return before GTA VI? | edge=0.00% conf=0% models=0
+2026-03-25 15:41:57,476 [INFO] Retrying request to /v1/messages in 0.495810 seconds
+2026-03-25 15:41:58,016 [INFO] Retrying request to /v1/messages in 0.798018 seconds
+2026-03-25 15:41:59,012 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:41:59,012 [ERROR] No model votes received
+2026-03-25 15:41:59,012 [INFO]   [FAIL] Trump out as President before GTA VI? | edge=0.00% conf=0% models=0
+2026-03-25 15:41:59,027 [INFO] Retrying request to /v1/messages in 0.455724 seconds
+2026-03-25 15:41:59,679 [INFO] Retrying request to /v1/messages in 0.820440 seconds
+2026-03-25 15:42:00,525 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:00,525 [ERROR] No model votes received
+2026-03-25 15:42:00,525 [INFO]   [FAIL] New Playboi Carti Album before GTA VI? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:00,539 [INFO] Retrying request to /v1/messages in 0.443991 seconds
+2026-03-25 15:42:01,154 [INFO] Retrying request to /v1/messages in 0.755895 seconds
+2026-03-25 15:42:01,992 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:01,992 [ERROR] No model votes received
+2026-03-25 15:42:01,993 [INFO]   [FAIL] Will China invades Taiwan before GTA VI? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:02,005 [INFO] Retrying request to /v1/messages in 0.492374 seconds
+2026-03-25 15:42:02,616 [INFO] Retrying request to /v1/messages in 0.879756 seconds
+2026-03-25 15:42:03,591 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:03,591 [ERROR] No model votes received
+2026-03-25 15:42:03,591 [INFO]   [FAIL] Will bitcoin hit $1m before GTA VI? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:03,603 [INFO] Retrying request to /v1/messages in 0.407361 seconds
+2026-03-25 15:42:04,127 [INFO] Retrying request to /v1/messages in 0.793500 seconds
+2026-03-25 15:42:05,124 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:05,124 [ERROR] No model votes received
+2026-03-25 15:42:05,124 [INFO]   [FAIL] Will Italy qualify for the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:05,135 [INFO] Retrying request to /v1/messages in 0.380536 seconds
+2026-03-25 15:42:05,713 [INFO] Retrying request to /v1/messages in 0.761158 seconds
+2026-03-25 15:42:06,673 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:06,674 [ERROR] No model votes received
+2026-03-25 15:42:06,674 [INFO]   [FAIL] Will Sweden qualify for the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:06,692 [INFO] Retrying request to /v1/messages in 0.403415 seconds
+2026-03-25 15:42:07,287 [INFO] Retrying request to /v1/messages in 0.918365 seconds
+2026-03-25 15:42:08,400 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:08,401 [ERROR] No model votes received
+2026-03-25 15:42:08,401 [INFO]   [FAIL] Will Poland qualify for the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:08,415 [INFO] Retrying request to /v1/messages in 0.419121 seconds
+2026-03-25 15:42:09,011 [INFO] Retrying request to /v1/messages in 0.807736 seconds
+2026-03-25 15:42:10,013 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:10,014 [ERROR] No model votes received
+2026-03-25 15:42:10,014 [INFO]   [FAIL] Will Ukraine qualify for the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:10,028 [INFO] Retrying request to /v1/messages in 0.408859 seconds
+2026-03-25 15:42:10,635 [INFO] Retrying request to /v1/messages in 0.825757 seconds
+2026-03-25 15:42:11,649 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:11,650 [ERROR] No model votes received
+2026-03-25 15:42:11,650 [INFO]   [FAIL] Will the Carolina Hurricanes win the 2026 NHL Stan | edge=0.00% conf=0% models=0
+2026-03-25 15:42:11,660 [INFO] Retrying request to /v1/messages in 0.454115 seconds
+2026-03-25 15:42:12,296 [INFO] Retrying request to /v1/messages in 0.973264 seconds
+2026-03-25 15:42:13,468 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:13,468 [ERROR] No model votes received
+2026-03-25 15:42:13,468 [INFO]   [FAIL] Will the Edmonton Oilers win the 2026 NHL Stanley  | edge=0.00% conf=0% models=0
+2026-03-25 15:42:13,479 [INFO] Retrying request to /v1/messages in 0.496998 seconds
+2026-03-25 15:42:14,151 [INFO] Retrying request to /v1/messages in 0.926595 seconds
+2026-03-25 15:42:15,269 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:15,270 [ERROR] No model votes received
+2026-03-25 15:42:15,270 [INFO]   [FAIL] Will the Dallas Stars win the 2026 NHL Stanley Cup | edge=0.00% conf=0% models=0
+2026-03-25 15:42:15,283 [INFO] Retrying request to /v1/messages in 0.495557 seconds
+2026-03-25 15:42:15,951 [INFO] Retrying request to /v1/messages in 0.964493 seconds
+2026-03-25 15:42:17,069 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:17,069 [ERROR] No model votes received
+2026-03-25 15:42:17,069 [INFO]   [FAIL] Will the Colorado Avalanche win the 2026 NHL Stanl | edge=0.00% conf=0% models=0
+2026-03-25 15:42:17,082 [INFO] Retrying request to /v1/messages in 0.437594 seconds
+2026-03-25 15:42:17,694 [INFO] Retrying request to /v1/messages in 0.815696 seconds
+2026-03-25 15:42:18,700 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:18,700 [ERROR] No model votes received
+2026-03-25 15:42:18,700 [INFO]   [FAIL] Will the Tampa Bay Lightning win the 2026 NHL Stan | edge=0.00% conf=0% models=0
+2026-03-25 15:42:18,718 [INFO] Retrying request to /v1/messages in 0.377059 seconds
+2026-03-25 15:42:19,274 [INFO] Retrying request to /v1/messages in 0.968602 seconds
+2026-03-25 15:42:20,438 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:20,439 [ERROR] No model votes received
+2026-03-25 15:42:20,439 [INFO]   [FAIL] Will the Buffalo Sabres win the 2026 NHL Stanley C | edge=0.00% conf=0% models=0
+2026-03-25 15:42:20,451 [INFO] Retrying request to /v1/messages in 0.478175 seconds
+2026-03-25 15:42:21,112 [INFO] Retrying request to /v1/messages in 0.933387 seconds
+2026-03-25 15:42:22,236 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:22,237 [ERROR] No model votes received
+2026-03-25 15:42:22,237 [INFO]   [FAIL] Will the Oklahoma City Thunder win the 2026 NBA Fi | edge=0.00% conf=0% models=0
+2026-03-25 15:42:22,247 [INFO] Retrying request to /v1/messages in 0.403499 seconds
+2026-03-25 15:42:22,715 [INFO] Retrying request to /v1/messages in 0.832343 seconds
+2026-03-25 15:42:23,595 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:23,595 [ERROR] No model votes received
+2026-03-25 15:42:23,595 [INFO]   [FAIL] Will the Cleveland Cavaliers win the 2026 NBA Fina | edge=0.00% conf=0% models=0
+2026-03-25 15:42:23,607 [INFO] Retrying request to /v1/messages in 0.478162 seconds
+2026-03-25 15:42:24,215 [INFO] Retrying request to /v1/messages in 0.809992 seconds
+2026-03-25 15:42:25,227 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:25,228 [ERROR] No model votes received
+2026-03-25 15:42:25,228 [INFO]   [FAIL] Will the Boston Celtics win the 2026 NBA Finals? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:25,239 [INFO] Retrying request to /v1/messages in 0.375633 seconds
+2026-03-25 15:42:25,733 [INFO] Retrying request to /v1/messages in 0.767425 seconds
+2026-03-25 15:42:26,696 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:26,697 [ERROR] No model votes received
+2026-03-25 15:42:26,697 [INFO]   [FAIL] Will the Denver Nuggets win the 2026 NBA Finals? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:26,716 [INFO] Retrying request to /v1/messages in 0.439827 seconds
+2026-03-25 15:42:27,352 [INFO] Retrying request to /v1/messages in 0.995310 seconds
+2026-03-25 15:42:28,538 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:28,538 [ERROR] No model votes received
+2026-03-25 15:42:28,538 [INFO]   [FAIL] Will the San Antonio Spurs win the 2026 NBA Finals | edge=0.00% conf=0% models=0
+2026-03-25 15:42:28,554 [INFO] Retrying request to /v1/messages in 0.396121 seconds
+2026-03-25 15:42:29,026 [INFO] Retrying request to /v1/messages in 0.811965 seconds
+2026-03-25 15:42:29,842 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:29,842 [ERROR] No model votes received
+2026-03-25 15:42:29,843 [INFO]   [FAIL] Will Spain win the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:29,858 [INFO] Retrying request to /v1/messages in 0.447410 seconds
+2026-03-25 15:42:30,326 [INFO] Retrying request to /v1/messages in 0.967499 seconds
+2026-03-25 15:42:31,470 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:31,470 [ERROR] No model votes received
+2026-03-25 15:42:31,470 [INFO]   [FAIL] Will England win the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:31,482 [INFO] Retrying request to /v1/messages in 0.451927 seconds
+2026-03-25 15:42:32,096 [INFO] Retrying request to /v1/messages in 0.869936 seconds
+2026-03-25 15:42:33,037 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:33,037 [ERROR] No model votes received
+2026-03-25 15:42:33,037 [INFO]   [FAIL] Will France win the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:33,048 [INFO] Retrying request to /v1/messages in 0.447440 seconds
+2026-03-25 15:42:33,692 [INFO] Retrying request to /v1/messages in 0.956747 seconds
+2026-03-25 15:42:34,845 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:34,846 [ERROR] No model votes received
+2026-03-25 15:42:34,846 [INFO]   [FAIL] Will Brazil win the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:34,865 [INFO] Retrying request to /v1/messages in 0.441042 seconds
+2026-03-25 15:42:35,495 [INFO] Retrying request to /v1/messages in 0.750654 seconds
+2026-03-25 15:42:36,341 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:36,341 [ERROR] No model votes received
+2026-03-25 15:42:36,341 [INFO]   [FAIL] Will Argentina win the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:36,352 [INFO] Retrying request to /v1/messages in 0.461518 seconds
+2026-03-25 15:42:37,014 [INFO] Retrying request to /v1/messages in 0.929571 seconds
+2026-03-25 15:42:37,972 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:37,972 [ERROR] No model votes received
+2026-03-25 15:42:37,972 [INFO]   [FAIL] Will Germany win the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:37,985 [INFO] Retrying request to /v1/messages in 0.434647 seconds
+2026-03-25 15:42:38,610 [INFO] Retrying request to /v1/messages in 0.802290 seconds
+2026-03-25 15:42:39,613 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:39,613 [ERROR] No model votes received
+2026-03-25 15:42:39,613 [INFO]   [FAIL] Will Portugal win the 2026 FIFA World Cup? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:39,624 [INFO] Retrying request to /v1/messages in 0.451926 seconds
+2026-03-25 15:42:40,270 [INFO] Retrying request to /v1/messages in 0.953359 seconds
+2026-03-25 15:42:41,413 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:41,413 [ERROR] No model votes received
+2026-03-25 15:42:41,413 [INFO]   [FAIL] Will Cooper Flagg win the 2025–26 NBA Rookie of th | edge=0.00% conf=0% models=0
+2026-03-25 15:42:41,425 [INFO] Retrying request to /v1/messages in 0.467140 seconds
+2026-03-25 15:42:42,095 [INFO] Retrying request to /v1/messages in 0.876493 seconds
+2026-03-25 15:42:42,989 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:42,989 [ERROR] No model votes received
+2026-03-25 15:42:42,989 [INFO]   [FAIL] Will Ken Paxton win the 2026 Texas Republican Prim | edge=0.00% conf=0% models=0
+2026-03-25 15:42:43,002 [INFO] Retrying request to /v1/messages in 0.404751 seconds
+2026-03-25 15:42:43,410 [INFO] Retrying request to /v1/messages in 0.974534 seconds
+2026-03-25 15:42:44,570 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:44,571 [ERROR] No model votes received
+2026-03-25 15:42:44,571 [INFO]   [FAIL] Will John Cornyn win the 2026 Texas Republican Pri | edge=0.00% conf=0% models=0
+2026-03-25 15:42:44,583 [INFO] Retrying request to /v1/messages in 0.444507 seconds
+2026-03-25 15:42:45,219 [INFO] Retrying request to /v1/messages in 0.849813 seconds
+2026-03-25 15:42:46,122 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:46,122 [ERROR] No model votes received
+2026-03-25 15:42:46,122 [INFO]   [FAIL] SCOTUS accepts sports event contract case by July  | edge=0.00% conf=0% models=0
+2026-03-25 15:42:46,135 [INFO] Retrying request to /v1/messages in 0.436397 seconds
+2026-03-25 15:42:46,771 [INFO] Retrying request to /v1/messages in 0.928902 seconds
+2026-03-25 15:42:47,711 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:47,711 [ERROR] No model votes received
+2026-03-25 15:42:47,711 [INFO]   [FAIL] Will Shai Gilgeous-Alexander win the 2025–2026 NBA | edge=0.00% conf=0% models=0
+2026-03-25 15:42:47,729 [INFO] Retrying request to /v1/messages in 0.391635 seconds
+2026-03-25 15:42:48,310 [INFO] Retrying request to /v1/messages in 0.821994 seconds
+2026-03-25 15:42:49,255 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:49,255 [ERROR] No model votes received
+2026-03-25 15:42:49,255 [INFO]   [FAIL] Will Luka Doncic win the 2025–2026 NBA MVP? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:49,267 [INFO] Retrying request to /v1/messages in 0.441100 seconds
+2026-03-25 15:42:49,905 [INFO] Retrying request to /v1/messages in 0.799943 seconds
+2026-03-25 15:42:50,908 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:50,908 [ERROR] No model votes received
+2026-03-25 15:42:50,909 [INFO]   [FAIL] Will Victor Wembanyama win the 2025–2026 NBA MVP? | edge=0.00% conf=0% models=0
+2026-03-25 15:42:50,920 [INFO] Retrying request to /v1/messages in 0.470490 seconds
+2026-03-25 15:42:51,572 [INFO] Retrying request to /v1/messages in 0.779786 seconds
+2026-03-25 15:42:52,536 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:52,537 [ERROR] No model votes received
+2026-03-25 15:42:52,537 [INFO]   [FAIL] Will the Cleveland Cavaliers win the NBA Eastern C | edge=0.00% conf=0% models=0
+2026-03-25 15:42:52,552 [INFO] Retrying request to /v1/messages in 0.390125 seconds
+2026-03-25 15:42:53,118 [INFO] Retrying request to /v1/messages in 0.944955 seconds
+2026-03-25 15:42:54,213 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:54,214 [ERROR] No model votes received
+2026-03-25 15:42:54,214 [INFO]   [FAIL] Will the New York Knicks win the NBA Eastern Confe | edge=0.00% conf=0% models=0
+2026-03-25 15:42:54,224 [INFO] Retrying request to /v1/messages in 0.457999 seconds
+2026-03-25 15:42:54,881 [INFO] Retrying request to /v1/messages in 0.909525 seconds
+2026-03-25 15:42:55,984 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:55,985 [ERROR] No model votes received
+2026-03-25 15:42:55,985 [INFO]   [FAIL] Will the Detroit Pistons win the NBA Eastern Confe | edge=0.00% conf=0% models=0
+2026-03-25 15:42:55,998 [INFO] Retrying request to /v1/messages in 0.438265 seconds
+2026-03-25 15:42:56,607 [INFO] Retrying request to /v1/messages in 0.943549 seconds
+2026-03-25 15:42:57,753 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:57,753 [ERROR] No model votes received
+2026-03-25 15:42:57,753 [INFO]   [FAIL] Will the Boston Celtics win the NBA Eastern Confer | edge=0.00% conf=0% models=0
+2026-03-25 15:42:57,770 [INFO] Retrying request to /v1/messages in 0.469360 seconds
+2026-03-25 15:42:58,431 [INFO] Retrying request to /v1/messages in 0.908535 seconds
+2026-03-25 15:42:59,539 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:42:59,539 [ERROR] No model votes received
+2026-03-25 15:42:59,539 [INFO]   [FAIL] Will the Oklahoma City Thunder win the NBA Western | edge=0.00% conf=0% models=0
+2026-03-25 15:42:59,551 [INFO] Retrying request to /v1/messages in 0.376642 seconds
+2026-03-25 15:43:00,105 [INFO] Retrying request to /v1/messages in 0.872548 seconds
+2026-03-25 15:43:01,178 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:43:01,178 [ERROR] No model votes received
+2026-03-25 15:43:01,178 [INFO]   [FAIL] Russia-Ukraine Ceasefire before GTA VI? | edge=0.00% conf=0% models=0
+2026-03-25 15:43:01,191 [INFO] Retrying request to /v1/messages in 0.462466 seconds
+2026-03-25 15:43:01,746 [INFO] Retrying request to /v1/messages in 0.933018 seconds
+2026-03-25 15:43:02,859 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:43:02,859 [ERROR] No model votes received
+2026-03-25 15:43:02,859 [INFO]   [FAIL] New Rihanna Album before GTA VI? | edge=0.00% conf=0% models=0
+2026-03-25 15:43:02,879 [INFO] Retrying request to /v1/messages in 0.391669 seconds
+2026-03-25 15:43:03,439 [INFO] Retrying request to /v1/messages in 0.924468 seconds
+2026-03-25 15:43:04,495 [ERROR] Claude call failed: Connection error.
+2026-03-25 15:43:04,495 [ERROR] No model votes received
+2026-03-25 15:43:04,495 [INFO]   [FAIL] BitBoy convicted? | edge=0.00% conf=0% models=0
+2026-03-25 15:43:04,495 [INFO]   → 0/42 markets passed confidence threshold
+2026-03-25 15:43:04,495 [INFO] No markets passed calibration. Done for this cycle.
+2026-03-25 15:43:04,495 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 16:13:04,534 [INFO] === Cycle start | mode=dry | 2026-03-25T15:13:04.533144 ===
+2026-03-25 16:13:04,539 [INFO] Agent 1: Scanning markets...
+2026-03-25 16:13:04,539 [INFO] Fetching Polymarket markets...
+2026-03-25 16:13:04,547 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 16:13:04,548 [INFO]   Fetched 0 total markets
+2026-03-25 16:13:04,548 [INFO]   0 crypto/finance markets found
+2026-03-25 16:13:04,548 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 16:13:04,548 [INFO]   → 0 markets flagged
+2026-03-25 16:13:04,548 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 16:13:04,548 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 16:43:04,618 [INFO] === Cycle start | mode=dry | 2026-03-25T15:43:04.617792 ===
+2026-03-25 16:43:04,623 [INFO] Agent 1: Scanning markets...
+2026-03-25 16:43:04,623 [INFO] Fetching Polymarket markets...
+2026-03-25 16:43:04,632 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 16:43:04,632 [INFO]   Fetched 0 total markets
+2026-03-25 16:43:04,632 [INFO]   0 crypto/finance markets found
+2026-03-25 16:43:04,632 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 16:43:04,632 [INFO]   → 0 markets flagged
+2026-03-25 16:43:04,632 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 16:43:04,632 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 17:13:04,775 [INFO] === Cycle start | mode=dry | 2026-03-25T16:13:04.774647 ===
+2026-03-25 17:13:04,782 [INFO] Agent 1: Scanning markets...
+2026-03-25 17:13:04,782 [INFO] Fetching Polymarket markets...
+2026-03-25 17:13:04,793 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 17:13:04,793 [INFO]   Fetched 0 total markets
+2026-03-25 17:13:04,793 [INFO]   0 crypto/finance markets found
+2026-03-25 17:13:04,793 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 17:13:04,793 [INFO]   → 0 markets flagged
+2026-03-25 17:13:04,794 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 17:13:04,794 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 17:43:04,851 [INFO] === Cycle start | mode=dry | 2026-03-25T16:43:04.850690 ===
+2026-03-25 17:43:04,857 [INFO] Agent 1: Scanning markets...
+2026-03-25 17:43:04,858 [INFO] Fetching Polymarket markets...
+2026-03-25 17:43:04,867 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 17:43:04,867 [INFO]   Fetched 0 total markets
+2026-03-25 17:43:04,867 [INFO]   0 crypto/finance markets found
+2026-03-25 17:43:04,867 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 17:43:04,867 [INFO]   → 0 markets flagged
+2026-03-25 17:43:04,867 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 17:43:04,868 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 18:13:05,139 [INFO] === Cycle start | mode=dry | 2026-03-25T17:13:05.139099 ===
+2026-03-25 18:13:05,143 [INFO] Agent 1: Scanning markets...
+2026-03-25 18:13:05,143 [INFO] Fetching Polymarket markets...
+2026-03-25 18:13:05,152 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 18:13:05,153 [INFO]   Fetched 0 total markets
+2026-03-25 18:13:05,153 [INFO]   0 crypto/finance markets found
+2026-03-25 18:13:05,153 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 18:13:05,153 [INFO]   → 0 markets flagged
+2026-03-25 18:13:05,153 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 18:13:05,153 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 18:43:05,274 [INFO] === Cycle start | mode=dry | 2026-03-25T17:43:05.273453 ===
+2026-03-25 18:43:05,277 [INFO] Agent 1: Scanning markets...
+2026-03-25 18:43:05,277 [INFO] Fetching Polymarket markets...
+2026-03-25 18:43:05,284 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 18:43:05,284 [INFO]   Fetched 0 total markets
+2026-03-25 18:43:05,284 [INFO]   0 crypto/finance markets found
+2026-03-25 18:43:05,284 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 18:43:05,284 [INFO]   → 0 markets flagged
+2026-03-25 18:43:05,284 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 18:43:05,284 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 19:13:05,463 [INFO] === Cycle start | mode=dry | 2026-03-25T18:13:05.462703 ===
+2026-03-25 19:13:05,469 [INFO] Agent 1: Scanning markets...
+2026-03-25 19:13:05,469 [INFO] Fetching Polymarket markets...
+2026-03-25 19:13:05,478 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 19:13:05,479 [INFO]   Fetched 0 total markets
+2026-03-25 19:13:05,479 [INFO]   0 crypto/finance markets found
+2026-03-25 19:13:05,479 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 19:13:05,479 [INFO]   → 0 markets flagged
+2026-03-25 19:13:05,479 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 19:13:05,479 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 19:43:05,646 [INFO] === Cycle start | mode=dry | 2026-03-25T18:43:05.646434 ===
+2026-03-25 19:43:05,651 [INFO] Agent 1: Scanning markets...
+2026-03-25 19:43:05,652 [INFO] Fetching Polymarket markets...
+2026-03-25 19:43:05,660 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 19:43:05,660 [INFO]   Fetched 0 total markets
+2026-03-25 19:43:05,660 [INFO]   0 crypto/finance markets found
+2026-03-25 19:43:05,660 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 19:43:05,661 [INFO]   → 0 markets flagged
+2026-03-25 19:43:05,661 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 19:43:05,661 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 20:13:05,868 [INFO] === Cycle start | mode=dry | 2026-03-25T19:13:05.867423 ===
+2026-03-25 20:13:05,871 [INFO] Agent 1: Scanning markets...
+2026-03-25 20:13:05,872 [INFO] Fetching Polymarket markets...
+2026-03-25 20:13:05,882 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 20:13:05,882 [INFO]   Fetched 0 total markets
+2026-03-25 20:13:05,882 [INFO]   0 crypto/finance markets found
+2026-03-25 20:13:05,882 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 20:13:05,883 [INFO]   → 0 markets flagged
+2026-03-25 20:13:05,883 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 20:13:05,883 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 20:43:06,136 [INFO] === Cycle start | mode=dry | 2026-03-25T19:43:06.135916 ===
+2026-03-25 20:43:06,143 [INFO] Agent 1: Scanning markets...
+2026-03-25 20:43:06,143 [INFO] Fetching Polymarket markets...
+2026-03-25 20:43:06,152 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 20:43:06,152 [INFO]   Fetched 0 total markets
+2026-03-25 20:43:06,152 [INFO]   0 crypto/finance markets found
+2026-03-25 20:43:06,152 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 20:43:06,152 [INFO]   → 0 markets flagged
+2026-03-25 20:43:06,152 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 20:43:06,152 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 21:13:06,350 [INFO] === Cycle start | mode=dry | 2026-03-25T20:13:06.350410 ===
+2026-03-25 21:13:06,355 [INFO] Agent 1: Scanning markets...
+2026-03-25 21:13:06,356 [INFO] Fetching Polymarket markets...
+2026-03-25 21:13:06,364 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 21:13:06,365 [INFO]   Fetched 0 total markets
+2026-03-25 21:13:06,365 [INFO]   0 crypto/finance markets found
+2026-03-25 21:13:06,365 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 21:13:06,365 [INFO]   → 0 markets flagged
+2026-03-25 21:13:06,365 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 21:13:06,365 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 21:43:06,576 [INFO] === Cycle start | mode=dry | 2026-03-25T20:43:06.575893 ===
+2026-03-25 21:43:06,583 [INFO] Agent 1: Scanning markets...
+2026-03-25 21:43:06,583 [INFO] Fetching Polymarket markets...
+2026-03-25 21:43:06,591 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 21:43:06,591 [INFO]   Fetched 0 total markets
+2026-03-25 21:43:06,591 [INFO]   0 crypto/finance markets found
+2026-03-25 21:43:06,591 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 21:43:06,591 [INFO]   → 0 markets flagged
+2026-03-25 21:43:06,591 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 21:43:06,592 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 22:13:06,797 [INFO] === Cycle start | mode=dry | 2026-03-25T21:13:06.796489 ===
+2026-03-25 22:13:06,803 [INFO] Agent 1: Scanning markets...
+2026-03-25 22:13:06,803 [INFO] Fetching Polymarket markets...
+2026-03-25 22:13:06,813 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 22:13:06,813 [INFO]   Fetched 0 total markets
+2026-03-25 22:13:06,813 [INFO]   0 crypto/finance markets found
+2026-03-25 22:13:06,813 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 22:13:06,813 [INFO]   → 0 markets flagged
+2026-03-25 22:13:06,813 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 22:13:06,814 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 22:43:07,012 [INFO] === Cycle start | mode=dry | 2026-03-25T21:43:07.012306 ===
+2026-03-25 22:43:07,018 [INFO] Agent 1: Scanning markets...
+2026-03-25 22:43:07,018 [INFO] Fetching Polymarket markets...
+2026-03-25 22:43:07,027 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 22:43:07,027 [INFO]   Fetched 0 total markets
+2026-03-25 22:43:07,028 [INFO]   0 crypto/finance markets found
+2026-03-25 22:43:07,028 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 22:43:07,028 [INFO]   → 0 markets flagged
+2026-03-25 22:43:07,028 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 22:43:07,028 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 23:13:07,203 [INFO] === Cycle start | mode=dry | 2026-03-25T22:13:07.202405 ===
+2026-03-25 23:13:07,207 [INFO] Agent 1: Scanning markets...
+2026-03-25 23:13:07,207 [INFO] Fetching Polymarket markets...
+2026-03-25 23:13:07,215 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 23:13:07,216 [INFO]   Fetched 0 total markets
+2026-03-25 23:13:07,216 [INFO]   0 crypto/finance markets found
+2026-03-25 23:13:07,216 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 23:13:07,216 [INFO]   → 0 markets flagged
+2026-03-25 23:13:07,216 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 23:13:07,216 [INFO] Sleeping 1800s until next cycle...
+2026-03-25 23:43:07,403 [INFO] === Cycle start | mode=dry | 2026-03-25T22:43:07.402943 ===
+2026-03-25 23:43:07,407 [INFO] Agent 1: Scanning markets...
+2026-03-25 23:43:07,407 [INFO] Fetching Polymarket markets...
+2026-03-25 23:43:07,418 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-25 23:43:07,419 [INFO]   Fetched 0 total markets
+2026-03-25 23:43:07,419 [INFO]   0 crypto/finance markets found
+2026-03-25 23:43:07,419 [INFO]   Scanner flagged 0 markets for research
+2026-03-25 23:43:07,419 [INFO]   → 0 markets flagged
+2026-03-25 23:43:07,419 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-25 23:43:07,419 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 00:13:07,570 [INFO] === Cycle start | mode=dry | 2026-03-25T23:13:07.569344 ===
+2026-03-26 00:13:07,574 [INFO] Agent 1: Scanning markets...
+2026-03-26 00:13:07,574 [INFO] Fetching Polymarket markets...
+2026-03-26 00:13:07,585 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 00:13:07,585 [INFO]   Fetched 0 total markets
+2026-03-26 00:13:07,585 [INFO]   0 crypto/finance markets found
+2026-03-26 00:13:07,585 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 00:13:07,585 [INFO]   → 0 markets flagged
+2026-03-26 00:13:07,585 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 00:13:07,585 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 00:43:07,644 [INFO] === Cycle start | mode=dry | 2026-03-25T23:43:07.643686 ===
+2026-03-26 00:43:07,649 [INFO] Agent 1: Scanning markets...
+2026-03-26 00:43:07,649 [INFO] Fetching Polymarket markets...
+2026-03-26 00:43:07,657 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 00:43:07,657 [INFO]   Fetched 0 total markets
+2026-03-26 00:43:07,657 [INFO]   0 crypto/finance markets found
+2026-03-26 00:43:07,657 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 00:43:07,658 [INFO]   → 0 markets flagged
+2026-03-26 00:43:07,658 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 00:43:07,658 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 01:13:07,906 [INFO] === Cycle start | mode=dry | 2026-03-26T00:13:07.905408 ===
+2026-03-26 01:13:07,911 [INFO] Agent 1: Scanning markets...
+2026-03-26 01:13:07,911 [INFO] Fetching Polymarket markets...
+2026-03-26 01:13:07,921 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 01:13:07,921 [INFO]   Fetched 0 total markets
+2026-03-26 01:13:07,922 [INFO]   0 crypto/finance markets found
+2026-03-26 01:13:07,922 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 01:13:07,922 [INFO]   → 0 markets flagged
+2026-03-26 01:13:07,922 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 01:13:07,922 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 01:43:08,197 [INFO] === Cycle start | mode=dry | 2026-03-26T00:43:08.196280 ===
+2026-03-26 01:43:08,203 [INFO] Agent 1: Scanning markets...
+2026-03-26 01:43:08,203 [INFO] Fetching Polymarket markets...
+2026-03-26 01:43:08,213 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 01:43:08,213 [INFO]   Fetched 0 total markets
+2026-03-26 01:43:08,213 [INFO]   0 crypto/finance markets found
+2026-03-26 01:43:08,213 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 01:43:08,213 [INFO]   → 0 markets flagged
+2026-03-26 01:43:08,213 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 01:43:08,213 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 02:13:08,446 [INFO] === Cycle start | mode=dry | 2026-03-26T01:13:08.446504 ===
+2026-03-26 02:13:08,451 [INFO] Agent 1: Scanning markets...
+2026-03-26 02:13:08,452 [INFO] Fetching Polymarket markets...
+2026-03-26 02:13:08,462 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 02:13:08,462 [INFO]   Fetched 0 total markets
+2026-03-26 02:13:08,462 [INFO]   0 crypto/finance markets found
+2026-03-26 02:13:08,463 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 02:13:08,463 [INFO]   → 0 markets flagged
+2026-03-26 02:13:08,463 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 02:13:08,463 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 02:43:08,613 [INFO] === Cycle start | mode=dry | 2026-03-26T01:43:08.613244 ===
+2026-03-26 02:43:08,619 [INFO] Agent 1: Scanning markets...
+2026-03-26 02:43:08,620 [INFO] Fetching Polymarket markets...
+2026-03-26 02:43:08,630 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 02:43:08,630 [INFO]   Fetched 0 total markets
+2026-03-26 02:43:08,630 [INFO]   0 crypto/finance markets found
+2026-03-26 02:43:08,630 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 02:43:08,630 [INFO]   → 0 markets flagged
+2026-03-26 02:43:08,630 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 02:43:08,630 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 03:13:08,835 [INFO] === Cycle start | mode=dry | 2026-03-26T02:13:08.835120 ===
+2026-03-26 03:13:08,840 [INFO] Agent 1: Scanning markets...
+2026-03-26 03:13:08,840 [INFO] Fetching Polymarket markets...
+2026-03-26 03:13:08,848 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 03:13:08,848 [INFO]   Fetched 0 total markets
+2026-03-26 03:13:08,848 [INFO]   0 crypto/finance markets found
+2026-03-26 03:13:08,848 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 03:13:08,848 [INFO]   → 0 markets flagged
+2026-03-26 03:13:08,848 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 03:13:08,848 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 03:43:08,895 [INFO] === Cycle start | mode=dry | 2026-03-26T02:43:08.894112 ===
+2026-03-26 03:43:08,899 [INFO] Agent 1: Scanning markets...
+2026-03-26 03:43:08,899 [INFO] Fetching Polymarket markets...
+2026-03-26 03:43:08,909 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 03:43:08,910 [INFO]   Fetched 0 total markets
+2026-03-26 03:43:08,910 [INFO]   0 crypto/finance markets found
+2026-03-26 03:43:08,910 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 03:43:08,910 [INFO]   → 0 markets flagged
+2026-03-26 03:43:08,910 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 03:43:08,910 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 04:13:09,149 [INFO] === Cycle start | mode=dry | 2026-03-26T03:13:09.149031 ===
+2026-03-26 04:13:09,154 [INFO] Agent 1: Scanning markets...
+2026-03-26 04:13:09,154 [INFO] Fetching Polymarket markets...
+2026-03-26 04:13:09,163 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 04:13:09,163 [INFO]   Fetched 0 total markets
+2026-03-26 04:13:09,163 [INFO]   0 crypto/finance markets found
+2026-03-26 04:13:09,163 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 04:13:09,163 [INFO]   → 0 markets flagged
+2026-03-26 04:13:09,163 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 04:13:09,164 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 04:43:09,230 [INFO] === Cycle start | mode=dry | 2026-03-26T03:43:09.228241 ===
+2026-03-26 04:43:09,240 [INFO] Agent 1: Scanning markets...
+2026-03-26 04:43:09,240 [INFO] Fetching Polymarket markets...
+2026-03-26 04:43:09,249 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 04:43:09,249 [INFO]   Fetched 0 total markets
+2026-03-26 04:43:09,249 [INFO]   0 crypto/finance markets found
+2026-03-26 04:43:09,249 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 04:43:09,250 [INFO]   → 0 markets flagged
+2026-03-26 04:43:09,250 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 04:43:09,250 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 05:13:09,436 [INFO] === Cycle start | mode=dry | 2026-03-26T04:13:09.436012 ===
+2026-03-26 05:13:09,441 [INFO] Agent 1: Scanning markets...
+2026-03-26 05:13:09,442 [INFO] Fetching Polymarket markets...
+2026-03-26 05:13:09,449 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 05:13:09,449 [INFO]   Fetched 0 total markets
+2026-03-26 05:13:09,449 [INFO]   0 crypto/finance markets found
+2026-03-26 05:13:09,450 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 05:13:09,450 [INFO]   → 0 markets flagged
+2026-03-26 05:13:09,450 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 05:13:09,450 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 05:43:09,660 [INFO] === Cycle start | mode=dry | 2026-03-26T04:43:09.659711 ===
+2026-03-26 05:43:09,667 [INFO] Agent 1: Scanning markets...
+2026-03-26 05:43:09,667 [INFO] Fetching Polymarket markets...
+2026-03-26 05:43:09,675 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 05:43:09,676 [INFO]   Fetched 0 total markets
+2026-03-26 05:43:09,676 [INFO]   0 crypto/finance markets found
+2026-03-26 05:43:09,676 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 05:43:09,676 [INFO]   → 0 markets flagged
+2026-03-26 05:43:09,676 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 05:43:09,676 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 06:13:09,896 [INFO] === Cycle start | mode=dry | 2026-03-26T05:13:09.896032 ===
+2026-03-26 06:13:09,900 [INFO] Agent 1: Scanning markets...
+2026-03-26 06:13:09,900 [INFO] Fetching Polymarket markets...
+2026-03-26 06:13:09,908 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 06:13:09,908 [INFO]   Fetched 0 total markets
+2026-03-26 06:13:09,908 [INFO]   0 crypto/finance markets found
+2026-03-26 06:13:09,908 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 06:13:09,908 [INFO]   → 0 markets flagged
+2026-03-26 06:13:09,908 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 06:13:09,908 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 06:43:10,115 [INFO] === Cycle start | mode=dry | 2026-03-26T05:43:10.114224 ===
+2026-03-26 06:43:10,119 [INFO] Agent 1: Scanning markets...
+2026-03-26 06:43:10,119 [INFO] Fetching Polymarket markets...
+2026-03-26 06:43:10,129 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 06:43:10,129 [INFO]   Fetched 0 total markets
+2026-03-26 06:43:10,129 [INFO]   0 crypto/finance markets found
+2026-03-26 06:43:10,129 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 06:43:10,129 [INFO]   → 0 markets flagged
+2026-03-26 06:43:10,130 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 06:43:10,130 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 07:13:10,351 [INFO] === Cycle start | mode=dry | 2026-03-26T06:13:10.350752 ===
+2026-03-26 07:13:10,358 [INFO] Agent 1: Scanning markets...
+2026-03-26 07:13:10,358 [INFO] Fetching Polymarket markets...
+2026-03-26 07:13:10,366 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 07:13:10,366 [INFO]   Fetched 0 total markets
+2026-03-26 07:13:10,367 [INFO]   0 crypto/finance markets found
+2026-03-26 07:13:10,367 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 07:13:10,367 [INFO]   → 0 markets flagged
+2026-03-26 07:13:10,367 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 07:13:10,367 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 07:43:10,566 [INFO] === Cycle start | mode=dry | 2026-03-26T06:43:10.566095 ===
+2026-03-26 07:43:10,571 [INFO] Agent 1: Scanning markets...
+2026-03-26 07:43:10,572 [INFO] Fetching Polymarket markets...
+2026-03-26 07:43:10,579 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 07:43:10,579 [INFO]   Fetched 0 total markets
+2026-03-26 07:43:10,579 [INFO]   0 crypto/finance markets found
+2026-03-26 07:43:10,579 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 07:43:10,579 [INFO]   → 0 markets flagged
+2026-03-26 07:43:10,579 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 07:43:10,579 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 08:13:10,825 [INFO] === Cycle start | mode=dry | 2026-03-26T07:13:10.824708 ===
+2026-03-26 08:13:10,829 [INFO] Agent 1: Scanning markets...
+2026-03-26 08:13:10,829 [INFO] Fetching Polymarket markets...
+2026-03-26 08:13:10,837 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 08:13:10,838 [INFO]   Fetched 0 total markets
+2026-03-26 08:13:10,838 [INFO]   0 crypto/finance markets found
+2026-03-26 08:13:10,838 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 08:13:10,838 [INFO]   → 0 markets flagged
+2026-03-26 08:13:10,838 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 08:13:10,838 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 08:43:11,042 [INFO] === Cycle start | mode=dry | 2026-03-26T07:43:11.042220 ===
+2026-03-26 08:43:11,047 [INFO] Agent 1: Scanning markets...
+2026-03-26 08:43:11,047 [INFO] Fetching Polymarket markets...
+2026-03-26 08:43:11,054 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 08:43:11,055 [INFO]   Fetched 0 total markets
+2026-03-26 08:43:11,055 [INFO]   0 crypto/finance markets found
+2026-03-26 08:43:11,055 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 08:43:11,055 [INFO]   → 0 markets flagged
+2026-03-26 08:43:11,055 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 08:43:11,055 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 09:13:11,171 [INFO] === Cycle start | mode=dry | 2026-03-26T08:13:11.170345 ===
+2026-03-26 09:13:11,173 [INFO] Agent 1: Scanning markets...
+2026-03-26 09:13:11,173 [INFO] Fetching Polymarket markets...
+2026-03-26 09:13:11,181 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 09:13:11,181 [INFO]   Fetched 0 total markets
+2026-03-26 09:13:11,181 [INFO]   0 crypto/finance markets found
+2026-03-26 09:13:11,181 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 09:13:11,181 [INFO]   → 0 markets flagged
+2026-03-26 09:13:11,181 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 09:13:11,181 [INFO] Sleeping 1800s until next cycle...
