@@ -1,13 +1,13 @@
 ======================================================
   PSYCO CAPITAL — DAILY BOT SUMMARY
-  Date: 2026-03-26  |  Generated: 08:00 CET
+  Date: 2026-03-27  |  Generated: 08:00 CET
 ======================================================
 
 BOT STATUS:
-  Running  (PID 35572)
+  Not registered with launchd
 
 MARKETS SCANNED TODAY:
-  Cycles completed: 16
+  Cycles completed: 0
   Total flagged for research: 0
 
 PAPER TRADES TODAY (mode=dry):
@@ -25,22 +25,13 @@ API COSTS:
   All-time:  $2.3490
 
 ERRORS TODAY:
-  2026-03-26 03:13:08,848 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
-  2026-03-26 03:43:08,909 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
-  2026-03-26 04:13:09,163 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
-  2026-03-26 04:43:09,249 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
-  2026-03-26 05:13:09,449 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
-  2026-03-26 05:43:09,675 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
-  2026-03-26 06:13:09,908 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
-  2026-03-26 06:43:10,129 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
-  2026-03-26 07:13:10,366 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
-  2026-03-26 07:43:10,579 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+  No errors today
 
 LAST 5 LOG LINES:
-  2026-03-26 07:43:10,579 [INFO]   0 crypto/finance markets found
-  2026-03-26 07:43:10,579 [INFO]   Scanner flagged 0 markets for research
-  2026-03-26 07:43:10,579 [INFO]   → 0 markets flagged
-  2026-03-26 07:43:10,579 [INFO] No markets flagged. Sleeping until next cycle.
-  2026-03-26 07:43:10,579 [INFO] Sleeping 1800s until next cycle...
+  2026-03-26 12:43:12,485 [INFO]   0 crypto/finance markets found
+  2026-03-26 12:43:12,485 [INFO]   Scanner flagged 0 markets for research
+  2026-03-26 12:43:12,485 [INFO]   → 0 markets flagged
+  2026-03-26 12:43:12,485 [INFO] No markets flagged. Sleeping until next cycle.
+  2026-03-26 12:43:12,485 [INFO] Sleeping 1800s until next cycle...
 
 ======================================================

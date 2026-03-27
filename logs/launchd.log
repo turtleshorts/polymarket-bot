@@ -4777,3 +4777,73 @@ ModuleNotFoundError: No module named 'scripts'
 2026-03-26 09:13:11,181 [INFO]   → 0 markets flagged
 2026-03-26 09:13:11,181 [INFO] No markets flagged. Sleeping until next cycle.
 2026-03-26 09:13:11,181 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 09:43:11,361 [INFO] === Cycle start | mode=dry | 2026-03-26T08:43:11.360823 ===
+2026-03-26 09:43:11,395 [INFO] Agent 1: Scanning markets...
+2026-03-26 09:43:11,395 [INFO] Fetching Polymarket markets...
+2026-03-26 09:43:11,400 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 09:43:11,400 [INFO]   Fetched 0 total markets
+2026-03-26 09:43:11,400 [INFO]   0 crypto/finance markets found
+2026-03-26 09:43:11,400 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 09:43:11,400 [INFO]   → 0 markets flagged
+2026-03-26 09:43:11,400 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 09:43:11,400 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 10:13:11,593 [INFO] === Cycle start | mode=dry | 2026-03-26T09:13:11.593773 ===
+2026-03-26 10:13:11,596 [INFO] Agent 1: Scanning markets...
+2026-03-26 10:13:11,596 [INFO] Fetching Polymarket markets...
+2026-03-26 10:13:11,600 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 10:13:11,600 [INFO]   Fetched 0 total markets
+2026-03-26 10:13:11,600 [INFO]   0 crypto/finance markets found
+2026-03-26 10:13:11,600 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 10:13:11,600 [INFO]   → 0 markets flagged
+2026-03-26 10:13:11,600 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 10:13:11,600 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 10:43:11,778 [INFO] === Cycle start | mode=dry | 2026-03-26T09:43:11.778508 ===
+2026-03-26 10:43:11,781 [INFO] Agent 1: Scanning markets...
+2026-03-26 10:43:11,781 [INFO] Fetching Polymarket markets...
+2026-03-26 10:43:11,788 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 10:43:11,788 [INFO]   Fetched 0 total markets
+2026-03-26 10:43:11,788 [INFO]   0 crypto/finance markets found
+2026-03-26 10:43:11,788 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 10:43:11,788 [INFO]   → 0 markets flagged
+2026-03-26 10:43:11,788 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 10:43:11,788 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 11:13:11,992 [INFO] === Cycle start | mode=dry | 2026-03-26T10:13:11.991719 ===
+2026-03-26 11:13:11,996 [INFO] Agent 1: Scanning markets...
+2026-03-26 11:13:11,996 [INFO] Fetching Polymarket markets...
+2026-03-26 11:13:12,006 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 11:13:12,006 [INFO]   Fetched 0 total markets
+2026-03-26 11:13:12,006 [INFO]   0 crypto/finance markets found
+2026-03-26 11:13:12,006 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 11:13:12,006 [INFO]   → 0 markets flagged
+2026-03-26 11:13:12,006 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 11:13:12,006 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 11:43:12,147 [INFO] === Cycle start | mode=dry | 2026-03-26T10:43:12.146774 ===
+2026-03-26 11:43:12,150 [INFO] Agent 1: Scanning markets...
+2026-03-26 11:43:12,151 [INFO] Fetching Polymarket markets...
+2026-03-26 11:43:12,165 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 11:43:12,165 [INFO]   Fetched 0 total markets
+2026-03-26 11:43:12,165 [INFO]   0 crypto/finance markets found
+2026-03-26 11:43:12,165 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 11:43:12,165 [INFO]   → 0 markets flagged
+2026-03-26 11:43:12,165 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 11:43:12,165 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 12:13:12,319 [INFO] === Cycle start | mode=dry | 2026-03-26T11:13:12.318647 ===
+2026-03-26 12:13:12,323 [INFO] Agent 1: Scanning markets...
+2026-03-26 12:13:12,323 [INFO] Fetching Polymarket markets...
+2026-03-26 12:13:12,331 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 12:13:12,332 [INFO]   Fetched 0 total markets
+2026-03-26 12:13:12,332 [INFO]   0 crypto/finance markets found
+2026-03-26 12:13:12,332 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 12:13:12,332 [INFO]   → 0 markets flagged
+2026-03-26 12:13:12,332 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 12:13:12,332 [INFO] Sleeping 1800s until next cycle...
+2026-03-26 12:43:12,471 [INFO] === Cycle start | mode=dry | 2026-03-26T11:43:12.470355 ===
+2026-03-26 12:43:12,475 [INFO] Agent 1: Scanning markets...
+2026-03-26 12:43:12,476 [INFO] Fetching Polymarket markets...
+2026-03-26 12:43:12,484 [ERROR] Failed to fetch markets: HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?active=true&closed=false&limit=300 (Caused by NameResolutionError("HTTPSConnection(host='gamma-api.polymarket.com', port=443): Failed to resolve 'gamma-api.polymarket.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-03-26 12:43:12,484 [INFO]   Fetched 0 total markets
+2026-03-26 12:43:12,485 [INFO]   0 crypto/finance markets found
+2026-03-26 12:43:12,485 [INFO]   Scanner flagged 0 markets for research
+2026-03-26 12:43:12,485 [INFO]   → 0 markets flagged
+2026-03-26 12:43:12,485 [INFO] No markets flagged. Sleeping until next cycle.
+2026-03-26 12:43:12,485 [INFO] Sleeping 1800s until next cycle...
