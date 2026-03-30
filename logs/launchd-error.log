@@ -18,3 +18,25 @@
   log.info(f"=== Cycle start | mode={mode} | {datetime.utcnow().isoformat()} ===")
 /Users/elysmith/polymarket-trader/scripts/run_bot.py:78: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   log.info(f"=== Cycle start | mode={mode} | {datetime.utcnow().isoformat()} ===")
+/Users/elysmith/polymarket-trader/scripts/run_bot.py:78: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  log.info(f"=== Cycle start | mode={mode} | {datetime.utcnow().isoformat()} ===")
+/Users/elysmith/polymarket-trader/scripts/run_bot.py:78: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  log.info(f"=== Cycle start | mode={mode} | {datetime.utcnow().isoformat()} ===")
+/Users/elysmith/polymarket-trader/scripts/run_bot.py:78: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  log.info(f"=== Cycle start | mode={mode} | {datetime.utcnow().isoformat()} ===")
+/Users/elysmith/polymarket-trader/scripts/run_bot.py:78: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  log.info(f"=== Cycle start | mode={mode} | {datetime.utcnow().isoformat()} ===")
+/Users/elysmith/polymarket-trader/scripts/run_bot.py:78: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  log.info(f"=== Cycle start | mode={mode} | {datetime.utcnow().isoformat()} ===")
+/Users/elysmith/polymarket-trader/scripts/run_bot.py:78: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  log.info(f"=== Cycle start | mode={mode} | {datetime.utcnow().isoformat()} ===")
+/Users/elysmith/polymarket-trader/scripts/run_bot.py:78: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  log.info(f"=== Cycle start | mode={mode} | {datetime.utcnow().isoformat()} ===")
+/Users/elysmith/polymarket-trader/scripts/run_bot.py:78: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  log.info(f"=== Cycle start | mode={mode} | {datetime.utcnow().isoformat()} ===")
+/Users/elysmith/polymarket-trader/scripts/run_bot.py:78: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  log.info(f"=== Cycle start | mode={mode} | {datetime.utcnow().isoformat()} ===")
+/Users/elysmith/polymarket-trader/scripts/run_bot.py:78: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  log.info(f"=== Cycle start | mode={mode} | {datetime.utcnow().isoformat()} ===")
+/Users/elysmith/polymarket-trader/scripts/run_bot.py:78: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  log.info(f"=== Cycle start | mode={mode} | {datetime.utcnow().isoformat()} ===")

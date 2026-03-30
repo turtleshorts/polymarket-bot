@@ -1,14 +1,14 @@
 ======================================================
   PSYCO CAPITAL — DAILY BOT SUMMARY
-  Date: 2026-03-29  |  Generated: 08:00 CEST
+  Date: 2026-03-30  |  Generated: 08:00 CEST
 ======================================================
 
 BOT STATUS:
   Not registered with launchd
 
 MARKETS SCANNED TODAY:
-  Cycles completed: 0
-  Total flagged for research: 0
+  Cycles completed: 16
+  Total flagged for research: 80
 
 PAPER TRADES TODAY (mode=dry):
   No paper trades placed today
@@ -21,17 +21,17 @@ SIMULATED P&L (all-time, paper trades):
   No settled trades yet — bot is still in early scanning phase
 
 API COSTS:
-  Today:     $0.0000  (daily limit $50.00)
-  All-time:  $2.3490
+  Today:     $0.0300  (daily limit $50.00)
+  All-time:  $2.4760
 
 ERRORS TODAY:
   No errors today
 
 LAST 5 LOG LINES:
-  2026-03-26 12:43:12,485 [INFO]   0 crypto/finance markets found
-  2026-03-26 12:43:12,485 [INFO]   Scanner flagged 0 markets for research
-  2026-03-26 12:43:12,485 [INFO]   → 0 markets flagged
-  2026-03-26 12:43:12,485 [INFO] No markets flagged. Sleeping until next cycle.
-  2026-03-26 12:43:12,485 [INFO] Sleeping 1800s until next cycle...
+  2026-03-30 07:35:23,917 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+  2026-03-30 07:35:23,936 [INFO]   [FAIL] Will bitcoin hit $1m before GTA VI? | edge=0.90% conf=55% models=1
+  2026-03-30 07:35:23,936 [INFO]   → 0/5 markets passed confidence threshold
+  2026-03-30 07:35:23,936 [INFO] No markets passed calibration. Done for this cycle.
+  2026-03-30 07:35:23,936 [INFO] Sleeping 1800s until next cycle...
 
 ======================================================
