@@ -1,14 +1,14 @@
 ======================================================
   PSYCO CAPITAL — DAILY BOT SUMMARY
-  Date: 2026-03-31  |  Generated: 08:00 CEST
+  Date: 2026-04-01  |  Generated: 08:00 CEST
 ======================================================
 
 BOT STATUS:
-  Not registered with launchd
+  Running  (PID 954)
 
 MARKETS SCANNED TODAY:
-  Cycles completed: 16
-  Total flagged for research: 80
+  Cycles completed: 15
+  Total flagged for research: 75
 
 PAPER TRADES TODAY (mode=dry):
   No paper trades placed today
@@ -21,17 +21,18 @@ SIMULATED P&L (all-time, paper trades):
   No settled trades yet — bot is still in early scanning phase
 
 API COSTS:
-  Today:     $0.0300  (daily limit $50.00)
-  All-time:  $2.5960
+  Today:     $0.0270  (daily limit $50.00)
+  All-time:  $2.7130
 
 ERRORS TODAY:
-  No errors today
+  2026-04-01 03:30:09,058 [ERROR] Claude call failed: Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}, 'request_id': 'req_011CZcBjAkeQXHAqzmb75fyi'}
+  2026-04-01 03:30:09,058 [ERROR] No model votes received
 
 LAST 5 LOG LINES:
-  2026-03-31 07:46:53,235 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-  2026-03-31 07:46:53,253 [INFO]   [FAIL] Will bitcoin hit $1m before GTA VI? | edge=-1.30% conf=35% models=1
-  2026-03-31 07:46:53,253 [INFO]   → 0/5 markets passed confidence threshold
-  2026-03-31 07:46:53,253 [INFO] No markets passed calibration. Done for this cycle.
-  2026-03-31 07:46:53,253 [INFO] Sleeping 1800s until next cycle...
+  2026-04-01 07:37:13,743 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+  2026-04-01 07:37:13,759 [INFO]   [FAIL] Will bitcoin hit $1m before GTA VI? | edge=3.30% conf=58% models=1
+  2026-04-01 07:37:13,759 [INFO]   → 0/5 markets passed confidence threshold
+  2026-04-01 07:37:13,759 [INFO] No markets passed calibration. Done for this cycle.
+  2026-04-01 07:37:13,759 [INFO] Sleeping 1800s until next cycle...
 
 ======================================================
