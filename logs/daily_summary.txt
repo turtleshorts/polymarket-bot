@@ -1,14 +1,14 @@
 ======================================================
   PSYCO CAPITAL — DAILY BOT SUMMARY
-  Date: 2026-04-02  |  Generated: 08:00 CEST
+  Date: 2026-04-03  |  Generated: 08:00 CEST
 ======================================================
 
 BOT STATUS:
   Running  (PID 954)
 
 MARKETS SCANNED TODAY:
-  Cycles completed: 16
-  Total flagged for research: 80
+  Cycles completed: 15
+  Total flagged for research: 75
 
 PAPER TRADES TODAY (mode=dry):
   No paper trades placed today
@@ -21,17 +21,17 @@ SIMULATED P&L (all-time, paper trades):
   No settled trades yet — bot is still in early scanning phase
 
 API COSTS:
-  Today:     $0.0300  (daily limit $50.00)
-  All-time:  $2.8330
+  Today:     $0.0275  (daily limit $50.00)
+  All-time:  $2.9505
 
 ERRORS TODAY:
   No errors today
 
 LAST 5 LOG LINES:
-  2026-04-02 07:48:49,698 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-  2026-04-02 07:48:49,700 [INFO]   [FAIL] SCOTUS accepts sports event contract case by July  | edge=0.00% conf=85% models=1
-  2026-04-02 07:48:49,701 [INFO]   → 0/5 markets passed confidence threshold
-  2026-04-02 07:48:49,701 [INFO] No markets passed calibration. Done for this cycle.
-  2026-04-02 07:48:49,701 [INFO] Sleeping 1800s until next cycle...
+  2026-04-03 07:30:39,158 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+  2026-04-03 07:30:39,168 [INFO]   [FAIL] Will Jesus Christ return before GTA VI? | edge=0.00% conf=35% models=1
+  2026-04-03 07:30:39,168 [INFO]   → 0/5 markets passed confidence threshold
+  2026-04-03 07:30:39,168 [INFO] No markets passed calibration. Done for this cycle.
+  2026-04-03 07:30:39,169 [INFO] Sleeping 1800s until next cycle...
 
 ======================================================
