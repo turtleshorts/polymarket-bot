@@ -2,12 +2,13 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
-subject = "\U0001f6a8 Psyco Capital Bot \u2014 NEEDS ATTENTION 2026-04-08"
+subject = "\U0001f6a8 Psyco Capital Bot \u2014 NEEDS ATTENTION 2026-04-09"
 
 body = (
     "BOT STATUS: \U0001f534 Stopped\n"
-    "Last activity: 2026-04-04 09:13 CEST (4 days ago). "
-    "Bot entered a 30-min sleep and never resumed. Restart required.\n"
+    "Last activity: 2026-04-04 09:13 UTC (5 days ago). "
+    "Final log line is 'Done for this cycle' with no subsequent Sleeping line \u2014 "
+    "bot crashed at cycle end. Restart required.\n"
     "\n"
     "TODAY'S ACTIVITY\n"
     "\u2022 Cycles run: 0 (bot stopped)\n"
@@ -26,21 +27,23 @@ body = (
     "    \u2013 NO: Will bitcoin hit $1m before GTA VI? ($29.71)\n"
     "\n"
     "ERRORS & ISSUES\n"
-    "\u2022 \U0001f534 CRITICAL: Bot has been down 4 days. "
-    "Last log: '2026-04-04 09:13 Sleeping 1800s' \u2014 never woke up. Restart now.\n"
-    "\u2022 \u26a0\ufe0f CryptoPanic API key not set in .env (using placeholder) \u2014 "
+    "\u2022 \U0001f534 CRITICAL: Bot has been down 5 days. "
+    "Last log entry 2026-04-04 09:13 UTC ends without a 'Sleeping' line \u2014 "
+    "bot crashed at the end of a cycle. Restart now.\n"
+    "\u2022 \u26a0\ufe0f Scanner regression: now finding only ~10 crypto/finance markets out of "
+    "500 fetched (was scanning all 300 broadly). Stuck recycling the same 5 stale "
+    "GTA-VI-themed markets (Jesus return, Bitcoin $1M, Rihanna album, Playboi Carti, SCOTUS) "
+    "every cycle \u2014 none pass confidence+edge thresholds. No new trades since 2026-03-25 (15 days).\n"
+    "\u2022 \u26a0\ufe0f CryptoPanic API key not set in .env (placeholder value) \u2014 "
     "persistent 404/429 warnings every cycle. Non-breaking but add a real key to fix.\n"
-    "\u2022 \u26a0\ufe0f Scanner stuck in a loop of the same 5 stale GTA-VI-themed markets "
-    "(Jesus return, Bitcoin $1M, Rihanna album, Playboi Carti, SCOTUS). "
-    "None pass confidence+edge thresholds. No new trades since 2026-03-25 (13 days).\n"
     "\n"
     "STRATEGIC UPDATE\n"
-    "Still Phase 1 (0/50 settled trades). Two things need fixing: "
-    "(1) Restart the bot \u2014 it\u2019s been dead 4 days. "
-    "(2) The scanner is too narrow (crypto/finance filter is surfacing only ~10 markets from 500 "
-    "and recycling the same 5 stale ones). Consider broadening scanner filters or lowering "
-    "confidence_threshold from 0.60 to 0.55 to start accumulating settled trade data. "
-    "The hard cap is already correctly set at $30."
+    "Still Phase 1 (0/50 settled trades). Three things need fixing after restart: "
+    "(1) Restart the bot \u2014 crashed 5 days ago. "
+    "(2) The scanner filter changed and is now too narrow \u2014 only 10 markets flagged per "
+    "500 fetched, all low-confidence novelty bets. Broaden the scanner category filters "
+    "back to the original behaviour or lower confidence_threshold from 0.60 to 0.55. "
+    "(3) The hard cap is already correctly set at $30 \u2014 no change needed there."
 )
 
 msg = MIMEMultipart()
